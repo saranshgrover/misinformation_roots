@@ -1,0 +1,2356 @@
+index,veracity,title
+100000,false,"""Spraying chlorine or alcohol on the skin kills viruses in the body"""
+100001,false,"""Only older adults and young people are at risk"""
+100002,false,"""Children cannot get COVID-19"""
+100003,false,"""COVID-19 is just like the flu"""
+100004,false,"""Everyone with COVID-19 dies"""
+100005,false,"""Cats and dogs spread coronavirus"""
+100006,false,"""Face masks always protect against coronavirus"""
+100007,false,"""Hand dryers kill coronavirus"""
+100008,false,"""SARS-CoV-2 is just a mutated form of the common cold"""
+100009,false,"""You have to be with someone for 10 minutes to catch the virus"""
+100010,false,"""Rinsing the nose with saline protects against coronavirus"""
+100011,false,"""You can protect yourself by gargling bleach"""
+100012,false,"""Antibiotics kill coronavirus"""
+100013,false,"""Thermal scanners can diagnose coronavirus"""
+100014,false,"""Garlic protects against coronaviruses"""
+100015,false,"""Parcels from China can spread coronavirus"""
+100016,false,"""Home remedies can cure and protect against COVID-19"""
+100017,false,"""You can catch coronavirus from eating Chinese food in the US"""
+100018,false,"""You can catch coronavirus from urine and feces"""
+100019,false,"""The virus will die off when temperatures rise in the spring"""
+100020,false,"""Coronavirus is the deadliest virus known to humans"""
+100021,false,"""Flu and pneumonia vaccines can protect against COVID-19"""
+100022,false,"""The virus originated in a laboratory in China"""
+100023,false,"""The outbreak began because people ate bat soup"""
+100024,false,"""5G helps SARS-CoV-2 spread"""
+100025,false,"""Drinking alcohol reduces the risk of infection"""
+100026,false,"""Injecting or consuming bleach or disinfectant kills the virus"""
+100000,true,"""How large does a meeting or event need to be in order to be a “mass gathering”?"""
+100001,true,"""Does WHO recommend that all international mass gatherings be cancelled because of COVID-19?"""
+100002,true,"""What factors should organizers and health authorities look at when assessing whether the risks are acceptable or not?"""
+100003,true,"""What if my organization does not have the expertise to assess the risks COVID-19 poses for our planned mass gathering?"""
+100004,true,"""If we go ahead with an international mass gathering, what can we do to reduce the risk of participants catching COVID-19?"""
+100005,true,"""Where can I find more advice on assessing and managing health risks around international mass gatherings?"""
+100006,true,"""What should be the criteria for excluding an athlete or other accredited participant from competing?"""
+100007,true,"""Should event organizers arrange screening at venues beyond national government requirements for point of entry (PoE)?"""
+100008,true,"""Should event organizers provide COVID-19 testing?"""
+100009,true,"""Are there additional safeguards event organizers can implement or recommend to athletes/officials/visitors in the context of COVID-19?"""
+100010,true,"""What are the risks arising from public transport to the venue(s)?"""
+100011,true,"""What is a coronavirus?"""
+100012,true,"""What is COVID-19?"""
+100013,true,"""What are the symptoms of COVID-19?"""
+100014,true,"""How does COVID-19 spread?"""
+100015,true,"""Can the virus that causes COVID-19 be transmitted through the air?"""
+100016,true,"""Can CoVID-19 be caught from a person who has no symptoms?"""
+100017,true,"""Can I catch COVID-19 from the feces of someone with the disease?"""
+100018,true,"""What can I do to protect myself and prevent the spread of disease?"""
+100019,true,"""How likely am I to catch COVID-19?"""
+100020,true,"""Should I worry about COVID-19?"""
+100021,true,"""Who is at risk of developing severe illness?"""
+100022,true,"""Are antibiotics effective in preventing or treating the COVID-19?"""
+100023,true,"""Are there any medicines or therapies that can prevent or cure COVID-19?"""
+100024,true,"""Is there a vaccine, drug or treatment for COVID-19?"""
+100025,true,"""Is COVID-19 the same as SARS?"""
+100026,true,"""Should I wear a mask to protect myself?"""
+100027,true,"""How to put on, use, take off and dispose of a mask?"""
+100028,true,"""How long is the incubation period for COVID-19?"""
+100029,true,"""Can humans become infected with the COVID-19 from an animal source?"""
+100030,true,"""Can I catch COVID-19 from my pet?"""
+100031,true,"""How long does the virus survive on surfaces?"""
+100032,true,"""Is it safe to receive a package from any area where COVID-19 has been reported?"""
+100033,true,"""Is there anything I should not do?"""
+100034,true,"""Is the source of the coronavirus causing COVID-19 known?"""
+100035,true,"""How did the first human SARS-CoV-2 infections occur?"""
+100036,true,"""Can COVID-19 be spread through coins and banknotes?"""
+100037,true,"""How can I grocery shop safely in the time of COVID-19?"""
+100038,true,"""How to wash fruits and vegetables in the time of COVID-19?"""
+100039,true,"""Is COVID-19 airborne?"""
+100040,true,"""Is contraception/ family planning safe to use during the COVID-19 pandemic?"""
+100041,true,"""I want to avoid getting pregnant during the COVID-19 pandemic. What can I do?"""
+100042,true,"""I can’t access my contraceptive method of choice. What do you advise?"""
+100043,true,"""What is the best contraceptive method to use during the COVID-19 pandemic?"""
+100044,true,"""I want to change my contraceptive method – is this possible?"""
+100045,true,"""I want to remove or replace my implant or IUD – can I do this during COVID-19 pandemic?"""
+100046,true,"""Why is providing contraception/ family planning, as well as family planning services and information, important during the COVID-19 pandemic?"""
+100047,true,"""I am a policy maker. What can I do to make sure people can access contraception and family planning information and services?"""
+100048,true,"""I am a programme manager. What can I do to help people access contraception and family planning information and services?"""
+100049,true,"""How can you clean soiled bedding, towels and linens from patients with COVID-19?"""
+100050,true,"""What are the recommendation regarding disinfection of vehicles, goods and products coming from China or other COVID-19 affected countries?"""
+100051,true,"""What personal protective equipment (PPE) should be used by healthcare workers (HCW) performing nasopharyngeal (NP) or oropharyngeal (OP) swabs on patients with suspected or confirmed COVID-19?"""
+100052,true,"""Should blood centers routinely screen blood products for COVID-19 virus?"""
+100053,true,"""Are boots, impermeable aprons, or coverall suits required as routine personal protective equipment (PE) for healthcare workers (HCW) caring for patients with suspected or confirmed 2019-nCoV infection?"""
+100054,true,"""Can disposable medical face masks be sterilized and reused?"""
+100055,true,"""Why does WHO recommend contact and droplet precautions and not routine use of airborne precautions for healthcare workers providing care to patients with suspected/confirmed 2019-nCoV infection?"""
+100056,true,"""Does WHO recommend routine wearing masks for healthy people during the 2019 nCoV outbreak?"""
+100057,true,"""Can patients with suspected and confirmed nCoV infection be cohorted in the same room?"""
+100058,true,"""Do patients with suspected or confirmed 2019-nCoV need to be hospitalized if they have mild illness?"""
+100059,true,"""Are specialized or referral hospitals required for patients with suspected or confirmed 2019-nCoV infection when hospitalization is needed?"""
+100060,true,"""What are the disinfectants recommended for environmental cleaning in healthcare facilities or homes housing patients with suspected or confirmed 2019-nCoV infection?"""
+100061,true,"""How long the 2019-nCoV can survive on a dry surface?"""
+100062,true,"""Is there a special procedure regarding waste produced by patients with suspected or confirmed 2019-nCoV?"""
+100063,true,"""Are there special procedures for the management of bodies of persons who have died from 2019-nCoV?"""
+100064,true,"""Is there a model for setting up an isolation ward and types and products and health requirements?"""
+100065,true,"""Can chlorine solutions also be used?"""
+100066,true,"""What is physical activity?"""
+100067,true,"""Why do we need it?"""
+100068,true,"""How much physical activity is recommended?"""
+100069,true,"""So how do I stay safe while exercising in COVID-19?"""
+100070,true,"""How do I stay active in and around the home?"""
+100071,true,"""How many malaria-affected countries have reported cases of COVID-19?"""
+100072,true,"""Should core malaria vector control interventions be maintained in view of the rapid global spread of COVID-19?"""
+100073,true,"""Should WHO-recommended preventive therapies be maintained in sub-Saharan Africa?"""
+100074,true,"""Are there any changes to WHO guidance with respect to malaria diagnosis and treatment?"""
+100075,true,"""What additional special measures may be needed in the context of COVID-19?"""
+100076,true,"""Why is WHO particularly concerned about the spread of COVID-19 in malaria-affected areas?"""
+100077,true,"""What are the key considerations for countries that are working to eliminate malaria or prevent re-establishment of transmission?"""
+100078,true,"""Have there been disruptions in the global supply of key malaria-related commodities as a result of the COVID-19 pandemic?"""
+100079,true,"""What is WHO doing to support malaria-affected countries in the context of COVID-19?"""
+100080,true,"""What is WHO’s position on the use of chloroquine and hydroxychloroquine in the context of the COVID-19 response?"""
+100081,true,"""Are people living with HIV at increased risk of being infected with the virus that causes COVID-19?"""
+100082,true,"""Can antiretrovirals be used to treat COVID-19?"""
+100083,true,"""Can antiretrovirals be used to prevent COVID-19 infection?"""
+100084,true,"""What studies on treatment and prevention of COVID-19 with antiretrovirals are being planned?"""
+100085,true,"""What is WHO’s position on the use of antiretrovirals for the treatment of COVID-19?"""
+100086,true,"""What is WHO’s position on use of corticosteroids for the treatment of COVID-19?"""
+100087,true,"""If countries use antiretrovirals for COVID-19, are there concerns about treatment shortages for people living with HIV?"""
+100088,true,"""How do we ensure human rights and reduce stigma and discrimination?"""
+100089,true,"""How can programmes assure continued access to HIV services?"""
+100090,true,"""What is the role multi-month prescriptions and dispensing for antiretrovirals and other medicines?"""
+100091,true,"""Can pregnant or postpartum women living with HIV transmit the COVID-19 virus to their unborn child or infant?"""
+100092,true,"""Should pregnant and breastfeeding women living with HIV with COVID-19 and their newborns be managed differently?"""
+100093,true,"""Are pregnant women at higher risk from COVID-19?"""
+100094,true,"""I’m pregnant. How can I protect myself against COVID-19?"""
+100095,true,"""Should pregnant women be tested for COVID-19?"""
+100096,true,"""Can COVID-19 be passed from a woman to her unborn or newborn baby?"""
+100097,true,"""What care should be available during pregnancy and childbirth?"""
+100098,true,"""Do pregnant women with suspected or confirmed COVID-19 need to give birth by caesarean section?"""
+100099,true,"""Can women with COVID-19 breastfeed?"""
+100100,true,"""Can I touch and hold my newborn baby if I have COVID-19?"""
+100101,true,"""I have COVID-19 and am too unwell to breastfeed my baby directly. What can I do?"""
+100102,true,"""How are COVID-19 and influenza viruses similar?"""
+100103,true,"""How are COVID-19 and influenza viruses different?"""
+100104,true,"""What medical interventions are available for COVID-19 and influenza viruses?"""
+100105,true,"""How should I wash fruit and vegetables in the time of #COVID19?"""
+100106,true,"""How can I grocery shop safely in the time of #COVID19?"""
+100107,true,"""Can #COVID19 be spread through coins and banknotes?"""
+100108,true,"""What can I do to protect myself from #coronavirus?"""
+100109,true,"""Could #ibuprofen worsen disease for people with #COVID19?"""
+100110,true,"""Is wearing rubber gloves while out in the public effective in preventing the new coronavirus infection?"""
+100111,true,"""How should I greet another person to avoid catching the new #coronavirus?"""
+100112,true,"""Should I avoid shaking hands because of the new #coronavirus?"""
+100113,true,"""How are #COVID19 & influenza viruses different?"""
+100114,true,"""How are #COVID19 & influenza viruses similar?"""
+100115,true,"""What can I do to protect myself from #COVID19?"""
+100116,true,"""Should I wear a #mask to protect myself from #2019nCoV?"""
+100117,true,"""How long does #2019nCoV survive on surfaces? """
+100118,true,"""Can #2019nCoV be caught from a person who presents no symptoms? """
+100119,true,"""Can the #2019nCoV be transmitted from person to person?"""
+100120,true,"""How does #2019nCoV spread? """
+100121,true,"""Who is at risk of developing severe symptoms from #2019nCoV? """
+100122,true,"""Who can catch the #2019nCoV? """
+100123,true,"""How dangerous is the #2019nCoV? """
+100124,true,"""Can regularly rinsing your nose with saline solution help prevent infection with #2019nCoV?"""
+100125,true,"""Can gargling mouthwash protect you from infection with the #2019nCoV?"""
+100126,true,"""Can eating garlic help prevent infection with #2019nCoV?"""
+100127,true,"""Is it safe to receive a letter or a package from China?"""
+100128,true,"""Do vaccines against pneumonia protect you against #2019nCoV?"""
+100129,true,"""How are people appointed to the expert advisory panel of the International Health Regulations Emergency Committee?"""
+100130,true,"""How are the members of an International Health Regulations Emergency Committee chosen?"""
+100131,true,"""Who are the members and advisers of the International Health Regulations Emergency Committee on the new #coronavirus (2019-nCoV)?"""
+100132,true,"""Who are the members of an International Health Regulations Emergency Committee?"""
+100133,true,"""How does the International Health Regulations Emergency Committee work?"""
+100134,true,"""What are the International Health Regulations?"""
+100135,true,"""Are there any specific medicines to prevent or treat the new #coronavirus (2019-nCoV)?"""
+100136,true,"""Can pets at home spread the new #coronavirus (2019-nCoV)?"""
+100137,true,"""Does the new #coronavirus (2019-nC0V) affect older people, or are younger people also susceptible?"""
+100138,true,"""Are antibiotics effective in preventing and treating the new #coronavirus (2019-nCoV)?"""
+100139,true,"""Is there a treatment for a novel #coronavirus infection?"""
+100140,true,"""What are the symptoms of #coronavirus infection?"""
+100141,true,"""What is a novel #coronavirus?"""
+100142,true,"""What is a #coronavirus?"""
+100143,true,"""There are currently no drugs licensed for the treatment or prevention of COVID-19"""
+100144,true,"""Adding pepper to your soup or other meals DOES NOT prevent or cure COVID-19"""
+100145,true,"""COVID-19 IS NOT transmitted through houseflies"""
+100146,true,"""Spraying and introducing bleach or another disinfectant into your body WILL NOT protect you against COVID-19 and can be dangerous"""
+100147,true,"""Drinking methanol, ethanol or bleach DOES NOT prevent or cure COVID-19 and can be extremely dangerous"""
+100148,true,"""5G mobile networks DO NOT spread COVID-19"""
+100149,true,"""Exposing yourself to the sun or to temperatures higher than 25C degrees DOES NOT prevent the coronavirus disease (COVID-19)"""
+100150,true,"""You can recover from the coronavirus disease (COVID-19). Catching the new coronavirus DOES NOT mean you will have it for life."""
+100151,true,"""Being able to hold your breath for 10 seconds or more without coughing or feeling discomfort DOES NOT mean you are free from the coronavirus disease (COVID-19) or any other lung disease."""
+100152,true,"""Drinking alcohol does not protect you against COVID-19 and can be dangerous"""
+100153,true,"""COVID-19 virus can be transmitted in areas with hot and humid climates"""
+100154,true,"""Cold weather and snow CANNOT kill the new coronavirus."""
+100155,true,"""Taking a hot bath does not prevent the new coronavirus disease"""
+100156,true,"""The new coronavirus CANNOT be transmitted through mosquito bites."""
+100157,true,"""Are hand dryers effective in killing the new coronavirus?"""
+100158,true,"""Ultra-violet (UV) lamps should not be used to disinfect hands or other areas of your skin"""
+100159,true,"""How effective are thermal scanners in detecting people infected with the new coronavirus?"""
+100160,true,"""Do vaccines against pneumonia protect you against the new coronavirus?"""
+100161,true,"""Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?"""
+100162,true,"""Can eating garlic help prevent infection with the new coronavirus?"""
+100163,true,"""Does the new coronavirus affect older people, or are younger people also susceptible?"""
+100164,true,"""Are antibiotics effective in preventing and treating the new coronavirus?"""
+100165,true,"""Are there any specific medicines to prevent or treat the new coronavirus?"""
+0,false,Facebook posts shared in at least three countries as scientists work to develop a COVID-19 vaccine claim to offer a legal way to refuse vaccination.
+1,false,Wisconsin is Òclearly seeing a decline in COVID infectionsÓ.
+2,false,Facebook posts claim a child who is infected with the novel coronavirus will be taken to a hospital unaccompanied.
+3,false,IndiaÕs Ministry of Home Affairs banning citizens from posting about the new coronavirus on social media.
+5,false,"42 Democratic senators, plus two Independents, voted against sending direct payments to Americans as part of the coronavirus economic stimulus package."
+6,false,The photo of a vaccine for canine coronavirus proves that a vaccine exists for the novel coronavirus that causes COVID-19.
+7,false,A picture of a reporter in protective medical gear is an example of how the American media ÒhypesÓ the COVID-19 pandemic.
+8,false,"A photo taken by a journalist showing a beach in Jacksonville, Florida, isnÕt from after the government reopened the beach as news reports have claimed."
+9,false,News photo from stay-at-home protest was doctored to add Confederate flag.
+10,false,"Says a photo shows the ÒSAME EXACT PEOPLEÓ at Òtwo different beachesÓ in Los Angeles County and Jacksonville, Florida."
+11,false,ÒMy wife is suffering from coronavirus and she is pregnant. The doctor said she wonÕt survive it.Ó
+13,false,A Democratic attack ad said Trump shipped 17 tons of medical supplies to China.
+14,false,The COVID-19 virus cannot spread in areas sprayed with eucalyptus oil vapor.
+15,false,Goodwill Industries International has fired all its employees because of the coronavirus pandemic.
+16,false,Says WisconsinÕs in-person election has caused a ÒsurgeÓ in new coronavirus cases
+17,false,Nobel laureate Luc Montagnier claimed that the coronavirus genome contained sequences of HIV (the virus that causes AIDS).
+18,false,TrumpÕs claim that ObamaÕs handling of the 2009 swine flu pandemic was a disaster.
+19,false,"""House of Representatives Speaker Nancy Pelosi posted and deleted a video on her Twitter account, in which she calls on people to visit Chinatown in San Francisco."""
+20,false,"House Speaker Nancy Pelosi delete a February 24, 2020, video of herself from Twitter in which she encouraged people to visit Chinatown in San Francisco."
+21,false,The Food and Drug Administration (FDA) authorized BodysphereÕs two-minute COVID-19 testing kit.
+22,false,"Posts shared more than 2,000 times on social media appear to show a 2009 tweet from Donald Trump criticizing then-president Barack ObamaÕs handling of the H1N1 pandemic and placing ÒALL responsibilityÓ on presidents in a crisis."
+23,false,AmazonÕs Alexa says the government released the coronavirus.
+24,false,"In the United States, there are Ò360,000 (deaths) a year from swimming pools. But we donÕt shut the country down for that.Ó"
+25,false,Hospitals compensated 15% more for COVID-19 patients under the stimulus package and New York City hospitals are inflating their coronavirus numbers.
+26,false,A video argues that the pandemic could have resulted from the accidental or intentional release of either a natural virus under study or an artificial virus that was bioengineered (manmade).
+27,false,Says Democrats are on vacation until May 4 and Òrefuse to come backÓ to sign a bill to help small businesses.
+28,false,"ÒThis is COVID-19, not COVID-1, folks. And so you would think the people charged with the World Health Organization facts and figures would be on top of that.Ó"
+29,false,Thieves are handing out chemically doused face masks to knock people out before robbing them.
+30,false,Economic stimulus payments to U.S. citizens will either reduce future tax refunds or will have to be paid back.
+31,false,"Valley County, Montana, mandated pink arm bands for residents who had submitted to quarantine protocol."
+32,false,"Gov. Andrew Cuomo Òwas simply saying if we can share 20 percent of your excess, your non-used ventilators, to help people in other parts of the state on a voluntary basis, that would be great. Of course, there was a reaction to that, which was not positive.Ó"
+33,false,TrumpÕs claims about how quickly WHO acted to announce human-to-human transmission
+34,false,Video shows an orangutan who started washing its hands after watching the zookeepers do so during the coronavirus pandemic.
+35,false,"The news media has tried to pass off one manÕs death, attributed to complications from COVID-19, as two separate cases."
+37,false,ÒMichigan Governor Gretchen Whitmer bans buying US flags during lockdown.Ó
+38,false,"ÒThe president looks like he was ahead of the curve Ð as you know, he talks about this all the time Ð on shutting down travel from China.Ó"
+39,false,Joe DiffieÕs death was labeled Òas a COVID-19 death and it wasnÕt!Ó
+40,false,Trump says that as president he has ÒtotalÓ authority to re-open states amid the COVID-19 pandemic.
+41,false,"Average American has less than two-tenths of one percent chance of getting coronavirus, and thus public health officials overreacted to the pandemic."
+42,false,"Trump claims Òit is the decision of the President,Ó not governors, to Òopen up the states.Ó"
+43,false,"The US $1,200 coronavirus relief checks this year are Òjust an advance on your next tax return. É Next year, youÕre automatically going to owe $1,200 come tax season.Ó"
+44,false,Says American NIAID director Dr. Anthony Fauci Òstands to lose 100 million dollars on Bill Gates ÔvaccineÕ for the coronavirus. Because he invested in this vaccine.Ó
+45,false,Numbers in a photo about death tolls from COVID-19 show that the pandemic is a con.
+46,false,Michigan Gov. Gretchen Whitmer banned sale of American flags during COVID-19 pandemic.
+47,false,A photo shared thousands of times on Facebook claims to show the throat of a novel coronavirus patient.
+48,false,COVID-19 stimulus checks are an advance on 2020 tax refunds.
+49,false,Dr. Anthony Fauci Òwas telling people on February 29th that there was nothing to worry about and it posed no threat to the US public at large.Ó
+50,false,Calling 1-800-382-5277 or 1-800-746-6373 gives Americans information on their coronavirus stimulus checks.
+51,false,Says Michigan COVID-19 order bans gardening and the sale of vegetable seeds and fruit.
+52,false,Mosques allowed to stay open in the US during the coronavirus epidemic while churches are forced to close.
+53,false,15 major global pandemics all originated in China.
+54,false,President Donald Trump referred to the coronavirus as a ÒhoaxÓ or Òpolitical conspiracy.Ó
+55,false,Pentagon confirms coronavirus accidentally got into chemtrail supply train.
+58,false,ChinaÕs Communist government created the novel coronavirus in a laboratory and released it into the world as a deadly bioweapon.
+59,false,Viral publication says a video shows a Ògay party in Italy few weeks before COVID-19.Ó
+60,false,"ÒPer order from @GovWhitmer, people in Michigan are now banned from purchasing a new baby car seat in stores.Ó"
+61,false,ÒMass vaccination for COVID-19 in Senegal was started yesterday (4/8) and the first 7 CHILDREN who received it DIED on the spot.Ó
+62,false,Soap and hand sanitizer can be used to kill coronavirus in the body.
+63,false,"Viral video with Dr. Shiva Ayyadurai proves Fauci, White House and others are members of deep state."
+64,false,Herd immunity is probably why California has far fewer COVID-19 deaths than New York.
+65,false,"ÒChurch services canÕt resume until weÕre all vaccinated, says Bill Gates.Ó"
+66,false,COVID-19 mass vaccine in Senegal that began in West Africa killed the first seven children who received it.
+67,false,CDC admitted to lying about COVID-19 death stats.
+68,false,Top German virologist JŸrgen Rissland recommended drinking whiskey to combat COVID-19.
+69,false,Bill Gates is plotting to use COVID-19 testing and a future vaccine to track people with microchips.
+70,false,"COVID-19 causes prolonged and progressive hypoxia (starving your body of oxygen) by binding to the heme groups in hemoglobin in your red blood cells. People are simply desaturating (losing O2 in their blood), and thatÕs what eventually leads to organ failures that kill them, not any form of ARDS or pneumonia."
+72,false,COVID-19 vaccine trial killed 7 children in Senegal.
+73,false,U.S. Speaker of the House Nancy Pelosi said she wonÕt pass new economic stimulus package unless senior citizens are excluded.
+74,false,"Social media posts recommend tonic water and zinc as a cure for a novel coronavirus infection, as the drink contains quinine, whose synthetic relative hydroxychloroquine is on trial as a COVID-19 treatment."
+75,false,US arrests the man who created Covid-19.
+76,false,"India is suing Microsoft founder Bill Gates because of his vaccine against coronavirus that killed 77,000 girls."
+79,false,Coronavirus will be exterminated if lockdowns are lifted.
+80,false,The number of deaths from COVID-19 are exaggerated.
+82,false,Michigan governor violated social distancing order while signing stay-at-home order.
+83,false,Posts claim that the speaker of the Winsconsin state assembly Robin Vos wore protective gear that Òelection workers he forced to work É do not have.Ó
+84,false,5G exposure/radiation pollution compromises the structure and function of hemoglobin in cells and worsens COVID-19 pandemic.
+85,false,"A video has been viewed tens of thousands of times on Twitter, Facebook and YouTube alongside a claim that it shows the US Federal Bureau of Investigation (FBI) raiding a synagogue that was used to hoard face masks and other medical equipment."
+86,false,Steam from boiling oranges kills COVID-19.
+88,false,ÒEveryone is only dying of coronavirus now.Ó
+89,false,"Facebook posts claims the Asian, Hong Kong, swine and bird flus each Òkilled more people than coronavirus.Ó"
+90,false,Queen Elizabeth said Philippine President Rodrigo Duterte Òis the kind of leader who knows the way É Filipinos are very lucky to have him.Ó
+91,false,A photo shows South Carolina after stay-at-home orders were announced.
+92,false,The Obama administration left President Donald Trump with a Òstockpile with a cupboard that was bare.Ó
+93,false,ÒSame little boy died of COVID-19 in three different countries. Still donÕt believe the media is #fakenews?Ó
+95,false,ÒThe North Carolina and Virginia State line is closed. Nothing in or out.Ó
+96,false,A poem about people staying home was written by Kathleen OÕMara in 1869.
+97,false,Ò59 people die as pastor gives them Dettol to drink in church to prevent coronavirus.Ó
+98,false,"Asian flu, Hong Kong flu, swine flu and bird flu killed more people than coronavirus has today. And that the government never shut down anything for those."
+99,false,"Claim that televangelist Pat Robertson said some young people Òare doing all kinds of unnatural things with their sex organs. When people do that, they transfer all kinds of chemicals from ladiesÕ private parts and thatÕs where I think the (corona)virus came from.Ó"
+100,false,People are handing out masks Òdoused with chemicals which knocks you out coldÓ so they can rob you.
+101,false,"Former NYC Mayor Rudolph Giuliani said he Òbought $2M in shares of Novartis, a primary supplier of hydroxychloroquineÓ in early February."
+102,false,Coronavirus is fake or a made-up ploy by 5G.
+104,false,Photo of a mannequin being wheeled into a hospital shows the COVID-19 coverup.
+106,false,Hospital is caught using a dummy in pandemic footage.
+107,false,"ÒIn Italy, they have thrown their money on the streets. A clear message to the whole world that money is not enough when health is in danger.Ó"
+109,false,Coronavirus death toll in the U.S. is inflated by inclusion of unrelated deaths.
+110,false,President Trump has repeatedly touted the anti-malarial medications hydroxychloroquine and chloroquine as the much-needed solution to covid-19
+111,false,"Social media posts shared tens of thousands of times claim White House adviser Dr. Anthony Fauci stands alone in insisting hydroxychloroquineÕs effectiveness against COVID-19 is unproven, while Italy, France, Spain and Brazil say it Òworks.Ó"
+112,false,Says 44 US senators Òvoted NOT to send stimulus checks.Ó
+113,false,The NBA is asking President Donald Trump to Òresign or weÕll never play again.Ó
+114,false,President Donald TrumpÕs statement that lupus patients are not vulnerable to COVID-19 is not true.
+115,false,New data shows that 21 million Chinese died from the coronavirus.
+118,false,Suggestion that Trump urged sick people to get out and vote during COVID-19 pandemic.
+119,false,"Ron Johnson said Americans should go back to work, because Òdeath is an unavoidable part of life.Ó"
+120,false,North Carolina Òhospital beds are typically 85% full across the state.Ó
+121,false,"ÒWeÕve got to give the American public a rough estimate of how long we think this is going to take, based mostly on the South Korean model, which seems to be the trajectory that we are on, thankfully, and not the Italian model.Ó"
+123,false,Says the U.S. is developing an ÒantivirusÓ that includes a chip to track your movement.
+124,false,"Big Pharma, Dr. Anthony Fauci and Bill Gates want to ban hydroxychoroquine."
+125,false,ÒThe Chinese Communist Party is using Zoom as a way to spy on our citizens.Ó
+126,false,Photo on biography of a boy who died from coronavirus.
+127,false,ÒJoe Exotic tests positive for coronavirus in prison. ItÕs been confirmed.Ó
+129,false,Walmart has adopted staggered shopping days based on age in response to the pandemic.
+130,false,"ÒWe were slow with the testing, but very quick with the travel ban. And thatÕs been much more critical in saving lives.Ó"
+131,false,Walmart is adopting a staggered schedule due to the coronavirus.
+132,false,Says Nostradamus predicted the coronavirus in a 1551 passage about a plague spreading from the east.
+134,false,Israeli recipe for lemon and bicarbonate drink is a coronavirus cure.
+135,false,Video claiming you canÕt catch coronavirus.
+136,false,"Kennedy Center, PBS donated to Democrats after getting COVID-19 stimulus money."
+137,false,In New York Òevery contaminated corpse belongs to the stateÓ and will be incinerated without any Òwakes or memorial services to pay your last respects.Ó
+138,false,Says Goodwill used the pandemic Òto fire all of their employees instead of laying them off.Ó
+139,false,Goodwill laid off all employees due to COVID-19.
+140,false,Says video shows Òthe Chinese are destroying the 5G poles as they are aware that it is the thing triggering the corona symptoms.Ó
+143,false,TrumpÕs claim that he imposed the first travel ban on China.
+145,false,Audio of Biden calling the coronavirus a hoax.
+146,false,"ÓIf you line up all the countries that have done (Covid-19) testing on a per-capita basis, weÕre [the US] at the bottom of the list.Ó"
+148,false,ÒRivers in Oklahoma are full of catfish carrying the virus.Ó
+149,false,Governors across the U.S. are announcing that the current school year will be repeated due to coronavirus school closings.
+150,false,A video purportedly showing COVID-19 victims in body bags strewn across the floor of a New York hospital was shared several thousand times in multiple languages on social media.
+152,false,"Facebook posts shared thousands of times feature a video of U.S. officials talking to reporters, with captions claiming they are announcing the arrest of a Chinese scientist."
+153,false,Coronavirus does not cause a runny nose; is killed by temperatures above 26 degrees; causes lung fibrosis within days of infection; can be diagnosed by holding your breath for 10 seconds; and can be cured in the early stages by drinking plenty of water.
+154,false,The coronavirus has been ÒreleasedÓ by China [É] it was purposely propagated by the Chinese themselves.
+156,false,Alkaline diet protects against the coronavirus.
+157,false,A series of statements by Joe Biden claiming he called for action before he did
+158,false,Empty hospital lots and waiting rooms are indicative of a coronavirus hoax.
+159,false,"ÒNow, theyÕre doing tests on airlines Ñ very strong tests Ñ for getting on, getting off. TheyÕre doing tests on trains Ñ getting on, getting off.Ó"
+160,false,Missouri students will have to repeat the school year because of COVID-19 school closings.
+161,false,NYT invented the video of a doctor fighting coronavirus in hospital.
+162,false,Thousands of Facebook users in the United States are sharing 1-800 numbers that are supposed to help track stimulus payments promised by the federal government under a novel coronavirus economic aid package.
+163,false,"The army is patrolling all the streets, towns and villages in Ireland."
+164,false,Says thereÕs an 800 number you can call to track the status of your stimulus check.
+165,false,"If you ask AmazonÕs Alexa about the origin of the coronavirus pandemic, it says Òthe government plannedÓ it."
+166,false,"Social media posts shared thousands of times advocate 10 methods to prevent a novel coronavirus infection, citing recommendations allegedly stemming from autopsies on COVID-19 victims, including in China, where the virus first emerged."
+167,false,"Posts on social media claim there is a US patent for the novel coronavirus and a European patent for a vaccine, citing specific patent numbers."
+170,false,Video tries to show coronavirus is fake and not dangerous.
+171,false,Students in America have to repeat the same grade next year.
+172,false,Lemon juice and bicarbonate mixture prevents and cures COVID-19 in Israel.
+173,false,Coronavirus is caused by 5G.
+174,false,Says certain states are banning the sale of alcohol.
+175,false,ÒWe inherited a broken testÓ for COVID-19.
+176,false,World Economic Forum is a Òfascist cabalÓ manipulating coronavirus.
+177,false,Big Pharma is behind COVID-19 deaths.
+178,false,CBS aired wrong video footage of a coronavirus hospital.
+179,false,COVID-19 is a hoax or scapegoat for economic disaster.
+180,false,Taking a flu shot causes false positive results on COVID-19 tests.
+182,false,Says Nancy PelosiÕs Òdaughter is on the board of the Kennedy Center so thatÕs why it was so important to send them all that money.Ó
+183,false,Whether microwaving face masks sanitizes them.
+184,false,Did Kennedy Center give DNC $5 million after getting relief from coronavirus stimulus?
+185,false,COVID-19 not being blamed for deaths due to unrelated causes.
+186,false,"President Donald Trump claims he ÒdidnÕt say thatÓ some of the medical equipment that governors are requesting, they donÕt actually need."
+187,false,"CEOs got advance notice of COVID, then resigned to dump stock."
+188,false,ÒQueen Elizabeth tests positive for COVID-19.Ó
+189,false,Says COVID-19 remains in the air for eight hours and that everyone is now required to wear masks Òeverywhere.Ó
+190,false,Says a Ò5G Law Passed while everyone was distractedÓ with the coronavirus pandemic and lists 20 symptoms associated with 5G exposure.
+191,false,"Posts shared more than 20,000 times on Facebook feature a photo of a crying child and two others showing a woman and a man in hospital beds, claiming that the boyÕs parents are infected with the novel coronavirus"
+192,false,"Says for otherwise healthy people Òexperiencing mild to moderate respiratory symptoms with or without a COVID-19 diagnosis É only high temperatures kill a virus, so let your fever run high,Ó but not over 103 or 104 degrees F."
+193,false,Pictures and reports of Òempty hospitalsÓ prove COVID-19 spread is Òfake crisis for real government planned agendas.Ó
+194,false,Whether CDC had scheduled announcement that all should wear masks for everyday life.
+195,false,If Florida banned alcohol sales due to coronavirus.
+197,false,Posts on social media claim that a ÒSpanish biological researcherÓ called on international soccer stars Cristiano Ronaldo and Lionel Messi to find a cure for COVID-19 since they earn much more money than scientists.
+198,false,"Boil weed and ginger for COVID-19 victims, and the virus will vanish."
+199,false,ÒTheyÕre furloughing nurses in hospitals in western New York state.Ó
+200,false,Whether coronavirus began with man having sex with a bat.
+201,false,ÒHereÕs the problem Ñ we are testing people for any strain of a coronavirus Ñ not specifically for COVID-19. There are no reliable tests for a specific COVID-19 virus.Ó
+202,false,Whether countries with high rates of childhood vaccines were hit hardest by coronavirus.
+203,false,NY banned cigarette sales because of the coronavirus.
+204,false,"Video of a waitress saying, ÒI lost my job. But IÕll sleep better knowingÓ that the coronavirus relief bill included funding for the Kennedy Center, refugee resettlement, PBS, and congressional salaries"
+205,false,"ÒThere was no effortÓ to get American experts into China after it announced the coronavirus, and Òwe had one person in-country (and Trump) pulled him out of the country.Ó"
+206,false,If Queen Elizabeth II tested positive for coronavirus.
+207,false,Coronavirus has been found in crab legs.
+209,false,A video of body bags being dumped in a ditch shows the Òsituation in ItalyÓ due to the coronavirus.
+210,false,ÒMainstream mediaÓ used a photo from a 2017 movie as an image for ItalyÕs coronavirus morgue.
+211,false,Biden claims that Trump did not try to get medical experts into China.
+212,false,Illuminati controlled U.S. government; coronavirus caused by 5G.
+213,false,President Trump did sign a 5G bill but exposure effects are misleading.
+214,false,Health care workers union Òsuddenly finds a stash of 39 million face masks.Ó
+215,false,"Speaking of his restriction on travel from China, President Donald Trump claims"
+216,false,Should you take Ibuprofen to treat a fever from the coronavirus?
+217,false,Posts on social media claim that no Democrats voted for the Òthe stimulus package to help American familiesÓ during the novel coronavirus crisis.
+218,false,Ibuprofen ramps up coronavirus 10 times.
+219,false,A photo shows two Italian nurses in a hospital a few days before they got COVID-19 and died.
+220,false,Hospitals donÕt allow parents to visit children with COVID-19 in the hospital.
+221,false,Children will be separated from parents for coronavirus treatment.
+222,false,Congress included include a raise for themselves in the coronavirus stimulus package.
+223,false,Leave objects in the sun to avoid contracting the coronavirus.
+224,false,Nevada Governor Steve Sisolak Òhas banned the use of an anti-malaria drug that might help cure coronavirus.Ó
+225,false,"Òif your child gets this virus, theyÕre going to the hospital alone in a van with people they donÕt know, to be with people they donÕt know. You will be at home without them in their time of need.Ó"
+226,false,Tanks are coming into U.S. towns in advance for martial law
+227,false,A photo of a couple locked in an intimate embrace with their face masks lowered has been shared in Facebook posts that claim they were nurses who were treating COVID-19 patients in an Italian hospital.
+228,false,ÒCOVID literally stands for Chinese Originated Viral Infectious Disease.Ó
+229,false,A post shared thousands of times on Facebook during the COVID-19 pandemic says disposable surgical masks should be worn Òcolored side outÓ if a person is sick.
+231,false,Facebook user Chase Michael Morris predicted coronavirus pandemic.
+233,false,[SARS-CoV-2] is spreading quickly from gas pumps. Shopping carts as well.
+234,false,"New York Governor Andrew Cuomo Òrejected buying the recommended 16,000 ventilators in 2015 for a pandemic, and established death panels and lotteries instead. So he had a chance to buy, in 2015, 16,000 ventilators at a very low price, and he turned it down.Ó"
+235,false,Trump web ad usings misleading edits to create a false picture.
+236,false,Facebook posts featuring a photo of ventilators in the U.S. state of New York claim the devices are Òstuck in a warehouse.Ó
+237,false,Wisconsin Governor Tony Evers is Òpushing firearm confiscation orders.Ó
+238,false,There is no coronavirus. The Chinese were secretly working on a biological agent that was supposed to make protesters docile and obedient.
+239,false,"Says that under order from Gov. Tony Evers, he and his eight children canÕt legally have dinner together anymore."
+240,false,Deaths blamed on coronavirus are actually due to the flu.
+241,false,Posts shared thousands of times on Facebook claim to provide an emergency food stamp hotline.
+242,false,Says Nancy PelosiÕs coronavirus bill includes Òtax credits for solar and wind energy É retirement plans for community newspaper employees É $300 million for PBS É climate change studiesÓ and more.
+243,false,The names of coronavirus victims have been published online in media.
+244,false,Posts shared thousands of times on Facebook claim to provide an emergency food stamp hotline.
+245,false,President Donald Trump will announce that a scientist Òfinally found a vaccine to cure coronavirus.Ó
+246,false,Gargling with warm water and salt or vinegar eliminates the coronavirus.
+247,false,Roche has developed a COVID-19 vaccine.
+248,false,ÒSpecial military helicopters will spray pesticide against the coronavirus in the skies all over the country.Ó
+249,false,A photo showing UgandaÕs first case of COVID-19.
+250,false,Getting a flu shot increases the risk of coronavirus by 36%.
+251,false,ÒPutin has stated
+252,false,Does vaping reduce your chances of getting the coronavirus?
+253,false,The CDC now says that the coronavirus can survive on surfaces for up to 17 days.
+254,false,Whether 60 Democrats voted against coronavirus stimulus bill.
+255,false,"Social media posts attribute a list of points about the novel coronavirus to Johns Hopkins, a leading source of information on the virus."
+256,false,ÒSlices of lemon in a cup of hot water can save your life. The hot lemon can kill the proliferation ofÓ the novel coronavirus.
+257,false,ÒDonald Trump would receive $17 million for three hotels closed for four days under Republican bill! How in the hell is this right?!Ó
+258,false,Russian President Putin released 500 lions onto the streets to keep people indoors.
+259,false,Study suggests malaria drug can treat coronavirus.
+260,false,President Trump refers to the coronavirus as a hoax in an audio clip.
+261,false,An audio message lists five ways people can prevent the novel coronavirus.
+262,false,"ÒThis lady here applied sanitizer to her hands/forearms and went to the kitchen to cook. The moment she turned on the gas stove, her hands caught fire due to the alcohol contained in the sanitizer.Ó"
+263,false,"NY Governor Andrew Cuomo did not reject buying 16,000 ventilators in 2015."
+264,false,"Tom Hanks died, confessed admiration for Trump."
+265,false,"ÒBoil some orange peels with cayenne pepper, stand over the pot, breathe in the steam so all mucus can be released from your nasal passages É Mucus is the problem, itÕs where the virus lives!Ó"
+266,false,Helicopters Are Spraying Disinfectants To Try To Eradicate Coronavirus.
+267,false,Helicopters are spraying disinfectants to stop the spread of coronavirus.
+268,false,Initial lack of evidence for human-to-human COVID-19 transmission unusual.
+269,false,Drinking alcohol beverages can help prevent COVID-19.
+270,false,IPhoto shows people falling dead on Italian streets from COVID-19.
+271,false,Coronavirus is infectious in the air for 8 hours and everyone must wear a face mask.
+272,false,"Italian Prime Minister Giuseppe Conte said, ÒWe have lost control, we have killed the epidemic physically and mentally. CanÕt understand what more we can do, all solutions are exhausted on ground. Our only hope remains up in the sky. God, rescue your people.Ó"
+273,false,Black people are immune to the coronavirus.
+274,false,Boiled orange peels with cayenne pepper are a cure for coronavirus.
+275,false,ÒGo to 2020census.gov and fill out this census form so you can get your stimulus check.Ó
+276,false,"ÒIn Chicago, COVID-19 actually lowered the death rate.Ó"
+277,false,COVID-19 stands for ÒChinese Originated Viral Infectious Disease.Ó
+279,false,Coronavirus cases linked to 5G rollout.
+280,false,Photo shows coffins from coronavirus outbreak in Italy.
+281,false,"ÒIf you are in Las Vegas and you get a knock on your door from NV Power, 2020 Census or CVD-19 testers, do not open your door. They are robbing people at gunpoint.Ó"
+282,false,Biden campaign claims a top CDC official was Òsilenced.Ó
+283,false,A post shared thousands of times on Facebook lists companies whose chief executive officers have allegedly stepped down during the novel coronavirus crisis.
+284,false,Quotes Joe Biden as saying Òpeople who have never died before are now dying from coronavirus.Ó
+286,false,A video from a British broadcaster shows Italian coronavirus victims got taken down.
+287,false,Fill out a 2020 U.S. Census form to receive an economic stimulus payment.
+288,false,Russia unleashed more than 500 lions on its streets to ensure that people are staying indoors during this pandemic outbreak.
+289,false,Bill Gates and the Vatican have a plan to depopulate the world with a coronavirus vaccine.
+290,false,US Homeland Security mobilizing National Guard to combat coronavirus.
+291,false,"Muammar Gaddafi predicted the current coronavirus pandemic, and warned it would be created by the same people who would then sell the Òantidotes.Ó"
+292,false,ItalyÕs president was caught on camera crying over and regretting countryÕs coronavirus response.
+293,false,Joe Biden tested positive for coronavirus.
+295,false,"ThereÕs definitive proof that chloroquine, hydroxychloroquine, are effective against COVID-19."
+296,false,Using sauna or aiming a hairdryer at oneÕs nose will kill the coronavirus.
+297,false,BelgiumÕs health minister banned sex inside or with 3 or more people.
+298,false,Says truck drivers are being turned away from fast-food restaurants during the COVID-19 pandemic.
+299,false,ÒFish tank additive may treat coronavirus.Ó
+300,false,Fox News won Pulitzer for coronavirus coverage.
+301,false,ÒWisconsin is the only state where all Republicans voted against protecting its citizens.Ó
+302,false,"The Coronavirus Aid, Relief, and Economic Security Act gives members of Congress a pay increase."
+303,false,Bill Gates has access to your DNA and ownership in WHO.
+304,false,Biden claims that Trump eliminated the White House pandemic office.
+305,false,"Donald Trump said about coronavirus, ÒPeople are dying who have never died before.Ó"
+306,false,5G technology caused the coronavirus.
+307,false,WHO director overstated COVID-19 fatality rate as higher than flu.
+308,false,Claim that Òthere is noÓ COVID-19 virus.
+309,false,"Says imposters in hazmat suits are going door to door in Stockton, California, saying they are checking residents for fever or COVID-19, but they Òwill enter your home and physically attempt robbery.Ó"
+310,false,Walmart is closing hundreds of its stores.
+311,false,Breathing air from a hair dryer or a sauna can prevent or cure COVID-19
+312,false,Cristiano Ronaldo bought private island to escape coronavirus.
+313,false,Trump said Òpeople are dying who have never died beforeÓ.
+314,false,Martial law is imminent in United States.
+315,false,Obama family flown to private island to escape coronavirus pandemic.
+316,false,"A video of US President Donald Trump and a top US pharmaceutical executive speaking at a press conference has been viewed thousands of times in multiple Facebook, Twitter and YouTube posts alongside a claim that it shows them announcing a vaccine for the novel coronavirus, COVID-19, was ÒreadyÓ to be administered."
+317,false,"The federal government is Òpreparing to mobilize the national guard,Ó Òdispatch them across the US with militaryÓ and Òannounce a nationwide 1 week quarantine for all citizens.Ó"
+318,false,Link takes viewers to application for FEMA assistance in the US.
+319,false,For coronavirus cases Òin the U.S. 38% of those hospitalized are under 35.Ó
+320,false,Image claims to show dozens of coffins of Italians who have died from COVID-19.
+321,false,ÒHuge! Results From Breaking Chloroquine Study Show 100% Cure Rate For Patients Infected With The coronavirus.Ó
+322,false,These at-home Coronavirus testing kits are real.
+323,false,"COVID-19 is no worse than other outbreaks that have occurred in Òevery election year,Ó suggesting that the new coronavirus is being ÒhypedÓ to hurt President Donald Trump."
+324,false,"President Donald Trump said, ÒPeople are dying who have never died before.Ó"
+325,false,"As the US government moved to approve a $2 trillion stimulus package to address the impact of the novel coronavirus outbreak, a short block of text outlining CanadaÕs alleged response to the outbreak flourished on social media."
+326,false,"The coronavirus Òsnuck up on us,Ó adding that it is Òa very unforeseen thing.Ó"
+327,false,"If we want to protect ourselves from the coronavirus, we must back away from all the climate change efforts weÕve been making."
+329,false,Evidence shows the WHO director-general overstated COVID-19 fatality rate
+330,false,5G Technology believed to have caused the coronavirus.
+331,false,"2019 coronavirus can live for Òup to 3 hours in the air, up to 4 hours on copper, up to 24 hours on cardboard up to 3 days on plastic and stainless steel.Ó"
+332,false,Trump Is Promising To Send Americans Checks Ð Only After Checking PeopleÕs Social Media History.
+333,false,"ÒChina is to blame because the culture where people eat bats and snakes and dogs and things like that, these viruses are transmitted from the animal to the people and thatÕs why China has been the source of a lot of these viruses like SARS, like MERS, the Swine Flu and now the coronavirus.Ó"
+334,false,5G Technology Believed To Have Caused coronavirus
+335,false,Evidence Shows The WHO Director-General Overstated COVID-19 Fatality Rate
+336,false,American fast-food chain HardeeÕs is advising truckers to walk up to drive-thrus during coronavirus pandemic.
+337,false,U.S. government using the cover of the coronavirus pandemic to remove end-to-end encryption so officials would be able to listen to everyoneÕs calls and see everyoneÕs private messages.
+338,false,"President Donald Trump tweeted, ÒI ordered the Treasury secretary to send checks to Americans! First however, we will go through your social media history from the last 4 years and search for any post with #NotMyPresident in it. I wouldnÕt think of offending you with a check if IÕm not your president! #MAGAÓ"
+339,false,A dog vaccine can be used against coronavirus in people.
+340,false,President TrumpÕs use of data for deaths from swine flu and seasonal flu.
+341,false,Did Donald Trump attempt to steal a COVID-19 vaccine from a German company and refuse testing kits from WHO?
+342,false,15 minutes in a sauna will kill the coronavirus.
+343,false,ÒU.S. deaths since 1/22/20
+344,false,"ÒWhile all COVID-19 news has been going on, the U.S. government has been sneakily trying to remove end-to-end encryptionÓ which means Òthe government will be able to see all of your messages and listen to all of your calls.Ó"
+345,false,Eating bananas prevents coronavirus.
+346,false,Italy has mandated no treatment of all elderly patients for coronavirus.
+347,false,Having a beard increases your chances of getting coronavirus.
+348,false,All U.S. citizens are entitled to $700 per week to stay at home to avoid spread of coronavirus.
+349,false,The WHO coronavirus test Òwas a bad test.Ó
+350,false,List comparing diseases with coronavirus.
+351,false,ÒPeople are going door to door in Colorado Springs stating they are COVID-19 testing so they can rob people!Ó
+353,false,COVID-19 is a scripted narrative to justify closed borders or force residents to remain home.
+354,false,U.S. President Donald Trump or presidential candidate Joe Biden referred to the novel coronavirus pandemic as a time when Òpeople are dying that have never died before.Ó
+355,false,"In the United States, WIC receivers still only get one type of food during a pandemic."
+356,false,Nancy Pelosi tried to secure taxpayer funds for abortion through a coronavirus bill.
+357,false,"ÒAll U.S. citizens are entitled to $700 USD per week to stay at home to avoid the spread of COVID-19 novel coronavirus, starting 3/17/20.Ó"
+358,false,A flyer offers official advice about the novel coronavirus from a Veterans Affairs (VA) healthcare system in the U.S. state of Oregon.
+359,false,"ÒIÕve always known this is a real, this is a pandemic. IÕve felt it was a pandemic long before it was called a pandemic.Ó"
+360,false,President Donald Trump in the next 48 to 72 hours will impose a nationwide Òmandatory quarantine.Ó
+361,false,Coronavirus Outbreak Prompted Gun And Ammunition Policy Changes At Walmart.
+362,false,Tanker train marked with ÒCOVID-19Ó on its side.
+363,false,A military Humvee labeled ÒCOVID-19 quarantine teamÓ was on Interstate 696 in Michigan.
+364,false,Gargling water with salt or vinegar ÒeliminatesÓ the coronavirus.
+365,false,CDC warns people that morel mushroom increases coronavirus risk by 200%.
+366,false,"Flu vaccine increases coronavirus risk 36%, says military study."
+367,false,The government is closing businesses to stop the spread of coronavirus even though Òthe numbers are nothing compared to H1N1 or Ebola. Everyone needs to realize our government is up to something ÉÓ
+368,false,President Donald Trump is Òannouncing tomorrow that the U.S. is going into quarantine for the next 14 days.Ó
+369,false,Photos show animals returning to clear Venice canals.
+370,false,President Donald Trump Òwill evoke (sic) what is called the Stafford actÓ and Òorder a two week mandatory quarantine for the nation.Ó
+371,false,"ÒNow, as it stands, our health care system has adequate ventilators, ICU beds, medical professionals.Ó"
+372,false,ÒSunlight actually can kill the [novel coronavirus].Ó
+373,false,All baby formula providers are shipping formula for free during the coronavirus outbreak.
+374,false,Claim that Dr. Anthony FauciÕs statement that the coronavirus death rate is 10 times that of the seasonal flu is Òa claim without any scientific basis.Ó
+375,false,No evidence that 5G is being forcibly installed in schools.
+376,false,Dallas student celebrating spring break collapses from coronavirus.
+377,false,Coronavirus is the least deadly virus.
+378,false,Cristiano Ronaldo is turning his hotels into hospitals to fight coronavirus.
+380,false,WalMart reducing hours of operation.
+381,false,The WHO offered the testing kits that they have available and to give it to us now. We refused them. We did not want to buy them.Ó
+382,false,Says businesses will give you free baby formula during the coronavirus outbreak.
+383,false,"ÒGeorge Soros owns the WuXi PHARMA LAB located in Wuhan, China, where COVID-19 was developed and conveniently broke out.Ó"
+384,false,Did genetic mutations cause the coronavirus to become more dangerous.
+385,false,"President Donald Trump Òcut funding to the CDC,Ó Òfired the Pandemic Response Team,Ó Òrefused WHO testsÓ and Òwasted two weeks calling this outbreak a ÔDemocrat hoax.ÕÓ"
+386,false,"A meme shows an image of fully stocked shelves of toilet paper, purportedly during the 2009 H1N1 outbreak, above barren shelves during the ongoing COVID-19 pandemic."
+387,false,Coronavirus is just Òthe damn flu.Ó
+388,false,A video viewed more than 2.4 million times on Facebook urges people to inhale steam to ÒkillÓ the novel coronavirus.
+389,false,The novel coronavirus is not new.
+390,false,ÒCOVID-19 started because we eat animals.Ó
+391,false,"A meme posted offers mixed advice Ñ some true, some false Ñ about coronavirus protection."
+393,false,"ÒSo Oscar Health, the company tapped by Trump to profit from covid tests, is a Kushner company. Imagine that, profits over national safety.Ó"
+394,false,ÒBill Gates told us about the coronavirus in 2015.Ó
+395,false,"Says that Òover a 45-minute period that we had the press conferenceÓ on the coronavirus on March 13, 2020, the stock market set Òan all-time record.Ó"
+396,false,Curfew issued for Bossier city due to coronavirus.
+397,false,CEO Resignations Are Linked To Global Conspiracy.
+398,false,Coronavirus is found in crab legs.
+399,false,Military on streets of Philadelphia preparing to invoke martial law and bring citizens to FEMA camps.
+401,false,A post shows a rail freight tanker with ÒCOVID-19Ó stamped on one side.
+402,false,ÒItaly has decided not to treat their elderly for this virus.Ó
+403,false,LGBTQ people in the US are demanding to be treated first for coronavirus.
+404,false,Says The New York Times exposed the Òreal reason behind coronavirus hype
+405,false,The coronavirus scare began after impeachment.
+406,false,ÒItÕs actually the safest time to fly.Ó
+407,false,Supermarkets are recalling coronavirus-infected toilet paper.
+408,false,Man did pass along coronavirus infection at a WalMart in Louisiana.
+409,false,In South Florida Òall children and adults must remain in their homesÓ due to coronavirus.
+410,false,NYC did implement a citywide quarantine.
+411,false,"A post shared more than 165,000 times on Facebook includes a video of a woman turning a baby wipe into a face mask to Òprotect against coronavirus.Ó"
+412,false,Drinking Òwater a lot and gargling with warm water and salt or vinegar eliminatesÓ the coronavirus.
+413,false,"""President Trump, COVID-19 coronavirus: U.S. cases 1,329; U.S. deaths, 38; panic level: mass hysteria. President Obama, H1N1 virus: U.S. cases, 60.8 million; U.S. deaths, 12,469; panic level: totally chill. Do you all see how the media can manipulate your life."""
+414,false,"A misleading chart being spread on Facebook, erroneously dubbing the new coronavirus the Òleast deadly virus.Ó"
+415,false,The U.S. presidential election is canceled due to coronavirus.
+416,false,Of the Trump administrationÕs European travel restrictions that exempt the U.K.
+417,false,Australian hospital staff rolled in a Wilson volleyball to keep Tom Hanks company in quarantine.
+418,false,A former and controversial CIA officer said coronavirus was made in a lab.
+419,false,"If you donate blood, Òthey HAVE to test youÓ for coronavirus."
+420,false,"ÒDuring the 2009 swine flu outbreak, Biden made reckless comments unsupported by science & the experts. The Obama Admin had to clean up his mess & apologize for his ineptitude.Ó"
+421,false,"Donald Trump claims Joe Biden Òwas in charge of the H1N1 Swine Flu epidemic which killed thousands of people. The response was one of the worst on record. Our response is one of the best, with fast action of border closings and a 78% approval rating, the highest on record. His was lowest!Ó"
+422,false,Says Nancy Pelosi was Òcaught trying to include abortion funding in bill to combat coronavirus.Ó
+423,false,"In 2007, ÒThe SimpsonsÓ predicted Tom Hanks would contract coronavirus in 2007."
+424,false,ÒThe CDC can detain anyone with a fever indefinitely. Vaccination (is) a way people could get out of detention.Ó
+425,false,Says Tom Hanks has a volleyball to keep him company while heÕs quarantined.
+426,false,COVID-19 came to the United States in 2019.
+427,false,ÒMSNBC actually said on air ÔI hope enough people die from coronavirus that it harms TrumpÕs re-election.ÕÓ
+428,false,ÒNYC man drops dead in middle of street Ñ suspected coronavirus!Ó
+429,false,The health insurance industry has Òagreed to waive all co-payments for coronavirus treatments.Ó
+430,false,Coronavirus found in toilet paper.
+431,false,Gargling salt water and vinegar will kill the virus.
+432,false,You can monitor yourself for COVID-19 with a breath test.
+433,false,Tweet says Daniel Radcliffe has the coronavirus.
+434,false,Post says Harvard scientists say the coronavirus is Òspreading so fast that it will infect 70% of humanity this year.Ó
+435,false,Every U.S. election year has a disease outbreak.
+436,false,"10,000 deaths In virus outbreak in Michigan, Washington, Idaho, North Dakota, Missouri, Mississippi."
+438,false,Post says ÒPresident Trump has come into contact with a potential coronavirus sufferer!Ó
+439,false,Donating blood in the U.S. can get you a novel coronavirus test.
+440,false,Says 80% of novel coronavirus cases are Òmild.Ó
+441,false,Post says Òbeing exposed to the sun for two hoursÓ kills the 2019 coronavirus.
+442,false,Freshly boiled garlic water is a cure for coronavirus.
+443,false,Department of Homeland Security official says illegal border crossings may spread coronavirus.
+444,false,A NYC Man With Suspected Coronavirus Drops Dead in the Middle of the Street.
+445,false,Hand sanitizer will Òdo nothing for the coronavirus.Ó
+446,false,Ò(Former U.S. President Barack Obama) set up anti-pandemic programs in 47 vulnerable countries as a way to protect against something like the coronavirus. Do you know that Trump closed 37 of them?Ó
+447,false,ÒCoronavirus Ñ 22. Clintons Ñ 39.Ó
+448,false,States are imposing mandatory leave and statewise school closures due to coronavirus.
+449,false,"A Facebook post shared 25,000 times features an image of a letter purportedly from a U.S. hospital recommending people drink alcohol to help reduce the risks of novel coronavirus infection."
+450,false,Consuming colloidal silver can prevent or treat novel coronavirus.
+451,false,"U.S. hospitals are preparing for 96 million coronavirus infections and nearly half a million deaths, leaked documents reveal."
+452,false,ÒMore people have died from knowing Hillary (Clinton)Ó than from coronavirus.
+453,false,"As of 3/7/20, Tanzania and Zambia had confirmed fist cases of the new coronavirus."
+454,false,Vietnam was the first country to contain and develop a quick test for SARS and COVID-19.
+455,false,Bloggers say Nancy Pelosi delayed coronavirus funding so ÒDems could campaign on it.Ó
+456,false,The mayor Of Buffalo told people to evacuate due to the coronavirus outbreak.
+457,false,CDC sponsored Facebook post asking for help with ÒescapedÓ coronavirus patient.
+458,false,"If the coronavirus gets in your mouth, Òdrinking water or other liquids will wash them down through your esophagus and into the stomach. Once there, your stomach acid will kill all of the virus.Ó"
+459,false,ÒAnybody that wants a test (for the coronavirus) can get a test.Ó
+460,false,Donating plasma or blood is free testing for the coronavirus.
+461,false,Novel coronavirus has a 99.7% survival rate.
+462,false,"The coronavirus test costs $3,200."
+463,false,Every election year has a disease; coronavirus has a contagion factor of 2 and a cure rate of 99.7% for those under 50 it infects.
+464,false,"President Donald Trump tweeted, ÒCoronavirus vaccine from Israel! Stock market up! Economy even stronger now! Besides US, Israel best at inventions"
+465,false,The coronavirus outbreak is caused by 5G technology.
+466,false,Shanghai government officially recommends Vitamin C for COVID-19.
+467,false,Officials say coronavirus killed 200 in Iran.
+468,false,"ÒMan visited Albany, N.Y., days before dying from coronavirus.Ó"
+469,false,TrumpÕs effort to blame Obama for sluggish coronavirus testing.
+470,false,"ÒThe State of Florida has announced measures that all workplaces with 10 employees or more are to have paid mandatory leave to avoid the spread of COVID-19 coronavirus starting on March 6, 2020. All schools are to close for 2 weeks also from March 6.Ó"
+471,false,The common cold is the only type of coronavirus.
+472,false,The media Òpulled down an entire shelf of goods so that they can present the news of people buying stuff in a hysteria over the coronavirus.Ó
+473,false,ÒThe Obama administration made a decision on testing that turned out to be very detrimental to what weÕre doingÓ on the coronavirus.
+474,false,The Obama administration ÒdidnÕt do anything aboutÓ swine flu.
+475,false,"ÒWith regard to the cost, let me be very clear"
+476,false,Patents mean deadly diseases and viruses were created or invented in a lab.
+477,false,Ads are selling masks protecting against COVID-19.
+478,false,Bloggers say the Vatican reports that Pope Francis tested negative for the coronavirus before a second test came back positive.
+479,false,Video shows President Donald Trump saying COVID-19 is the DemocratsÕ Ònew hoax.Ó
+480,false,An image shows Senate Minority Leader Chuck Schumer criticizing President TrumpÕs restrictions on foreign nationals traveling to the U.S. from China.
+482,false,The government Ñ or specific states such as Michigan or Florida Ñ has mandated that employers and schools close for two weeks.
+483,false,Pope Francis and his two aides have been infected with the new coronavirus
+484,false,A bovine vaccine can be used to inoculate people against coronavirus.
+485,false,The United States is Òactually screening fewer people (for the coronavirus than other countries) because we donÕt have appropriate testing.Ó
+486,false,U.S. Vice President Pence urged people with coronavirus to go to the police.
+487,false,U.S. Senator Lindsey Graham says President Trump Òprobably knows more about medicine and specifically viruses than any of the so-called scientists at the NIH and CDC.Ó
+488,false,Post says Òsanitizer will do nothing for the coronavirus.Ó
+489,false,"A bovine coronavirus vaccine, for cattle, is proof that the novel coronavirus isnÕt ÒnewÓ and is evidence of Òhow much the media controls people.Ó"
+490,false,Journalist claims a coronavirus patient was murdered.
+491,false,ÒCoronavirus hoax
+492,false,"Post says two patients at Valley Regional Medical Center in Brownsville, Texas, Òare being looked atÓ for possible coronavirus infections."
+493,false,ÒFlorida hospital reports a coronavirus ÔinfestationÕ with multiple confirmed patients.Ó
+494,false,Photo shows a man wearing a Ògovernment issued Saint Laurent hazardous materials suit.Ó
+495,false,"ÒShands Hospital of Gainesville, Florida, has confirmed its first case of coronavirus.Ó"
+496,false,Pope Francis and two aides tested positive for coronavirus.
+497,false,Post says no one has died from the coronavirus in the United States.
+498,false,The coronavirus is Òsimply the common cold.Ó
+499,false,President Barack Obama Òwaited six months to call swine flu an emergency after thousands died.Ó
+500,false,A video says the Vatican confirmed Pope Francis and two aides tested positive for coronavirus.
+501,false,CDC recommends men shave their beards to be protected against the new coronavirus.
+502,false,"14 points of expert advice about coronavirus, including symptoms, prevention and how it spreads."
+503,false,Doctors recommend carbon filter face masks to prevent coronavirus spread.
+504,false,A Òpoll finds 38% of Americans say they will not drink Corona beer because of the virus.Ó
+505,false,ÒEvery election year has a diseaseÓ Ñ SARS in 2004; avian flu in 2008; swine flu in 2010; MERS in 2012; Ebola in 2014 and 2018; Zika in 2016 and the coronavirus in 2020.
+506,false,Election years in the United States coincide with major disease outbreaks.
+507,false,"ÒThe coronavirus has made it to Mississippi and the lady that caught it wasnÕt around anybody with it, which means it is airborne. If the wind blows it in your direction, youÕll have it also.Ó"
+508,false,Florida man is arrested for robbery using cough as a weapon.
+509,false,"ÒÔAkiraÕ is a 1988 movie about an apocalyptic event taking place months before Tokyo 2020 Olympics, showing the WHO advising Japan to postpone the Olympics because of a pandemic risk.Ó"
+510,false,"ÒThe blood test for coronavirus costs $3,200.Ó"
+511,false,"ÓAmerica has been vaccinating cattle for coronavirus for years, yet the news tells you itÕs new and going to kill you all, so go buy a mask.Ó"
+512,false,Lysol products can kill the novel coronavirus.
+513,false,"Starting in March, if you travel outside of the United States you wonÕt be allowed back in the country Òdue to high risk of the coronavirus.Ó"
+514,false,Hair Weaves And Lace Front Wigs Made In China Likely To Contain coronavirus.
+515,false,Cocaine kills the coronavirus.
+516,false,ÒHair weave and lace fronts manufactured in China may contain the coronavirus.Ó
+517,false,The CDC recommends men shave their beards to protect against coronavirus.
+518,false,CDC issued facial hair recommendation for novel coronavirus prevention.
+519,false,A post says Òhair weave and lace fronts manufactured in China may contain the coronavirus.Ó
+520,false,A post say Òhair weave and lace fronts manufactured in China may contain the coronavirus.Ó
+521,false,ÒCoronavirus
+522,false,Coronavirus is a bioweapon leaked from a Wuhan lab.
+523,false,President Trump claims the virus is under control and testing is available.
+524,false,Coronavirus patients are being Òcremated aliveÓ in China.
+525,false,"Evidence indicates COVID-19 escaped a Chinese lab that was researching it, causing the outbreak."
+526,false,The mortality rate for the flu is Òright aroundÓ that of the new coronavirus
+527,false,Radio host Rush Limbaugh compares novel coronavirus to Òthe common cold.Ó
+528,false,"ÒThe coronavirus is the common cold, folks.Ó"
+529,false,Video says President Donald Trump spawned the ÒWuhan super virus outbreak under code name Ôzyphr.ÕÓ
+530,false,Bill Gates wrote a letter saying COVID-19 is teaching humans a lesson.
+531,false,Post says Òpeople of color may be immune to the coronavirus because of melanin.Ó
+533,false,"20 million Chinese convert to Islam, and coronavirus does not affect Muslims."
+534,false,The Simpsons predicted the new coronavirus outbreak.
+535,false,A video says Òthe coronavirus was invented and patented in the USA and then planted in China.Ó
+536,false,Coronavirus is a biological warfare weapon.
+537,false,Studies show the coronavirus was engineered to be a bioweapon.
+538,false,The 2008 book ÒEnd of DaysÓ predicted the current coronavirus outbreak.
+539,false,20 million Chinese people converted to Islam after it was proven that the coronavirus does not affect Muslims.
+540,false,Data shows a massive release of sulfur dioxide gas near Wuhan.
+541,false,Popping bubble wrap exposes people to coronavirus.
+542,false,Cocaine kills the coronavirus.
+543,false,Latest research by Chinese scientists said coronavirus will render most male patients infertile.
+544,false,High levels of sulfur dioxide in Wuhan Òmay be a sign of mass cremations of victims of the coronavirus.Ó
+545,false,A residential building was set on fire in Wuhan to control spread of coronavirus.
+546,false,High-rise buildings have become human incinerators to combat the spread of the coronavirus.
+547,false,Silver Solution used on strains of coronavirus Òtotally eliminates it. Kills it. Deactivates it.Ó
+548,false,"The coronavirus pandemic can be dramatically slowed, or stopped, with the immediate widespread use of high doses of vitamin C."
+549,false,"The coronavirus pandemic can be dramatically slowed, or stopped, with the immediate widespread use of high doses of vitamin C."
+550,false,"Coronavirus cases reported in Rome, Georgia."
+551,false,ÒBreaking
+553,false,The new coronavirus Òcauses sudden death syndrome.Ó
+555,false,Vitamin C stops or slows novel coronavirus.
+556,false,"The novel coronavirus contains ÒpShuttle-SNÓ sequence, proving laboratory origin."
+557,false,Video from China shows people fleeing from coronavirus quarantine.
+558,false,ÒThe coronavirus was engineered by scientists in a lab.Ó
+559,false,Scientists Òare shocked to discover that weed kills coronavirus.Ó
+560,false,ÒYouÕre more likely to die of influenza right nowÓ than the 2019 coronavirus.
+561,false,Coronavirus contains ÒHIV insertions.Ó
+562,false,"Chlorine dioxide kits sold online under various ÒMMSÓ names Ñ Miracle Mineral Solution, Miracle Mineral Supplement, Master Mineral Solution Ñ will cure the coronavirus."
+563,false,The new coronavirus contains HIV ÒinsertionsÓ and shows signs of being created in a lab.
+564,false,The new coronavirus can be cured by drinking one bowl of freshly boiled garlic water.
+565,false,Bill Gates helped fund a patent for coronavirus.
+566,false,Scientists from Australia create the first vaccine for novel coronavirus
+567,false,Vitamin C can ÒstopÓ the new coronavirus.
+568,false,Scientists claim the Wuhan coronavirus is an HIV-1 engineered Òsuper weapon.Ó
+569,false,"ÒWhen using a medical mask, youÕre supposed to wear the white side out when youÕre not sick.Ó"
+570,false,The coronavirus is Òa military bio-weapon developed by ChinaÕs Army.Ó
+571,false,"Charles Lieber, a Harvard University professor who was arrested, had a connection to the new coronavirus."
+572,false,The novel coronavirus is not a new virus.
+573,false,The coronavirus isnÕt new because ÒLysol has it listed as one of the viruses it kills.Ó
+574,false,"The coronavirus was called a ÒplagueÓ by the WHO; 2.9 million were infected and 950,680 died."
+576,false,"ÒCocaine kills coronavirus, scientists are shocked to discover that this drug can fight the virus.Ó"
+577,false,Coronavirus hits a 15% fatality rate.
+578,false,Romania developed a coronavirus vaccine able to cure white people only.
+580,false,Coronavirus is in Des Moines. (Jan. 29)
+581,false,"Scripps urgent care in San Diego is on lockdown, two people with the new coronavirus are isolated."
+584,false,ÒClorox bottle claimed it could kill (the 2019 coronavirus)É before it was developed.Ó
+585,false,Drinking a bleach solution will prevent you from getting the coronavirus.
+586,false,KNUST students discover vaccine for coronavirus and cure patient in C™te dÕIvoire.
+587,false,ÒBill and Melinda gates Foundation & others predicted up to 65 million deaths via coronavirus Ð in simulation ran 3 months agoÓ
+588,false,The coronavirus can be slowed or stopped with the Òimmediate widespread use of high doses of vitamin C.Ó
+589,false,The coronavirus can be slowed or stopped with the Òimmediate widespread use of high doses of vitamin C.Ó
+590,false,"10,000 people have died in Wuhan, China."
+591,false,"An explosion that occurred in Wuhan, China, is tied to the coronavirus outbreak."
+592,false,A ÒChinese spy teamÓ working in a Canadian government lab sent Òpathogens to the Wuhan facilityÓ prior to the coronavirus outbreak.
+593,false,China Òstole coronavirus from Canada and weaponized it into a Bioweapon.Ó
+594,false,The Chinese Communist Party Òwill finally admit that the real source of the coronavirus is from Ôa lab in WuhanÕ linked to its covert biological weapon programs.Ó
+595,false,ÒIn ÔResident EvilÕ the Umbrella Corporation releases a virus that infects the people of Raccoon City. A biological research lab with the exact same logo as the Umbrella Corporation can be found in the city where the coronavirus outbreak originated.Ó
+596,false,A post says the coronavirus can be slowed or stopped with the Òimmediate widespread use of high doses of vitamin C.Ó
+597,false,Event 201 Ògave out stuffed souvenir coronavirus toysÓ to ÒcommemorateÓ novel coronavirus outbreak.
+598,false,"10,000 people have died in Wuhan, China."
+599,false,A post says the coronavirus can be slowed or stopped with the Òimmediate widespread use of high doses of vitamin C.Ó
+600,false,A spray could protect against the coronavirus outbreak.
+601,false,Authorities have identified that the international chemical-warfare terrorist ÔSamuel Whitcomb HydeÕ is behind the deadly China Ôcoronavirus.ÕÓ
+602,false,A tabletop exercise using a model of the current outbreak ÒpredictedÓ 65 million people could die from the coronavirus.
+604,false,"ÒThe new fad disease called the ÔcoronavirusÕ is sweeping headlines. Funny enough, there was a patent for the coronavirus was filed in 2015 and granted in 2018.Ó"
+605,false,ÒSo let me get this straight about this virus. ItÕs ÔnewÕ yet it was lab created and patented in 2015 (in development since 03Õ).Ó
+606,false,A 2015 research article about a lab-made coronavirus referred to the current outbreak.
+608,false,ÒSo let me get this straight about this virus. ItÕs ÒnewÓ yet it was lab created and patented in 2015 (in development since 03Õ).Ó
+609,false,ÒSo let me get this straight about this virus. ItÕs ÒnewÓ yet it was lab created and patented in 2015 (in development since 03Õ).
+610,false,"That the China-centered coronavirus had infected 2.8 million people and killed 112,000."
+611,false,Ò[The coronavirus is] ÔnewÕ yet it was lab-created and patented in 2015Ó.
+612,false,ÒThereÕs magically already a vaccine available.Ó
+613,false,ÒThereÕs magically already a vaccine available.Ó
+614,false,"ÒA patent on this ÔnewÕ coronavirus expired on the 22nd (of January), todayÓ."
+615,false,ÒThereÕs magically already a vaccine available.Ó
+616,false,"Elisa Granato, the first volunteer in the first Europe human trial of a COVID-19 vaccine, has died."
+617,false,US President Donald Trump has suggested studying the injection of disinfectant as a COVID-19 treatment.
+618,false,The April 22 jump in COVID-19 cases in the United States was related to the election.
+619,false,A video posted on Facebook claiming that chloroquine and azithromycin are proven cures of COVID-19
+620,false,"Trey Gowdy said, “I’m not saying COVID-19 isn’t real…. But pay attention folks, there’s much more going on here than what meets the eye.”"
+621,false,A Pentagon study found that people who get the flu vaccine are 36% more likely to get COVID-19.
+622,false,?rump said ?undreds?of governors are calling him? we only have 50.?
+0,true,Coronavirus Outbreak: Live Updates
+1,true,"Screen Time Doesn’t Hurt Kids’ Social Skills, Study Finds"
+2,true,Here’s Exactly Where We Are with Vaccines and Treatments for COVID-19
+3,true,Here’s What Happens to the Body After Contracting the New Coronavirus
+4,true,Why You Should Be Skeptical of Early Results of COVID-19 Drug
+5,true,What Your Social Media Posts Say About Your Stress Level Right Now
+6,true,Rural America Could Be the Region Hardest Hit by the COVID-19 Outbreak
+7,true,Experts Warning: Don’t Use Off-Label Medications for COVID-19 Treatment
+8,true,Why Soaking Up the Sun to Treat COVID-19 Isn’t a Bright Idea
+9,true,What to Know About a Long Recovery Period After Surviving COVID-19
+10,true,"Why Cooking Chicken to 165 Degrees Is Critical for Ensuring Safety, Preventing Illness"
+11,true,Why COVID-19 is Hitting Men Harder Than Women
+12,true,What to Know About COVID-19 Testing Right Now
+13,true,Toddlers to Teens: How to Help Kids Cope with Stress from COVID-19
+14,true,Losing Your Sense of Smell May Be an Early Symptom of COVID-19
+15,true,1 in 5 Cancer Survivors Stays at Their Job Due to Fears of Losing Health Insurance
+16,true,How Donating Your Plasma Can Help Others During the COVID-19 Pandemic
+17,true,How Parents Can Help Themselves and Their Children with COVID-19 Stress
+18,true,Americans Are Accidentally Poisoning Themselves with Cleaning Supplies
+19,true,The Unusual COVID-19 Symptoms You Can Miss
+20,true,Want to Help COVID-19 Researchers? You Don’t Have to Leave Your Living Room
+21,true,From Protests to Parties: Why Gathering in Groups Is a Terrible Idea Right Now
+22,true,FDA Issues Warning About Hydroxychloroquine Over Heart Issues
+23,true,COVID-19 Racing Through Nursing Homes: What Families Can Do
+24,true,As Many as 50 Percent of People with COVID-19 Aren’t Aware They Have the Virus
+25,true,"Not Sure You Have COVID-19? Here Are the Symptoms for Coronavirus, Flu, and Allergies"
+26,true,Controversial Studies Find COVID-19 May Be Far More Widespread Than Previously Known
+27,true,Risk of Death from COVID-19 Four Times Greater for Those with Diabetes
+28,true,How Mild COVID-19 Symptoms Can Quickly Turn Serious
+29,true,COVID-19 Has Taken Away the Village: How New Parents Can Cope
+30,true,How COVID-19 Is Making Daily Life Challenging for Those with Autism
+31,true,How Alcohol Can Affect Your Immune System
+32,true,What It’s Like to Be a Nurse Working on the Front Lines of COVID-19
+33,true,What We Know About the Long-Term Effects of COVID-19
+34,true,Can the U.S. Safely ‘Reopen’ on May 1? Here’s What the Health Experts Think
+35,true,People Hospitalized with COVID-19 Now Facing the Risk of Kidney Damage
+36,true,Anesthesiologists Are Vital in the COVID-19 Fight: The Toll It Takes
+37,true,How to Advocate for a Family Member Hospitalized with COVID-19
+38,true,6 Ways to Be a More Considerate Shopper During COVID-19
+39,true,Could We Be Stuck With Physical Distancing Until 2022?
+40,true,Can You Develop COVID-19 Twice? Here’s What We Know
+41,true,Paper Towels Better Than Air Dryers to Stop Virus Spread
+42,true,Experimental Drugs May Help Keep COVID-19 Patients Off Ventilators
+43,true,3 Simple Ways to Stay Active While You’re Stuck at Home
+44,true,Rural America Could Be the Region Hardest Hit by the COVID-19 Outbreak
+45,true,Gloves Won’t Reduce Your Risk of COVID-19 at the Grocery Store: Here’s What Will
+46,true,As Many as 50 Percent of People with COVID-19 Aren’t Aware They Have the Virus
+47,true,What California Has Done Right in Battling COVID-19
+48,true,It’s Too Early to Know If Hydroxychloroquine Will Help Treat People with COVID-19
+49,true,Can Clothes and Shoes Track COVID-19 into Your House? What to Know
+50,true,How Sheltering in Place Could Be Throwing Your Skin Out of Balance
+51,true,"Why a Virtual Visit to the Doctor May Be the Safest, Most Affordable Option"
+52,true,Herbal Remedies and COVID-19: What to Know
+53,true,"What Happens as More Police, Firefighters, and Paramedics Get Sick with COVID-19?"
+54,true,Why COVID-19 is Hitting Men Harder Than Women
+55,true,"HIV and COVID-19: Risks, Concerns, and the Best Way to Protect Yourself"
+56,true,Has COVID-19 Peaked in the U.S.? Here’s What We Know
+57,true,The Best Materials to Make a Homemade Face Mask
+58,true,Here’s Exactly Where We Are With Vaccines and Treatments for COVID-19
+59,true,Happy Hours: More People Drinking While Working from Home During COVID-19
+60,true,Why the African American Community Is Being Hit Hard by COVID-19
+61,true,"Foods with a Long Shelf Life: 9 to Buy, 6 to Avoid"
+62,true,"‘False Negatives’ in COVID-19 Testing: If You Have Symptoms, Assume You Have the Disease"
+63,true,How to Build Daily and Weekly Routines as Shelter-in-Place Drags On
+64,true,Here’s What You Should Do If You Have a ‘Mild’ Case of COVID-19
+65,true,"Sidewalk Chalk, Music, and Teddy Bears: How People Are Lifting Others’ Spirits During COVID-19"
+66,true,CDC Says Some People Can Get Back to Work: Here’s What the Experts Think
+67,true,"COVID-19 Is Creating Fear, Frustration With Soldiers, Sailors"
+68,true,"How to Clean and Kill COVID-19, But Avoid Harsh Chemicals"
+69,true,Why It’ll Still Take More Than a Year to Develop a COVID-19 Vaccine
+70,true,What It’s Like to Have a ‘Mild’ Case of COVID-19
+71,true,Don’t Rely on Supplements to Treat or Prevent COVID-19
+72,true,COVID-19 Can Have Serious Effects on People with Mental Health Disorders
+73,true,COVID-19 Poses a Higher Risk for People with Asthma: What You Can Do
+74,true,How I Stopped Stressing and Embraced My Kid’s Distance Learning
+75,true,COVID-19 Will Mutate — What That Means for a Vaccine
+76,true,Why Face Masks Are Crucial Now in the Battle Against COVID-19
+77,true,How a Pet Can Help You While You Shelter in Place
+78,true,How Antibody Testing Can Help Us Fight COVID-19
+79,true,How COVID-19 Could Affect Kids’ Long-Term Social Development
+80,true,Caring for Someone with Alzheimer’s During the COVID-19 Outbreak: 5 Tips
+81,true,From Pain Meds to Condoms: Other Medical Supply Shortages Under COVID-19
+82,true,COVID-19 Could Become a Seasonal Illness: What We’ll Need to Do
+83,true,How Even One Social Gathering Can Quickly Spread COVID-19
+84,true,What Life Is Like on the Front Lines of the COVID-19 Outbreak
+85,true,"What to Know About Diabetes, Blood Pressure Meds and COVID-19"
+86,true,Here’s the Smartest and Safest Way to Grocery Shop During COVID-19
+87,true,People Who Vape May Face Higher Health Risks with COVID-19
+88,true,How Home Healthcare Workers Are Navigating the COVID-19 Outbreak
+89,true,What It’s Like to Be Immunocompromised During the COVID-19 Outbreak
+90,true,How to Clean Common Surfaces During the COVID-19 Outbreak
+91,true,How to Keep Your Teeth Healthy During the COVID-19 Outbreak
+92,true,Can COVID-19 Damage Your Heart? Here’s What We Know
+93,true,Here’s How to Clean Your Groceries During the COVID-19 Outbreak
+94,true,How South Korea Successfully Battled COVID-19 While the U.S. Didn’t
+95,true,It’s Critical Parents Make Kids Follow Social Distancing Guidelines
+96,true,Stress About COVID-19 Keeping You Awake? 6 Tips for Better Sleep
+97,true,"Yes, COVID-19 Is on the Rise: Here’s Why Social Distancing Is Still Key"
+98,true,Don’t Put Off Talking to Your Roommate About Social Distancing
+99,true,"Not Sure You Have COVID-19? Here Are the Symptoms for Coronavirus, Flu, and Allergies"
+100,true,There Isn’t Enough Medical Gear for Doctors and Nurses: What People Are Doing to Help
+101,true,Don’t Let These 5 Myths About COVID-19 Interfere with Your Safety
+102,true,What Does a Stay-at-Home Order Mean? 11 Questions Answered
+103,true,"COVID-19 Timeline: What Outbreak Could Look Like in 3 Months, 6 Months, 1 Year"
+104,true,Not Enough Tests: Doctors Starting to Limit Who Gets Tested for COVID-19
+105,true,"Resist Using Pot, Alcohol to Ease Fears During COVID-19 Outbreak"
+106,true,Here’s What Could Happen If Doctors Get COVID-19
+107,true,5 Tips to Help You Talk to Your Older Parents About Social Distancing
+108,true,What Experts Say You Can Do to Treat Yourself at Home If You Have a Mild Case of COVID-19
+109,true,Experts Warning: Don’t Use Off-Label Medications for COVID-19 Treatment
+110,true,Why You Need to Act Even If There Aren’t Any COVID-19 Cases in Your Town
+111,true,"Washing Hands, Staying Home, and Flattening the Curve with COVID-19 Explained"
+112,true,How the COVID-19 Outbreak Is Affecting Healthcare for People with Cancer
+113,true,How People in Addiction Recovery Are Dealing with the Isolation of COVID-19
+114,true,Does Your Blood Type Increase Your Risk for Coronavirus?
+115,true,Here’s What We Know About Ibuprofen and COVID-19
+116,true,Here Are 5 Ways Spring-Cleaning Can Make You Healthier
+117,true,Nearly 40% of Those Hospitalized for COVID-19 Are Under 55
+118,true,This Is What It Looks Like to Be #HighRiskCOVID19
+119,true,Got Questions About Social Distancing? These Experts Have Answers
+120,true,How to Talk to Your Kids About the COVID-19 Outbreak
+121,true,People with Diabetes May Have Higher Risk for COVID-19: Here’s What to Do
+122,true,"The Need Is Great, but Is It Safe to Donate Blood During the COVID-19 Outbreak?"
+123,true,7 Tips to Keep Your Skin Healthy While Washing Your Hands Often
+124,true,How Many People in the United States Actually Have COVID-19?
+125,true,When and How to Clean Your Phone During the COVID-19 Outbreak
+126,true,How a Chat App Can Help Relieve Loneliness During the COVID-19 Outbreak
+127,true,"If You’re Pregnant, Here’s What to Know About the Coronavirus"
+128,true,Being Mindful of Your Mental Health During the COVID-19 Outbreak
+129,true,Why You Might Want to Think Twice Before Making Your Own Hand Sanitizer
+130,true,What It’s Like to Be an ER Doctor During the Coronavirus Outbreak
+131,true,Can Hospitals Handle a Surge of COVID-19 Cases?
+132,true,Here’s What It’s Like to Live in the Quarantine Zone
+133,true,How the Novel Coronavirus Spreads in Public Places and How to Protect Yourself
+134,true,How to Exercise at Home If You’re Avoiding the Gym During the COVID-19 Outbreak
+135,true,"There Is No Cure for COVID-19, No Matter What the Internet Says"
+136,true,"No Music, No Sports: Why It’s Important to Cancel Public Events Amid COVID-19 Outbreak"
+137,true,What Does It Mean to Declare a Pandemic?
+138,true,Here’s How COVID-19 Compares to Past Outbreaks
+139,true,Can We Learn Anything from the SARS Outbreak to Fight COVID-19?
+140,true,What Is Going On with the Coronavirus Tests?
+141,true,How the COVID-19 Outbreak in the U.S. May Unfold in the Coming Days
+142,true,You Probably Touch Your Face 16 Times an Hour: Here’s How to Stop
+143,true,What Is the Cost of Getting Tested and Treated for the Coronavirus?
+144,true,Here’s What Older At-Risk People Should Know About the Coronavirus
+145,true,Think You Have the Coronavirus? Here’s What to Do Next
+146,true,"Ask an Expert: An Epidemiologist Answers Our Questions About the Coronavirus, Quarantines, and Face Masks"
+147,true,What Medications to Get to Prep for a Coronavirus Infection
+148,true,How to Prep for the Coronavirus at Home
+149,true,Will the Coronavirus Outbreak Get Better This Summer? Maybe Not
+150,true,Asking This One Question May Help Slow Down Coronavirus Outbreak
+151,true,What to Know as Flu Season Nears Peak
+152,true,How the U.S. Is Preparing for a Major Coronavirus Outbreak
+153,true,When Will We Know If the Coronavirus Is a Global Pandemic?
+154,true,How to Protect Yourself While Traveling During the Coronavirus Outbreak
+155,true,Here’s What Happens to the Body After Contracting the Coronavirus
+156,true,How Lack of Sick Leave in U.S. Can Make Outbreaks Like Coronavirus Worse
+157,true,How the U.S. Is Preparing for a Major Coronavirus Outbreak
+158,true,‘Super Spreaders’ of the Coronavirus May Be a Threat
+159,true,Why You Don’t Need to Panic About the New Coronavirus
+160,true,Don’t Fall for These 3 Myths About the New Coronavirus
+161,true,Forget the Toilet Seat — Shower Curtains Have Most Germs in Your Bathroom
+162,true,How Flu and HIV Meds May Help Fight the New Coronavirus
+163,true,"Sorry, You Might Get the Flu Twice This Year — Here’s Why"
+164,true,What Health Experts Are Doing to Stop the Coronavirus from Spreading in the U.S.
+165,true,How Long Will It Take to Develop a Vaccine for Coronavirus?
+166,true,"If You’re Worried About the New Coronavirus, Here’s How to Protect Yourself"
+167,true,"Where Did the New Coronavirus Come From? Potentially a Bat, Snake, or Pangolin"
+168,true,There Are 4 FDA-Approved Drugs to Treat Flu Symptoms — Here’s What to Know
+169,true,Why Seeing a Doctor Within 48 Hours of Flu Symptoms Is Critical
+170,true,Why People Under 40 Aren’t Making It a Priority to Get a Flu Shot
+171,true,"Flu Taking a Toll, Pediatric Deaths Hit 17-Year High"
+172,true,I Never Get Sick. Why Do I Need the Flu Shot?
+173,true,Germs at the Gym: How to Work Out Without Worry
+174,true,Why You Won’t Get the Flu and a Cold at the Same Time
+175,true,"Flu Season 2019: Cases Top 5 Million, Infections May Increase Over the Holidays"
+176,true,Flu Season Off to Early Start: More Than 3 Million Cases in the U.S.
+177,true,Many Daycare Centers Don’t Require Kids or Adults to Get Flu Shots
+178,true,Why Do Some States Make It Difficult for Children to Get Flu Shots?
+179,true,Here’s Where Flu Activity Is the Highest Right Now
+180,true,4 Debunked Myths About Living with Asthma During Cold and Flu Season
+181,true,Why a Flu Shot Is Essential for People with Heart Disease
+182,true,Flu Season Update: Where the Virus Is Hitting and What Shots Are in Short Supply
+183,true,Blood Clotting a Significant Cause of Death in Patients With COVID-19
+184,true,Clinicians Warn of the Dangers of Equating COVID-19 With High Altitude Pulmonary Edema
+185,true,"Experts Issue Guide on Lung Cancer Screening, Management During COVID-19"
+186,true,"Nursing Homes Prepared for Pandemics, but COVID-19 Reveals Gaps"
+187,true,Antiviral Remdesivir Prevents Disease Progression in Monkeys With COVID-19
+188,true,Influenza: Researchers Show That New Treatment Reduces Spread of Virus
+189,true,Antiviral drug baloxavir reduces transmission of flu virus among ferrets
+190,true,Study Finds Remdesivir Effective Against a Key Enzyme of Coronavirus That Causes COVID-19
+191,true,Loss of Smell and Taste Validated as COVID-19 Symptoms in Patients With High Recovery Rate
+192,true,"Common Coronaviruses Are Highly Seasonal, With Most Cases Peaking in Winter Months"
+193,true,COVID-19: Scientists Find Promising First Step in Antiviral Treatment
+194,true,What type of cells does the novel coronavirus attack?
+195,true,"Engineered virus might be able to block coronavirus infections, mouse study shows"
+196,true,Wearing surgical masks in public could help slow COVID-19 pandemic's advance
+197,true,Coronavirus: Virological Findings from Patients Treated in a Munich Hospital
+198,true,Possible coronavirus drug identified
+199,true,Clues to COVID-19 Coronavirus's Vulnerability Emerge from an Antibody Against SARS
+200,true,Rapid Infectious Disease Shifts in Chinese Children and Adolescents Prior to COVID-19
+201,true,Vaccine candidate against SARS-CoV-2 being tested
+202,true,Trial Drug Can Significantly Block Early Stages of COVID-19 in Engineered Human Tissues
+203,true,"COVID-19 Vaccine Candidate Shows Promise, Research Shows"
+204,true,Solving a Medical Mystery and Changing CDC Screenings for COVID-19
+205,true,Hopes for Pandemic Respite This Spring May Depend Upon What Happens Indoors
+206,true,Phage Capsid Against Influenza: Perfectly Fitting Inhibitor Prevents Viral Infection
+207,true,"Lessons from the Spanish Flu: Early Restrictions Lowered Disease, Mortality Rates"
+208,true,UK local authorities not ready for the number of deaths from Covid-19
+209,true,"COVID-19 Linked to Cardiac Injury, Worse Outcomes for Patients With Heart Conditions"
+210,true,Some COVID-19 Patients Still Have Coronavirus After Symptoms Disappear
+211,true,"Missing Link in Coronavirus Jump from Bats to Humans Could Be Pangolins, Not Snakes"
+212,true,A Possible Treatment for COVID-19 and an Approach for Developing Others
+213,true,COVID-19: Low Risk of Coronavirus Spreading Through Tears
+214,true,How tissues harm themselves during wound healing
+215,true,Wuhan study shows lying face down improves breathing in severe COVID-19
+216,true,"ACE inhibitors and angiotensin receptor blockers may increase the risk of severe COVID-19, paper suggests"
+217,true,Coronavirus SARS-CoV2: BESSY II Data Accelerate Drug Development
+218,true,"Understanding How COVID-19 Affects Children Vital to Slowing Pandemic, Doctors Say"
+219,true,Public Health Leadership Paramount to Emerging Coronavirus Pandemic
+220,true,Portable AI device turns coughing sounds into health data for flu and pandemic forecasting
+221,true,New Drug Target Found for COVID-19
+222,true,Median incubation period for COVID-19
+223,true,New Coronavirus Stable for Hours on Surfaces
+224,true,COVID-19: The Immune System Can Fight Back
+225,true,"Coronavirus Spreads Quickly and Sometimes Before People Have Symptoms, Study Finds"
+226,true,COVID-19 Appears Less Severe in Children
+227,true,Scientists Identify Potential Targets for Immune Responses to Novel Coronavirus
+228,true,"Potential Therapeutic Agents, Vaccines for COVID-19"
+229,true,Knowing More About a Virus Threat May Not Satisfy You
+230,true,Individual Response to COVID-19 'as Important' as Government Action
+231,true,Preventing Spread of SARS Coronavirus-2 in Humans
+232,true,"App, AI Work Together to Provide Rapid at-Home Assessment of Coronavirus Risk"
+233,true,Chest CT Findings in Coronavirus Disease (COVID-19) Pneumonia
+234,true,The World Faces an Air Pollution 'Pandemic'
+235,true,Novel Coronavirus (COVID-19) Imaging Features Overlap With SARS and MERS
+236,true,COVID-19 a Reminder of the Challenge of Emerging Infectious Diseases
+237,true,Drug Meant for Ebola May Also Work Against Coronaviruses
+238,true,"New Compounds Thwart Multiple Viruses, Including Coronavirus"
+239,true,No Benefit Found in Using Broad-Spectrum Antibiotics as Initial Pneumonia Treatment
+240,true,COVID-19 Vaccine Development
+241,true,"Atomic Structures Mapped in Measles, Mumps, Flu and RSV"
+242,true,New Pathogenic Mechanism for Influenza NS1 Protein Found
+243,true,Remdesivir Prevents MERS Coronavirus Disease in Monkeys
+244,true,New 'Universal' Target for Antiviral Treatment
+245,true,New Details on How a Viral Protein Puts the Brakes on Virus Replication
+246,true,Portable Lab You Plug Into Your Phone Can Diagnose Illnesses Like Coronavirus
+247,true,Steroids Could Do More Harm Than Good in Treating Coronavirus
+248,true,New Tool Monitors Real Time Mutations in Flu
+249,true,Nanoparticles Produced from Burning Coal Result in Damage to Mice Lungs
+250,true,Radiologists Describe Coronavirus Imaging Features
+251,true,First Childhood Flu Helps Explain Why Virus Hits Some People Harder Than Others
+252,true,Exposing a Virus's Hiding Place Reveals New Potential Vaccine
+253,true,"Whole Genome of Novel Coronavirus, 2019-nCoV, Sequenced"
+254,true,Rapid Weather Swings Increase Flu Risk
+255,true,Infectious Disease Experts Warn of Outbreak Risks in US Border Detention Centers
+256,true,Pneumonia Recovery Reprograms Immune Cells of the Lung
+257,true,New Treatment Kills Off Infection That Can Be Deadly to Cystic Fibrosis Patients
+258,true,Novel Coronavirus That Recently Emerged in China
+259,true,Coronavirus Outbreak in China Traced to Snakes
+260,true,Full Influenza Vaccination Among Children Cuts Hospitalization in Half
+261,true,Universal Flu Vaccine Protects Against 6 Influenza Viruses in Mice
+262,true,Can the Flu Shot Help Fight Cancer?
+263,true,Why Your First Battle With Flu Matters Most
+264,true,Domestic Animals Link Virus Spread Among Humans and Wildlife
+265,true,Scientists Uncover Structure of Key Pneumonia Virus Enzyme
+266,true,Virtual Reality Could Help Flu Vaccination Rates
+267,true,Building a Better Flu Shot
+268,true,New Flu Drug Drives Drug Resistance in Influenza Viruses
+269,true,Ketogenic Diet Helps Tame Flu Virus
+270,true,How Fibrosis Progresses in the Human Lung
+271,true,Vaccine Reduces Likelihood of Severe Pneumonia
+272,true,"New Vaccine Protects from Widespread, Costly Infection, Mice Study Shows"
+273,true,"Best Practice Treatment Guidelines Help Doctors Identify, Treat Vaping-Associated Lung Injuries"
+274,true,NIH clinical trial shows Remdesivir accelerates recovery from advanced COVID-19
+275,true,IH mobilizes national innovation initiative for COVID-19 diagnostics
+276,true,NIAID strategic plan details COVID-19 research priorities
+277,true,Expert U.S. panel develops NIH treatment guidelines for COVID-19
+278,true,Antiviral remdesivir prevents disease progression in monkeys with COVID-19
+279,true,Investigational chimp adenovirus MERS-CoV vaccine protects monkeys
+280,true,NIH to launch public-private partnership to speed COVID-19 vaccine and treatment options
+281,true,NIH study validates decontamination methods for re-use of N95 respirators
+282,true,NIH begins study to quantify undetected cases of coronavirus infection
+283,true,"NIH clinical trial of hydroxychloroquine, a potential therapy for COVID-19, begins"
+284,true,Autoimmunity may be rising in the United States
+285,true,NIDA Director outlines potential risks to people who smoke and use drugs during COVID-19 pandemic
+286,true,The National Library of Medicine expands access to coronavirus literature through PubMed Central
+287,true,COVID-19 workers get training to protect their own health
+288,true,New coronavirus stable for hours on surfaces
+289,true,NIH clinical trial of investigational vaccine for COVID-19 begins
+290,true,NIH Reports First Known Employee with COVID-19 Infection
+291,true,COVID-19 a Reminder of the Challenge of Emerging Infectious Diseases
+292,true,NIH clinical trial of remdesivir to treat COVID-19 begins
+293,true,Remdesivir prevents MERS coronavirus disease in monkeys
+294,true,NIH officials discuss novel coronavirus that recently emerged in China
+295,true,Tiny airborne particles may carry the new coronavirus
+296,true,What are the effects of COVID-19 on the lungs?
+297,true,COVID-19: Are the testes really a coronavirus reservoir?
+298,true,COVID-19: Vaccine trials and antibody testing provide fresh
+299,true,"Loss of smell may suggest milder COVID-19, study finds"
+300,true,COVID-19 global impact: How the coronavirus is affecting the
+301,true,How to disinfect clothes: Tips for coronavirus (COVID-19
+302,true,Are blood clots to blame for COVID-19 deaths?
+303,true,"New coronavirus targets cells in the nose, lungs, and gut"
+304,true,"COVID-19: Hand sanitizers inactivate novel coronavirus, study"
+305,true,Could an antiparasitic drug kill off SARS-CoV-2 within 2 days?
+306,true,SARS-CoV-2 may be here to stay
+307,true,New drug candidate against the novel coronavirus
+308,true,Discussing COVID-19 and hypertension
+309,true,Severe COVID-19: Study investigates a possible underlying
+310,true,COVID-19 vs. previous pandemics
+311,true,What to do if you start to feel COVID-19 symptoms
+312,true,Faulty blood clotting mechanism may explain COVID-19 severity
+313,true,COVID-19: How does it affect women's sexual and
+314,true,Coronavirus (COVID-19) and lupus: Risks and precautions
+315,true,Could dogs help detect COVID-19?
+316,true,"Crohn's and COVID-19: Risks, prevention, and treatment"
+317,true,COVID-19 and rheumatoid arthritis: Risks and precautions
+318,true,"Viral pneumonia: Symptoms, causes, and treatment"
+319,true,COVID-19 and COPD: Risks and precautions
+320,true,SARS-CoV-2 may affect more children than scientists initially thought
+321,true,CT use in COVID-19 diagnosis
+322,true,Bat survey identifies six new coronaviruses
+323,true,Who is really on the front line of the COVID-19 pandemic?
+324,true,Air pollution may affect the lethality of COVID-19
+325,true,Is the flu contagious?
+326,true,"Echinacea: Benefits, uses, side effects, and effectiveness"
+327,true,COVID-19 medical staff experience insomnia and higher stress
+328,true,IBD and COVID-19: Risks and advice
+329,true,says Chicago nurse looking after COVID-19 patients
+330,true,"Protective masks can be effectively disinfected at home, study"
+331,true,Paper towels better at removing viruses than jet dryers
+332,true,How COVID-19 affects domestic violence rates
+333,true,Sore throat: Allergy or cold? Plus treatment and prevention
+334,true,What is the best way to disinfect your phone?
+335,true,How to increase lung capacity: Simple exercises
+336,true,"Azithromycin: Side Effects, dosage, COVID-19 (under study)"
+337,true,Deforestation may drive animal-to-human infections
+338,true,"Hydroxychloroquine: Side effects, dosage, COVID-19 (under"
+339,true,How to stop a coughing attack: Tips and when to seek help
+340,true,Letter from the Editor: Keeping hope
+341,true,People with large social networks are more civil online
+342,true,"Headache and fever: Causes, treatment, and prevention"
+343,true,Can you use an expired inhaler? Safety and effects
+344,true,Should parents limit screen time for young children?
+345,true,27 coronavirus myths busted
+346,true,New study pinpoints loss of smell and taste as COVID-19 symptoms
+347,true,COVID-19: Vaccine may be ready by fall and other reasons for hope
+348,true,What factors did people who died with COVID-19 have in common?
+349,true,How do SARS and MERS compare with COVID-19?
+350,true,How does the new coronavirus affect our pets?
+351,true,COVID-19 live updates: Total number of cases passes 3.2 million
+352,true,COVID-19: Symptoms and when to see a doctor
+353,true,Coronavirus vs. flu: How to tell the difference
+354,true,Novel coronavirus: What we know so far
+355,true,When will the COVID-19 pandemic be over?
+356,true,"Coronaviruses: Symptoms, treatments, and variants"
+357,true,Coronavirus causes: Origin and how it spreads
+358,true,Coronaviruses and heart health
+359,true,"COVID-19: Symptoms, incubation, prevention, and more"
+360,true,Is the anti-flu drug Avigan effective in treating COVID-19?
+361,true,What MNT's experts want you to know about COVID-19
+362,true,Coronavirus effects on the body: Risks and complications
+363,true,"Coronavirus tests: Methods, availability, and accuracy"
+364,true,What WHO advisor David Heymann told us about COVID-19
+365,true,Sex differences in the new coronavirus
+366,true,COVID-19: Infectious disease expert warns it is 'really serious'
+367,true,Coronavirus transmission: How it spreads and how to avoid it
+368,true,Prof. Martin Bachmann on making millions of coronavirus vaccine doses
+369,true,Why social distancing is key in containing the new coronavirus
+370,true,COVID-19 treatment: New findings may bring researchers a step closer
+371,true,"The new coronavirus was not man-made, study shows"
+372,true,COVID-19: 'Digestive symptoms are common'
+373,true,COVID-19: 5 reasons to be cautiously hopeful
+374,true,"Coronavirus vaccine: Development, timeline, and more"
+375,true,"Pneumonia and COVID-19: Relationship, risks, and more"
+376,true,Why does SARS-CoV-2 spread so easily?
+377,true,Coronavirus: Pangolins may have spread the disease to humans
+378,true,COVID-19: Practical tips on staying safe
+379,true,Coronaviruses: How long can they survive on surfaces?
+380,true,Closing schools has only a minor role in suppressing COVID-19
+381,true,Multiple sclerosis (MS) and COVID-19: What to know
+382,true,Allocating ventilators during COVID-19: What is 'fair'?
+383,true,COVID-19: Could a clot-busting drug help save the lives of patients on ventilators?
+384,true,"COVID-19: Social distancing, drug trials offer hope"
+385,true,How humidity may affect COVID-19 outcome
+386,true,Sewage could provide early warning of COVID-19 outbreaks
+387,true,Pregnancy and mental health during the COVID-19 crisis
+388,true,Can you get coronavirus twice? What to know
+389,true,"COVID-19: Surgical masks may help, but not as first line of defense"
+390,true,Remdesivir: 'Very potent inhibitor' of SARS-CoV-2?
+391,true,COVID-19: TB vaccine to be trialed in healthcare staff
+392,true,Is the flu contagious?
+393,true,COVID-19 and asthma: Risks and precautions
+394,true,Could COVID-19 impact great apes?
+395,true,Pneumonia vaccine: How often and when to seek help
+396,true,"‘I have never seen anything like this,’ says New York City doctor about COVID-19"
+397,true,Coronavirus prevention: How to reduce transmission risk
+398,true,New study questions the effectiveness of masks against SARS-CoV-2
+399,true,Why returning to the COVID-19 front line is so difficult for doctors
+400,true,"COVID-19: China’s early travel ban may have averted 700,000 cases"
+401,true,Is blood type linked to coronavirus infection risk?
+402,true,How close is a COVID-19 vaccine? Prof. Martin Bachmann on stopping a pandemic
+403,true,COVID-19 expert calls for a 'tremendous effort from everyone' to fight pandemic
+404,true,Does Medicare cover flu shots? Cost and coverage
+405,true,Experts draw attention to the 'hidden sorrows' of COVID-19 and Parkinson’s
+406,true,COVID-19: Study estimates rate of 'silent transmission'
+407,true,People on steroids for chronic illness may be more at risk of COVID-19
+408,true,WHO launch trial testing 4 potential treatments for COVID-19
+409,true,Repurposed drug may reduce COVID-19 deaths
+410,true,How to disinfect shoes: Tips for COVID-19 prevention
+411,true,"COVID-19 and diabetes: Risks, types, and prevention"
+412,true,COVID-19 suppression 'only viable strategy at the current time'
+413,true,"COVID-19: No evidence that heart, kidney medications raise risk"
+414,true,Does Medicare cover telehealth?
+415,true,Coronavirus and pregnancy: What to know
+416,true,Walking pneumonia vs pneumonia: What is the difference?
+417,true,How might climate change affect the spread of viruses?
+418,true,"Cats may be able to contract SARS-CoV-2, but evidence is limited"
+419,true,COVID-19: Global weekend update (March 21–22)
+420,true,COVID-19 frontline healthcare workers at risk of mental health problems
+421,true,COVID-19 is now a pandemic: What next?
+422,true,COVID-19 may overwhelm intensive care units in UK within weeks
+423,true,Can an old method help doctors fight COVID-19?
+424,true,Contracting the new coronavirus may protect against future reinfection
+425,true,Why are infections from animals so dangerous to humans?
+426,true,CDC on COVID-19 severe outcomes: Where do we stand?
+427,true,Why are COVID-19 death rates so hard to calculate? Experts weigh in
+428,true,Coronavirus: 10 home exercises
+429,true,New coronavirus may be most infectious during 1st week
+430,true,"Coronavirus: 81% of cases are mild, study says"
+431,true,Coronavirus: Scientists could repurpose drugs to treat infection
+432,true,Researchers identify potential coronavirus vaccine and therapy targets
+433,true,COVID-19: Occupational groups that are at high risk
+434,true,"Flu shots pros and cons: Benefits, risks, and safety"
+435,true,Coronavirus may spread faster than WHO estimate
+436,true,Are there any home remedies for pneumonia?
+437,true,Experts condemn 'rumors and misinformation' about coronavirus
+438,true,COVID-19 and kids: Why understanding the impact on children is crucial
+439,true,Protecting healthcare workers from COVID-19: Infection control works
+440,true,Are children actually 'as likely' to get COVID-19 as adults?
+441,true,Coronavirus research: Woman with no symptoms infects five people
+442,true,Preventing skin damage due to face masks
+443,true,COVID-19: Scientists urge 'equitable and inclusive' response
+444,true,Preparing for COVID-19: Priorities for the US
+445,true,Early flu symptoms: Signs in children and adults
+446,true,SARS-CoV-2: How a person's immune system defeated the virus
+447,true,6 best essential oils for the flu
+448,true,SARS-CoV-2: Study confirms previous incubation period estimates
+449,true,COVID-19 quarantine of cruise ship may have led to more infections
+450,true,Migraine and COVID-19: Management and link
+451,true,App-based contact tracing may significantly reduce pandemic spread
+452,true,Expert tips on coping with stress and anxiety during a pandemic
+453,true,Keeping active while staying put: A brief 'how to' guide
+454,true,Why hand washing really could slow down an epidemic
+455,true,7 alternatives to toilet paper
+456,true,COVID-19 and bronchitis: Risks and precautions
+457,true,Hand washing advice for people with skin conditions
+458,true,What can be done to stop the spread of viruses?
+459,true,What to know about Klebsiella pneumoniae
+460,true,CDC: New cases of novel coronavirus reported in US
+461,true,Air pollution may affect the lethality of COVID-19
+462,true,COVID-19 and psoriasis: Risks and precautions
+463,true,Letter from the Editor: The importance of accurate reporting
+464,true,Managing patients with endocrine dysfunction during COVID-19
+465,true,What causes a sore throat and swollen glands?
+466,true,COVID-19 and celiac disease: Risks and precautions
+467,true,"UC and COVID-19: Risks, medications, and precautions"
+468,true,Common coronaviruses appear to be highly seasonal
+469,true,COVID-19 and arthritis: Risks and precautions
+470,true,Drinks to boost immune system: Do they work?
+471,true,Breast cancer and COVID-19: Risks and precautions
+472,true,Medicines that fights COVID-19: What to know
+473,true,Mayo hospitals again receive ‘A’ grades for patient safety
+474,true,Media backgrounder: COVID-19 readiness and helping the world respond to the global pandemic
+475,true,"Mayo Clinic to advise Hilton on cleaning program protocol, training"
+476,true,"Physicians, scientists and physician-scientists connect dots between heart disease, potential for worse COVID-19 outcomes"
+477,true,Mayo Clinic introduces skill for Amazon’s Alexa about COVID-19
+478,true,Voluntary public disclosure on the financial impact of the COVID-19 pandemic
+479,true,Expert Alert: 5 tips for keeping the momentum going when working out at home
+480,true,Army of Mayo employees come together to identify COVID-19 exposures within hours
+481,true,Expert Alert: When you can’t cough ― extra COVID-19 precautions for people with physical disabilities
+482,true,Mayo Clinic Laboratories launches serology testing in support of COVID-19 response
+483,true,Mayo Clinic experts offer guidance on treating COVID-19 patients with signs of acute heart attack
+484,true,False-negative COVID-19 test results may lead to false sense of security
+485,true,"Six ways home-based cardiac rehab keeps patients safe, healthy during COVID-19"
+486,true,Autonomous shuttles help transport COVID-19 tests at Mayo Clinic in Florida
+487,true,"Radiology, Engineering investigating ways to help Mayo Clinic during COVID-19 response"
+488,true,Mayo Clinic in Florida expands specimen testing and processing capabilities for COVID-19
+489,true,Guidance on patients at risk of drug-induced sudden cardiac death from off-label COVID-19 treatments
+490,true,Expert Alert: Have heart disease? Protect your health during the COVID-19 pandemic
+491,true,Mayo Clinic to protect staff pay during COVID-19 pandemic response
+492,true,Mayo Clinic Laboratories significantly expands testing capability for the COVID-19 virus
+493,true,Mayo Clinic president and CEO participates in the Coronavirus Task Force meeting
+494,true,Mayo Clinic develops test to detect COVID-19 infection
+495,true,11 Cleveland Clinic Hospitals Earn “A” Grades in Safety
+496,true,"Cleveland Clinic Appoints Timothy Chan, M.D., Ph.D., as Director of Center for Immunotherapy and Precision Immuno-Oncology"
+497,true,"Cleveland Clinic, Meijer Donate Food, Supplies, Masks to Cleveland’s Ward 6 Community"
+498,true,Cleveland Clinic Establishes Center for Global and Emerging Pathogens Research
+499,true,Cleveland Clinic and SAS share COVID-19 predictive models to help hospitals plan for current and future needs
+500,true,Cleveland Clinic Innovations are Improving the Fight Against COVID-19
+501,true,"Cleveland Clinic Sends Caregivers To New York, Michigan To Assist In COVID-19 Efforts"
+502,true,Health Education Campus Will Temporarily Convert As a Medical Surge Hospital Location
+503,true,"Corporations, Small Businesses, Community Groups Support Cleveland Clinic During COVID-19 Pandemic"
+504,true,Coronavirus (COVID-19) Media Information
+505,true,"Keep Your Distance: Even as COVID-19 Cases Increase, Isolation Key to Long-Term Control"
+506,true,Coronavirus (COVID-19) Video Resources for Media Outlets
+507,true,University Hospitals and Cleveland Clinic Offer Prioritized COVID-19 Testing to First Responders
+508,true,Cleveland Clinic Launches Campaign for Northeast Ohio Community to Help in COVID-19 Response
+509,true,Cleveland Whiskey Collaborates with Cleveland Clinic to Supply Hand Sanitizer to the Health System
+510,true,Cleveland Clinic Offers Free COVID-19 Online Screening Tool
+511,true,Frequently Asked Questions about Coronavirus Disease 2019 (COVID-19)
+512,true,University Hospitals and Cleveland Clinic Add Second Location for Drive-Through COVID-19 Testing at UH Landerbrook Health Center
+513,true,University Hospitals and Cleveland Clinic Partner to Provide Drive-Through COVID-19 Testing
+514,true,Containing COVID-19 Is Our Highest Priority
+515,true,Frequently Asked Questions about 2019 Novel Coronavirus (2019-nCoV)
+516,true,TSA: 500 Employees Test Positive for COVID-19
+517,true,Most of Georgia’s COVID-19 Hospitalized Are Black
+518,true,LA Offers All Residents Free COVID-19 Tests
+519,true,NYC Stopping Subways Overnight to Disinfect Trains
+520,true,U.S. Government to Increase PPE Shipments to Nursing Homes
+521,true,"Neurologists Dust Off Their Stethoscopes, Join COVID Frontlines"
+522,true,Trending Clinical Topic: Cancer and COVID-19
+523,true,Excess Cancer Deaths Predicted as Care Disrupted by COVID-19
+524,true,COMMENTARY: Healthcare Workers Should Wear Reusable Elastomeric Masks
+525,true,"Coronavirus Social: Babies Shouldn't Wear Masks, Experts Warn"
+526,true,Sweden Sticks With Controversial COVID-19 Approach
+527,true,COMMENTARY: We Can't Ignore the Harms of Social Distancing
+528,true,Blood Pressure Medicines Don’t Increase COVID-19 Risk
+529,true,Parents Hold Newborn Twins After Beating COVID-19
+530,true,How One Very Ill Infant Survived COVID-19
+531,true,Tech Might Help COVID Patients Ventilators Can't
+532,true,Best Ways to Help Kids Through the Pandemic
+533,true,What Roles Do Children Play in Spreading COVID-19?
+534,true,COVID-19 & Household Spread: How Likely?
+535,true,Models: Opening States Early Will Increase Deaths
+536,true,Cardiac Arrests On the Rise During COVID-19 Crisis
+537,true,Study: Many Health Care Workers Lack Insurance
+538,true,Smokers Hospitalized Less Often for COVID-19
+539,true,Diabetes Doc Who Turned His Unit to COVID-19 Sees End in Sight
+540,true,Coronavirus Social: Two Digital Tributes and a Celebration
+541,true,"Orthopedic Surgeon, Mayor Team Up on COVID-19 Response"
+542,true,As COVID-19 Shutters Practices Virtual Doc-Patient Activity Soars
+543,true,COMMENTARY: 'Cybertricians' Help COVID Patients Stay Home
+544,true,"COVID-19 Daily: Hospital Mortality Data, Drug Trial Raises Eyebrows"
+545,true,New Study of Diabetes Drug for COVID-19 Raises Eyebrows
+546,true,Gastroenterology Groups Map a Return to Elective Endoscopy
+547,true,"COVID-19: A 'Marathon, Not a Sprint' for Psychiatry"
+548,true,Cardiac Arrests Out-of-Hospital Soar During COVID-19 in Italy
+549,true,FDA Gives Remdesivir Emergency Authorization
+550,true,Don't Ignore Signs of Heart Attack During COVID-19
+551,true,Face shields a more effective deterrent to COVID?
+552,true,Javits Center Field Hospital to Shut Down
+553,true,Interest in Unproven Drugs Follows Trump Thumbs Up
+554,true,Remdesivir & COVID Studies Find Different Results
+555,true,COVID-19 May Cause Severe Heart Condition in Kids
+556,true,Obesity New Risk Factor for Young COVID Patients
+557,true,Trump to Order Meat Processing Plants Remain Open
+558,true,"Traffic Down, Dangerous Crashes Up During Pandemic"
+559,true,CDC to Conduct Antibody Testing in Atlanta Area
+560,true,IDSA Guidelines for Management of COVID-19 (2020)
+561,true,Trials and Tribulations: Neurology Research During COVID-19
+562,true,"Remdesivir Now 'Standard of Care' for COVID-19, Fauci Says"
+563,true,"COVID-19 Daily: Remdesivir Results, Resident Abuse"
+564,true,Metastatic Cancer Linked to Worse Outcomes of COVID-19
+565,true,Two Rare Neurologic Conditions Linked to COVID-19
+566,true,What's Your Malpractice Risk When Treating COVID-19 Patients?
+567,true,"Georgia’s Reopening: Dinner, a Movie and a Virus?"
+568,true,Don't Let The COVID Pandemic Rob You of Your Sleep
+569,true,Coronavirus Crisis Has Fewer Kids Getting Vaccines
+570,true,COVID-19 Continues to Strike Men Harder Than Women
+571,true,Nanotech May Help Fight 'Cytokine Storm' of COVID
+572,true,Girl Goes on Chalk Adventures During Quarantine
+573,true,How Contagious? Likely Before You Know You’re Sick
+574,true,Researchers Report First U.S. Dog With Coronavirus
+575,true,UV Light Might Disinfect Scarce Medical Gear
+576,true,Hospitals Update Hydroxychloroquine Protocols After FDA Warning
+577,true,COVID-19 Crisis Exposes Resident Abuse
+578,true,COMMENTARY: COVID-19: Don't Forget About Plasmapheresis
+579,true,More Guidance on 'Vulnerable Subgroup' With Diabetes and COVID-19
+580,true,COVID-19 Mortality Hits Almost 30% in Kidney Transplant Patients
+581,true,COVID-19: Calls to NYC Crisis Hotline Soar
+582,true,Chest Imaging Guidelines Released for Pediatric COVID-19
+583,true,German Physician Explains Alternative Ventilation for COVID-19
+584,true,"COVID-19: An Opportunity, Challenge for Addiction Treatment"
+585,true,"COVID-19 Daily: HCQ Hospital Protocols, ED Physician Death"
+586,true,A Step-by-Step Guide to Preventing PPE-Related Skin Damage
+587,true,COMMENTARY: Why I Founded United Physicians and Why You Should Join
+588,true,ED Physician at Epicenter of COVID-19 Crisis Lost to Suicide
+589,true,COVID-19 Decimates Outpatient Visits
+590,true,Testing Sewage to Gauge Spread of Coronavirus
+591,true,Trump Reveals Blueprint to Increase COVID Testing
+592,true,CDC Adds Six Symptoms to COVID-19 List
+593,true,Hospitals Study Heartburn Drug for COVID Treatment
+594,true,Bats and Coronaviruses Go Back Centuries
+595,true,Saliva COVID Test Alternative to Deep Nasal Swab
+596,true,Isolation During Pandemic a Trigger for Depression
+597,true,COVID-19 Antibody Testing Brings Cautious Hope
+598,true,Musician Performs Drive-By Concerts to Spread Joy
+599,true,Poison Control Centers Report Rise in Accidents
+600,true,Birx: Social Distancing Will Last Through Summer
+601,true,Guidelines on Breast Cancer Radiation Therapy during COVID-19 (2020)
+602,true,COVID-19 Patient in Primary Care -- How to Treat?
+603,true,Will COVID-19 Finally Trigger Action on Health Disparities?
+604,true,New Billing Basics for Telemedicine
+605,true,CMS Suspends Advance Payment Program to Clinicians for COVID-19
+606,true,COVID-19 'Therapies' Put Focus on 12-Lead ECG Alternatives
+607,true,COVID-19: Defer 'Bread and Butter' Procedure for Thyroid Nodules
+608,true,"Consensus Statement on Chest Imaging in Patients with COVID-19 (Fleischner Society, 2020)"
+609,true,"COVID-19 Daily: Doc Suspended, No More Advance Medicare Pay"
+610,true,The Pause: Honoring the Dead in COVID-19 to Advance Care
+611,true,Doc Suspended for Exposing Poor Social-Distancing Practices
+612,true,USDA Meat Inspector Dies of Coronavirus
+613,true,Italian Authorities Cite Heartening Statistics
+614,true,Fauci: COVID Testing Should Double In Coming Weeks
+615,true,You Can't Get Coronavirus Through Sex: Study
+616,true,He Survived COVID-19. Can His Blood Help Others?
+617,true,"ESC Guidance on CVD Diagnosis, Management Amid COVID-19"
+618,true,'Hospital at Home' May Boost COVID-19 Inpatient Capacity
+619,true,"COVID-19 Daily: Office Visits Decimated, No 'Vaccine Nationalism'"
+620,true,Certain Anerobic Bacteria Linked to Increased CRC Risk
+621,true,Coronavirus Social: Facebook Physician Memorial
+622,true,"COVID-19 Daily: Stroke in Young Adults, Test Safety Issues"
+623,true,"USMLE Tests Resume May 1, Sparking Student Concerns"
+624,true,"After Battling Flint Water Crisis, Doc Faces COVID Fight"
+625,true,FDA Warns Against Malaria Drugs to Treat COVID-19
+626,true,Officials Push Masks For COVID Despite Mixed Data
+627,true,Blood Clots Are Another Dangerous COVID-19 Mystery
+628,true,"Hospital Celebrates 1,500th COVID-19 Survivor"
+629,true,First U.S. Coronavirus Death Earlier Than Believed
+630,true,WebMD Doctors: Don't Ingest or Inject Disinfectant
+631,true,California Still Setting COVID Death Records
+632,true,"Higher Temps, Humidity May Help Against COVID"
+633,true,Trending Clinical Topic: Remdesivir
+634,true,"COVID-19 Daily: Doctor Support Hotline, New Mortality Data"
+635,true,Clinicians Dodge Infection as 'Dofficer' Helps With Gear
+636,true,"Managing Newborns of Mothers With COVID-19: Clinical Practice Guidelines (AAP, 2020)"
+637,true,Finding the Right Balance in COVID-19 Thromboprophylaxis
+638,true,"Helping African Americans with More Testing, PPE"
+639,true,Coping With Budget Stress During the Pandemic
+640,true,"Up to 50,000 Kids May Be Hospitalized With COVID"
+641,true,Oregon Town Goes Door to Door Tracking COVID-19
+642,true,Seniors Recruited for Coronavirus Vaccine Trials
+643,true,White House Reemphasizes COVID-19 Testing Capacity
+644,true,Good News on Remdesivir's Power to Treat COVID-19
+645,true,Disinfectant-Linked Poisoning Rises Amid COVID-19
+646,true,Some COVID Patients Develop Guillain-Barre
+647,true,FDA Approves Hydroxychloroquine Trial for COVID-19
+648,true,Sesame Street Eases Kids’ Fears Through Meditation
+649,true,Signature STEMI Sign May Be Less Diagnostic in the COVID-19 Age
+650,true,Sudden Loss of Taste and Smell Should Be Part of COVID-19 Screen
+651,true,COVID-19: Employers Cut Doc Pay and Bonuses: What's Your Recourse?
+652,true,"COVID-19 Daily: Vent Debate Continues, Screening for Taste/Smell"
+653,true,European Cancer Centers Restructure Care in the Era of COVID-19
+654,true,"Checklist to Manage Hyperglycemia, DKA in Severe COVID-19"
+655,true,"Surge or No Surge, the Midwest Readies for COVID-19"
+656,true,Physicians Push Back on Treating COVID-19 as HAPE
+657,true,The Road Ahead With COVID-19
+658,true,COVID Keeping People With Lung Diseases Out of ER
+659,true,New COVID-19 Tracking App May Find 'Hotspots'
+660,true,COVID-19 Drug Testing: Where We Stand
+661,true,Self-Isolating? Learn Something With These Freebies
+662,true,COVID-19 Changes Funerals and How Families Grieve
+663,true,Paper Towels Beat Air Dryers Against Viruses
+664,true,COVID-19 Making Heart Attack Patients Stay Home
+665,true,"The Week That Wasn't: Open Windows, Antibody Testing, Conspiracy Theories"
+666,true,"COVID-19: Striking Uptick in Anxiety, Other Psych Meds"
+667,true,Cautionary Tale Spurs 'World's First' COVID-19 Psychiatric Ward
+668,true,COMMENTARY: Managing AML in a Pandemic: There's No Avoiding Difficult Choices
+669,true,ASE Issues Echocardiography Guidance Amid COVID-19 Pandemic
+670,true,"COMMENTARY: COVID-19 Diary Day 10: So Many Questions, No Answers"
+671,true,"Grief, Chaos, and COVID: How Medical Trainees Can Cope"
+672,true,Normal Chest X-ray Doesn't Rule Out COVID-19
+673,true,"COVID-19 Daily: Reusing Masks, Imaging Guidance"
+674,true,How COVID-19 Affects the Brain
+675,true,Cytokine Storms May Be Fueling Some COVID Deaths
+676,true,New COVID-19 Breast Cancer Treatment Guidelines
+677,true,Is It Allergies or COVID-19?
+678,true,Call to Defund WHO Debated
+679,true,25 FEMA Workers Have Contracted COVID-19
+680,true,Bucket Truck Lets Man Visit Wife in Nursing Home
+681,true,COVID-19: First Data Confirm Neurologic Symptoms Common
+682,true,COMMENTARY: Reflections From the Bench During the COVID-19 Crisis
+683,true,Trending Clinical Topic: Ventilators
+684,true,CMS Chief Says $81B Released in Accelerated Payments for COVID-19
+685,true,Cancer Patients Report Delays in Treatment Because of COVID-19
+686,true,COVID-19 Pneumonia: Only Some Cases Are Like Severe ARDS
+687,true,How to Sanitize N95 Masks for Reuse: NIH Study
+688,true,U.S. Lockdowns Trigger Surge in Domestic Violence
+689,true,Hospital Workers Celebrate COVID-19 Survivors
+690,true,Nitric Oxide Investigated as COVID-19 Treatment
+691,true,Dangerous Claims That Bleach Can Treat COVID-19
+692,true,COVID-19 Is Making Psychiatric Treatment Tougher
+693,true,"Chloroquine, Zinc Tested to Block COVID Infection"
+694,true,"COVID-19 Daily: Return-to-Work Guidelines, Tips From Frontline Docs"
+695,true,COVID 19: Psychiatric Patients May Be Among the Hardest Hit
+696,true,Treating Rectal Cancer in the COVID-19 Era: Expert Guidance
+697,true,"SARS-CoV-2 May Confound Seasons, Persist in Warmer Months"
+698,true,"COVID-19 Registry Tracks Pregnant Women, Newborns"
+699,true,COMMENTARY: COVID-19 Diary Day 5: Facing Deployment
+700,true,"COVID-19 Enforcement Policy for Sterilizers, Disinfectant Devices, and Air Purifiers (FDA, 2020)"
+701,true,First Case of COVID-19 Presenting as Guillain-Barre´ Reported
+702,true,"See Acute Hepatitis? Consider COVID-19, NY Case Suggests"
+703,true,First Protocol on How to Use Lung Ultrasound to Triage COVID-19
+704,true,COMMENTARY: COVID-19 Diary Day 4: Am I Losing My Humanity? Already?
+705,true,"Beaches, Lakes, Pools: Is COVID-19 in the Water?"
+706,true,CDC Issues New Return-to-Work Guidelines
+707,true,COVID-19 Killing Men at Higher Rate in NYC
+708,true,COVID-19: What T1 Diabetes Patients Need to Know
+709,true,COVID May Trigger 'Cytokine Storm' in Some Cases
+710,true,Don't Count on Warmer Weather to Curb COVID-19
+711,true,"CVS, Walgreens Launch Drive-Thru Rapid Testing"
+712,true,Chicago Jail Has Highest Source of COVID-19 Cases
+713,true,'Super Spreader' Events Increase COVID-19 Cases
+714,true,WWII Vet Shows Off Dance Moves During Quarantine
+715,true,Brain Affected in 1 in 3 Cases of Severe COVID-19
+716,true,National Stockpile Almost Out of PPE
+717,true,NIH Launches Clinical Trial of Hydroxychloroquine
+718,true,COVID-19 Shows Gaps in Controls at Nursing Homes
+719,true,100 American Flight Attendants Have COVID-19
+720,true,When COVID-19 Postpones Your Screening Test or Surgery
+721,true,"'You Are the Heroes,' Comedians Tell Clinicians, Part 2"
+722,true,NYC Hospitals Require In-Person Presence for Telehealth Work
+723,true,Numbers Lacking on COVID-19-Infected Healthcare Workers
+724,true,COMMENTARY: COVID-19 Diary Day 6: Clinicians' Choices Shouldn't Be Judged
+725,true,"CMS Loosens Telehealth, Clinician Scope-of-Practice Rules"
+726,true,Trending Clinical Topic: PPE
+727,true,"COVID-19 Daily: Clinician Infections, Practice Rules Loosened"
+728,true,Heart Patients: Ask About Home-Based Cardiac Rehab
+729,true,Tweets Show America Following COVID-19 Guidelines
+730,true,Trump’s Plan to Reopen the Nation
+731,true,California Creates Relief Fund for Immigrants
+732,true,Major Drugmakers Join Forces on COVID-19 Vaccine
+733,true,"Anxiety, Depression Prescriptions Spiked in March"
+734,true,How Accurate Are Coronavirus Death Counts?
+735,true,New Protective Respirator for Health Care Workers
+736,true,Ventilators: Helping or Harming COVID-19 Patients?
+737,true,"On the Front Line, COVID Has Them Scared to Go Home"
+738,true,George Stephanopoulos Diagnosed With Coronavirus
+739,true,First Case of COVID Spreading from a Corpse Found
+740,true,FedEx Worker Sanitizes Box for Girl at Higher Risk
+741,true,Interim Guidance for CPR in Patients With COVID-19
+742,true,"COMMENTARY: Dermatologist First, Businessman Second: Life During COVID-19"
+743,true,COMMENTARY: A Better Way to Prioritize Essential Care During COVID-19
+744,true,COVID-19 Pandemic Spells Trouble for Children's Health
+745,true,COMMENTARY: COVID-19: Press Pause on Assisted Reproduction?
+746,true,COVID-19: Mental Illness the 'Inevitable' Next Pandemic?
+747,true,"Global Appeal to MI, Stroke Patients to Seek Care Amid Pandemic"
+748,true,COMMENTARY: Social Distancing via TikTok: Education During COVID-19
+749,true,No Hydroxychloroquine Benefit in Randomized COVID-19 Trial
+750,true,"COVID-19 Daily: US HCW Infections and Deaths, CPR Guidance"
+751,true,COMMENTARY: COVID-19 Diary Day 8: I'm a 'Hugger.' Now I'm Socially Distant.
+752,true,Can Blood of COVID Survivors Help Others Recover?
+753,true,Tips for Safe Grocery Shopping
+754,true,Study: Many Seniors Were Unfazed by COVID Warnings
+755,true,COVID-19 Can Trigger Serious Heart Injuries
+756,true,Obesity Ups Severe COVID-19 Risk in Young Patients
+757,true,Pregnant Women With COVID-19 May Not Show Symptoms
+758,true,Pet Adoptions Spike as Furry Lockdown Pals Wanted
+759,true,How 4 U.S. Cities Helped Slow Coronavirus Spread
+760,true,"CDC: COVID-19 Can Spread 13 Feet, Travel on Shoes"
+761,true,WHO Issues Criteria to Lift COVID-19 Lockdowns
+762,true,50 NYC School Employees Have Died of COVID-19
+763,true,Remdesivir for COVID Study: Benefits Not Clear
+764,true,COVID-19 and Diabetes: Known Mechanisms and a 'New Beast'?
+765,true,"COVID-19 Daily: No Treatment Guidance Yet, Staff 'Create Problems'"
+766,true,IDSA: No Recommendations for COVID-19 Treatment for Now
+767,true,COMMENTARY: COVID-19 Diary Day 7: When Risks Become Very Real
+768,true,Life in the 'Cabin': Two Months Fighting COVID-19 in Wuhan
+769,true,COMMENTARY: Life in Jail Worse During COVID-19
+770,true,Hospital Staff 'Looking for Reasons to Make Trouble' Amid COVID
+771,true,Oncologists Need to Advocate for Scarce COVID-19 Resources: ASCO
+772,true,'Crisis-Driven' Guidance on Structural Heart Disease in COVID-19
+773,true,"'Hypercoagulation,' Antiphospholipid Antibodies Seen in COVID-19"
+774,true,Ventilator or Hospice? COVID-19 Strains Care System
+775,true,Sleep Troubles Hit Health Care Workers
+776,true,Coronavirus Has Killed Thousands at Nursing Homes
+777,true,Will Coronavirus Exposure Mean Lasting Immunity?
+778,true,Little Known About COVID Patients' Loss of Smell
+779,true,Bar Owner Removes Cash From Walls to Pay Staff
+780,true,Higher Mortality Rate in Ventilated COVID-19 Patients
+781,true,New Registry to Zero In on CVD Role in COVID-19 Pandemic
+782,true,COMMENTARY: How 'Surge Staffing' Can Bring in the Cavalry to Fight COVID-19
+783,true,Where Did the COVID-19 Virus Come From?
+784,true,Husband Holds Sweet Sign to Support Wife in Chemo
+785,true,How Do You Choose Who Gets a Ventilator?
+786,true,Music Icon John Prine Dies from Coronavirus
+787,true,"'You Are the Heroes,' Comedians Tell Clinicians"
+788,true,AMA Asks HHS for 'Immediate' Aid to Ease Clinicians' 'Financial Peril' (if too long take out 'Immediate')
+789,true,COVID-19 Breast Cancer Patient Triage Guidelines (CPBCC)
+790,true,OSHA Guidance on Preparing the Workplace for COVID-19 (2020)
+791,true,COMMENTARY: Prioritizing Ambulatory Gynecology Care During COVID-19: The Latest Guidance
+792,true,COVID-19: Are Acute Stroke Patients Avoiding Emergency Care?
+793,true,"COVID-19 Daily: Hydroxychloroquine 'Concerns,' Financial Aid Request"
+794,true,COVID-19 Practical Tips: U.S. Docs Share Clinical Strategies
+795,true,Lessons From the HIV Epidemic for the COVID-19 Pandemic
+796,true,COMMENTARY: AMSA President: COVID-19 Shouldn't Sideline Med Students
+797,true,Nephrologists on Lessons Learned With Kidney Disease in COVID-19
+798,true,"COMMENTARY: Heroes From a Distance, 'Lepers' Up Close?"
+799,true,COVID-19 Hitting Some African American Communities Harder
+800,true,Potential COVID-19 Plateau Seen in NY and NJ
+801,true,Trump Won’t Socially Distance Himself From Pence
+802,true,School Closures May Be Adding to Kids' Waistlines
+803,true,"China's Controls May Have Headed Off 700,000 COVID-19 Cases: Study"
+804,true,Side Effects Halt Use of Chloroquine Vs. COVID-19
+805,true,Parasite Drug Shows Early Promise Against COVID-19
+806,true,Little Boy With Cystic Fibrosis Beats Coronavirus
+807,true,"COVID-19 Daily: Hospitals Struggle, Revisiting Vent Protocols"
+808,true,COMMENTARY: A Neurologist Over 60 Looks at COVID-19
+809,true,COVID-19 Linked to Multiple Cardiovascular Presentations
+810,true,"COVID-19 Exposes Potential Gaps in PPE Training, Effectiveness"
+811,true,Not All Biologics Compromise the Immune System
+812,true,Stay on Angiotensin Drugs' Still the Message as Trials Begin
+813,true,Surgeon General: This Week Is ‘Our Pearl Harbor'
+814,true,British PM Admitted to Hospital for COVID-19
+815,true,Trump: Toughest COVID-19 Weeks To Come
+816,true,Medical Societies Issue Bold Statement of Physician Support
+817,true,Mother-Baby Separation for COVID-19 Not Evidence-Based
+818,true,"COVID-19 Daily: Ventilator Protocols Questioned, Physician Rights"
+819,true,"Neurologic Symptoms and COVID-19: What's Known, What Isn't"
+820,true,"Coronavirus Is Aerosolized Through Talking, Exhalation"
+821,true,"COVID-19 Daily: More Will Die, First Antibody Test Authorized"
+822,true,Huge Global Effort for Clinical Trials in COVID-19
+823,true,"Doctor With COVID-19 Recovering After Treatment, ""Lot of Luck"""
+824,true,Silence Over Safety? Muzzling Clinicians a Public Health Issue
+825,true,AHA COVID-19 CVD Registry to Collect Data on CV Outcomes
+826,true,Medicaid Nearing ‘Eye Of The Storm’ As Newly Unemployed Look For Coverage
+827,true,Do I Have COVID-19? Doctors’ Free Tools May Tell
+828,true,Key Drugs Join PPEs on List of Front-Line Shortages
+829,true,Scammers Taking Advantage of N95 Mask Shoratge
+830,true,"82,000 Health Care Workers Volunteer for New York"
+831,true,Test for Coronavirus Antibodies Approved by FDA
+832,true,FDA OKs 1st Stem Cell Human Trial for COVID-19
+833,true,Study: If We Use Masks COVID Deaths Could Fall 10%
+834,true,"Worldwide, People Clapping for Hospital Workers"
+835,true,NYC Ambulances Won't Take Cardiac Arrest Patients
+836,true,COMMENTARY: COVID-19 Diary Day 1: Something Wicked This Way Comes
+837,true,COMMENTARY: Colorectal Cancer: Proposed Treatment Guidelines for the COVID-19 Era
+838,true,"The Week That Wasn't in COVID-19: Elon Musk, 'Pandemic' Scientist"
+839,true,First Case of Encephalitis Linked to COVID-19 Reported
+840,true,Patients on Steroids With COVID-19 Might Need Rescue Steroids
+841,true,COMMENTARY: Iranian Doctors 'Dance' to Defy Coronavirus
+842,true,Hard Truths From Infectious Disease Specialists
+843,true,COMMENTARY: Nephrologist #COVIDWarrior: 'We Are Winning Some of These Battles'
+844,true,Harsh Spring Allergy Season Spurs Hay Fever Fears
+845,true,"COVID-19 Daily: Encephalitis Case Report, Silent Spreaders"
+846,true,VOYAGER PAD: Clopidogrel Adds No Benefit to Rivaroxaban+Aspirin
+847,true,Worldwide Number of COVID-19 Cases Over 1 Million
+848,true,Stroke Drug Could Help COVID-19 Patients
+849,true,CDC: Separate Moms With Coronavirus From Newborns
+850,true,"Shortages Looming for Respirators, Masks, Gowns"
+851,true,"Man Recovers from COVID-19, Leaves Sweet Thanks"
+852,true,VA Health System Swamped by Coronavirus Patients
+853,true,"Zuckerberg, Gates Give Millions to COVID-19 Fight"
+854,true,Respirator Masks - In Short Supply
+855,true,"COVID-19 Daily: A Hospitalist's Advice, Fighting an 'Infodemic'"
+856,true,FDA Face Mask and Respirator Policy in COVID-19 (2020)
+857,true,COVID-19: Is Primary Care Ready to Switch to Telemedicine?
+858,true,"The Week That Wasn't in COVID-19: 17 Days, Peak in 3 Weeks, Croc"
+859,true,Hospitals Face Cash Crunch in 60-90 Days Due to COVID-19: Report
+860,true,COVID-19 and the Science of Social Distancing
+861,true,Medical Meetings May Be Forever Changed
+862,true,Trending Clinical Topic: Social Distancing
+863,true,COVID-19 'Infodemic': Researchers Step Up to Stop the Spread
+864,true,"New Guidance on Early Med School Graduation Amid COVID-19, LCME Says"
+865,true,What Coronavirus Precautions Do You Really Need?
+866,true,Researchers Develop COVID-19 Antibody Test
+867,true,Fauci: Don't Count on Summer Driving Virus Away
+868,true,U.S. Now Leads World in Coronavirus Cases
+869,true,Measuring Social Distancing to Slow COVID-19
+870,true,"Cough, Fever, Fatigue? Head to CDC's Online Coronavirus Symptom Checker"
+871,true,Three Countries Have Kept Coronavirus in Check; Here's How They Did It
+872,true,Teachers Cheer Students Amid Coronavirus Lockdown
+873,true,Why Germany Has Fewer COVID Deaths Than Neighbors
+874,true,"Dr. Anthony Fauci Threatened, Gets Security Boost"
+875,true,Federal Inmates Kept in Cells Due to Coronavirus
+876,true,"In Some Cases, COVID-19 May Harm the Brain"
+877,true,Another COVID-19 Vaccine Being Tested in Mice
+878,true,Grandpa’s Social Distance Dance-Off a Treat
+879,true,A Decade of Telemedicine Policy Has Advanced in Just 2 Weeks
+880,true,COMMENTARY: NYU Med Student Joins COVID Fight: 'Time to Step Up'
+881,true,No Staff COVID-19 Diagnoses After Plan at Chinese Cancer Center
+882,true,COVID-19: Mental Health Pros Come to the Aid of Frontline Comrades
+883,true,Financial Toxicity Is Common With Gynecologic Cancers
+884,true,Hydroxychloroquine: Possible COVID Drug Can Be Toxic to Retinas
+885,true,Trump: No Mask? Try Scarf for COVID-19 Protection
+886,true,Diabetes and Other Conditions Raise COVID-19 Risk
+887,true,U.S. Has Deadliest Day As Trump Warns About Future
+888,true,Frieden Calls Pandemic Battle “World War C”
+889,true,Heart Patients Need to Be Wary of Coronavirus
+890,true,'Pink Eye' Often a Symptom of COVID-19
+891,true,Medical Helpline Calls Soar as COVID-19 Spreads
+892,true,CNN’s Chris Cuomo Diagnosed With COVID-19
+893,true,32 States Have Issued Stay-at-Home Orders
+894,true,Dolly Parton Comforts Kids Amid Pandemic
+895,true,Coronavirus on Fabric: What You Should Know
+896,true,COVID-19 Deaths in Italy a Lesson for the US
+897,true,Mild COVID-19 Often Only Shows Gastro Symptoms
+898,true,Man Dies After Taking Chloroquine for Coronavirus
+899,true,COVID-19 Shifts Telehealth to the Center of Cardiology
+900,true,ICU Lessons on COVID-19 From Italian Front Line: Be Flexible
+901,true,Week-Old COVID-19 Urology Guidelines Already Outdated
+902,true,Health Workers Get Creative With Protective Gear
+903,true,Multi-Level Distancing Is Best Against COVID-19: Study
+904,true,"COVID-19 Daily: Lung Ultrasound Triage, Telemedicine Guide"
+905,true,COVID-19: Medical Students Await Emergency Arrangements
+906,true,"COVID-19 Guidance for Ophthalmologists (AAO, 2020)"
+907,true,"SCAI Goes Virtual, EAS Postponed, EuroPCR Holds On Amid COVID-19"
+908,true,Trump: Social Distancing Efforts Won’t Last Months
+909,true,"The Other Side of COVID-19: Milder Cases, Recovery"
+910,true,Coping With Cancer During the COVID-19 Pandemic
+911,true,Experts Sort Fact From Fiction on COVID-19 Myths
+912,true,2020 Olympics Unlikely to Start in July
+913,true,CDC Coronavirus Testing Decision To Haunt Nation
+914,true,FDA Warns to Watch for Fake COVID-19 Tests
+915,true,U.S. Nurses Facing Severe Stress Over Coronavirus
+916,true,New Test Will Give COVID-19 Results in 45 Minutes
+917,true,Celebrating Grandma's 95th From a Social Distance
+918,true,Getting Non-Coronavirus Care a Complicated Effort
+919,true,New York Orders Hospitals to Increase Capacity
+920,true,National Guard Mobilized to Help Hard-Hit States
+921,true,Food Banks Facing Shortages Due to Coronavirus
+922,true,7 Tips for Running Your Practice in the Coronavirus Crisis
+923,true,Abortion Access Shifting in Some States Amid COVID-19
+924,true,COMMENTARY: Advice for Lessening Your Pandemic Anxiety
+925,true,Top 10 Tips for Diabetes Telehealth Prophetic in Face of COVID-19
+926,true,Trump Details Machine to Decontaminate N95 Masks
+927,true,What To Know If Your Surgery Has Been Put on Hold
+928,true,FDA OKs Ventilator Sharing
+929,true,Johnson & Johnson to Test COVID Vaccine Candidate
+930,true,Companies Offer Freebies to Health Care Workers
+931,true,Evidence COVID Survivors' Blood May Help Very Ill
+932,true,AI Might Spot At-Risk COVID-19 Patients
+933,true,"Researchers Find Way to Clean, Re-Use N95 Masks"
+934,true,66 Coronavirus Cases in Maryland Nursing Home
+935,true,U.S. Army Opens Field Hospital in New York City
+936,true,Stars Perform Benefit Coronavirus Concert at Home
+937,true,Grandparents 'Grounded' From COVID-19 Crave Contact
+938,true,N95 Face Masks Could Be Sterilized and Re-Used
+939,true,"Too Many Patients, Too Few Ventilators: How U.S. Hospitals Cope With COVID-19"
+940,true,What If a COVID-19 Test Is Negative?
+941,true,Topol: US Betrays Healthcare Workers in Coronavirus Disaster
+942,true,CMS to Front Medicare Payments to Physicians for 3 Months
+943,true,COVID-19: More Hydroxychloroquine Data From France
+944,true,"Guidance on Obstetric COVID-19 (ISUOG, 2020)"
+945,true,More Than 60 Doctors in Italy Have Died in COVID-19 Pandemic
+946,true,Control of COVID-19 in Nursing Homes Guidelines (2020)
+947,true,Coding for Coronavirus: NEW Guidance Replaces Rule of 1 Month Ago
+948,true,"Social Distancing May Be Working, New Study Hints"
+949,true,Coronavirus Similar to One Found in Pangolins
+950,true,Critics Lead Gilead to Drop Coronavirus Drug Status
+951,true,COVID-19 Likely Seasonal
+952,true,Young People Far From Immune to Coronavirus' Bite
+953,true,Severe COVID-19 Might Injure the Heart
+954,true,"COVID-19: 'Striking' Rates of Anxiety, Depression in HCPs"
+955,true,"Novel Coronavirus May Be Transmitted via FMT, FDA Warns"
+956,true,COVID-19: Dramatic Changes to Telepsychiatry Rules and Regs
+957,true,Commentary: What Neurologists Can Expect From COVID-19
+958,true,Guidelines on Delaying Cancer Surgery During COVID-19
+959,true,Keep Calm: Under 25s With Diabetes Not Hospitalized Due to COVID-19
+960,true,"Amid PPE Shortage, Clinicians Face Harassment, Firing for Self-Care"
+961,true,Team Doctors Jump In After Professional Athletes Benched
+962,true,Commentary: Lessons on COVID-19 From Low-Income Countries
+963,true,"Current US Visa Rules Restrict, Limit COVID-19 Physician Pool"
+964,true,Rapid COVID-19 Clinical Practice Guidelines (2020)
+965,true,NYC Hospitals Struggle with Coronavirus Surge
+966,true,Commentary: Cardiology in the Time of COVID-19
+967,true,"COVID-19 Daily: Ground Zero Hospital, PPE Fights"
+968,true,FDA Clears Ozanimod (Zeposia) for MS; COVID-19 Delays Launch
+969,true,"Hospital Hacks for COVID-19 Shortages Come With Promise, Warnings"
+970,true,"AHA Guidance for CPR, Emergency CV Care Amid COVID-19"
+971,true,"COVID-19 Daily: Hospital Hacks, Tips for Small Practices"
+972,true,AAO Urges Ophthalmologists to Provide Emergency Care Only
+973,true,"Guidelines for Evaluating and Testing Persons Under Investigation for COVID-19 (CDC, 2020)"
+974,true,"Cancer Care and COVID-19 in Seattle, the First US Epicenter"
+975,true,State Lines Erased for Doctors During COVID-19
+976,true,Commentary: What If There Is a Virtual ACC and Nobody Cares?
+977,true,NYU Med School Offers Early Graduation for Help With COVID-19
+978,true,"Cardiac Injury Common in COVID-19, Predicts Mortality"
+979,true,Commentary: How to Start Doing Telemedicine Now (In the COVID-19 Crisis)
+980,true,Scientists Track Genetic Changes of Coronavirus
+981,true,U.S. Marks Deadliest Day of Coronavirus Crisis
+982,true,Fauci on Easter Re-Opening: 'Be Very Flexible'
+983,true,What People With Parkinson's Need to Know About COVID-19
+984,true,"COVID-19 Likely Worse for Vapers, Smokers"
+985,true,How to Weather Social Isolation
+986,true,Do All Seniors Need Same Coronavirus Precautions?
+987,true,Couple Donates Flowers as Pandemic Halts Wedding
+988,true,FDA Approved Drugs Show Promise Against COVID-19
+989,true,Florida Students Bring COVID Back from Spring Break
+990,true,Potential Coronavirus Drugs Already in Low Supply
+991,true,U.S. Hospital Beds Were Maxed Out Before Pandemic
+992,true,Incomplete State COVID-19 Reports Blur The Picture
+993,true,Are Vital Home Health Workers Now A Safety Threat?
+994,true,Sidewalk Chalk Used to Spread Joy Amid Pandemic
+995,true,Could Robots Be Deployed in Battle With COVID-19?
+996,true,COVID-19 May Delay Some Cancer Treatments
+997,true,Lawmakers Reach Deal on Coronavirus Relief Package
+998,true,COVID-19 Cases in New York Are Surging
+999,true,FDA Eases Blood Plasma Treatment Rule for COVID
+1000,true,Medical Glove Makers Working With Half Their Staff
+1001,true,Amazon Suspends Accounts for Price Gouging
+1002,true,COVID-19 and Angiotensin Drugs: Help or Harm?
+1003,true,"COVID-19: Mitigating Loneliness, Anxiety in Seniors"
+1004,true,"Guidance on Cardiac Implications of COVID-19 (ACC, 2020)"
+1005,true,"COVID-19 Daily: Physician Gag Orders, 'Coronavirus Party'"
+1006,true,Commentary: Pandemic Foreshadows Crisis in Mental Health Services
+1007,true,Coronavirus: Is It Safe to Get Deliveries?
+1008,true,Social Distancing May Need to Last Months: Study
+1009,true,A Wuhan Doctor on the Front Lines: 'Fear to the First Degree'
+1010,true,"Managing Children's Fear, Anxiety in the Age of COVID-19"
+1011,true,Early GI Symptoms in COVID-19 May Indicate Fecal Transmission
+1012,true,Scientists Seek Answers to Hypertension-COVID-19 Link
+1013,true,COVID-19: Who's Protecting the Protectors?
+1014,true,Lack of Paid Sick Leave a Coronavirus Threat
+1015,true,COVID-19 Symptoms
+1016,true,Some Could Show COVID-19 Symptoms After Quarantine
+1017,true,Spread of Coronavirus Cancels Travel and Events
+1018,true,Commentary: Eyewitness: Shanghai Life in the Shadow of COVID-19
+1019,true,Endocrine Society Meeting Canceled Because of Novel Coronavirus
+1020,true,ACC Cancels Scientific Sessions Over Novel Coronavirus
+1021,true,European Heart Rhythm Association Cancels March Congress
+1022,true,More Medical Conferences Fall to Coronavirus
+1023,true,CROI Goes Digital After COVID-19 Cases Rise in Boston
+1024,true,Risk Factors for Death From COVID-19 Identified
+1025,true,Standard Methods Rid Hospital Rooms of Coronavirus
+1026,true,Hand-Washing to Prevent Coronavirus Spread
+1027,true,Antiviral Drug Combo Ineffective Vs. Coronavirus
+1028,true,Hong Kong Has Spike in Coronavirus Cases
+1029,true,Calming Your Child's Coronavirus Fears
+1030,true,Coronavirus Crisis Should Delay Elective Surgeries
+1031,true,Digestive Symptoms Tied to Worse COVID-19 Outcomes
+1032,true,Funeral Homes Ponder Deaths In The Age Of COVID-19
+1033,true,Man Serenades Seniors During Coronavirus Lockdown
+1034,true,"Record High Flu Hospitalization Rates for Young Kids, Young Adults"
+1035,true,"COVID-19: ACC Cautions on Troponin, Natriuretic Peptide Tests"
+1036,true,ID Specialist Diagnosed With COVID-19 in 'Ironic Twist'
+1037,true,"COVID-19 Daily: ID Doc Tests Positive, Young Adults Hit Hard"
+1038,true,'Larger Than Life' Physician Stephen Schwartz Dies of COVID-19
+1039,true,20% of US COVID-19 Deaths Were Young Adults
+1040,true,About Half of COVID-19 Cases Show Digestive Signs
+1041,true,New China Report Sets COVID-19 Death Rate at 1.4%
+1042,true,Coronavirus Drives Island City to Shelter in Place
+1043,true,Two Members of Congress Diagnosed With Coronavirus
+1044,true,Stores Offer Special Hours for Seniors
+1045,true,"Coronavirus Striking Plenty of Young People, Too"
+1046,true,Healthy Living at Home to Ward Off Coronavirus
+1047,true,What to Know About Coronavirus If You Have Asthma
+1048,true,Trump Signs Relief Package Into Law
+1049,true,Coronavirus and NSAIDs: What Experts Say
+1050,true,Coronavirus Ravages New Orleans Retirement Home
+1051,true,Medicare Expands Telemedicine During Pandemic
+1052,true,Small Study Analyzes Italy Coronavirus Deaths
+1053,true,Coronavirus News: Italy Now Leads The World In Coronavirus Deaths
+1054,true,States Tighten Restrictions as Coronavirus Rages
+1055,true,COVID-19 and Kindness is Trending
+1056,true,"Coronavirus Daily Digest: April 13, 2020"
+1057,true,"Coronavirus Daily Digest: April 14, 2020"
+1058,true,"Coronavirus Daily Digest: April 15, 2020"
+1059,true,"Coronavirus Daily Digest: April 16, 2020"
+1060,true,"Coronavirus Daily Digest: March 30, 2020"
+1061,true,"Coronavirus Daily Digest: April 10, 2020"
+1062,true,"Coronavirus Daily Digest: April 3, 2020"
+1063,true,"Coronavirus Daily Digest: April 8, 2020"
+1064,true,"Coronavirus Daily Digest: April 7, 2020"
+1065,true,"Coronavirus Daily Digest: March 31, 2020"
+1066,true,"Coronavirus Daily Digest: March 23, 2020"
+1067,true,"Coronavirus Daily Digest: March 24, 2020"
+1068,true,"Coronavirus Daily Digest: April 1, 2020"
+1069,true,"Coronavirus Daily Digest: March 27, 2020"
+1070,true,"Coronavirus Daily Digest: April 6, 2020"
+1071,true,"Coronavirus Daily Digest: April 2, 2020"
+1072,true,"Coronavirus Daily Digest: March 26, 2020"
+1073,true,"Coronavirus Daily Digest: March 25, 2020"
+1074,true,"Coronavirus Daily Digest: April 9, 2020"
+1075,true,"Coronavirus Daily Digest: March 20, 2020"
+1076,true,Coronavirus: Colleges to Empty Dorms for Patients
+1077,true,"Coronavirus Daily Digest: April 17, 2020"
+1078,true,First COVID Deaths in the US Mobilized a Dialysis Network
+1079,true,COVID-19: GMC Invites More Doctors Back to Work
+1080,true,"COVID-19 Daily: Topol Laments Betrayal, HCP Couples Prepare"
+1081,true,"Firings, Furloughs, and Pay Cuts in Advance of COVID-19 Surge"
+1082,true,Acute Stroke Care During COVID-19: AHA's Emergency Strategy
+1083,true,COMMENTARY: COVID-19 Diary Day 2: Insomnia -- The Mark of Medical Practice
+1084,true,Should Docs Stop Providing Routine Care in the Era of COVID-19?
+1085,true,Doctors Now Can Work Across State Lines in COVID-19 Crisis
+1086,true,COVID-19 Prompts 'Lifesaving' Policy Change for Opioid Addiction
+1087,true,"The Science of Handwashing: Rub, Don't Scrub Hands Raw"
+1088,true,Italian Oncologist's Cautionary Advice on COVID-19 for US Centers
+1089,true,Kaiser's COVID-19 Chief Shares Surge Strategies
+1090,true,Mexico Confirms Its First Cases of Coronavirus
+1091,true,"COVID-19: Centenarian Survives, High-Risk Blood Types"
+1092,true,DIY Masks for COVID-19
+1093,true,Trending Clinical Topic: Pandemic
+1094,true,COVID-19 and PPE: Some of Us Will Die
+1095,true,DIY Masks: Worth the Risk? Researchers Are Conflicted
+1096,true,Radiology Must Adapt to New Pandemic
+1097,true,EMA Says Stay on Angiotensin Drugs During COVID-19 Pandemic
+1098,true,High Anxiety in America Over COVID-19
+1099,true,Blood Type May Affect COVID-19 Risk
+1100,true,Canceled Blood Drives Lead to ‘Severe’ Shortage
+1101,true,Home Test Kits for COVID-19 May Be Available Soon
+1102,true,Flu Drug Works Vs. Coronavirus: Chinese Study
+1103,true,"New Coronavirus Wasn't Made in a Lab, Genomic Study Shows"
+1104,true,Obesity Might Be 'Contagious' Among Teens
+1105,true,Disruptive School Closings Raise Questions of Equity
+1106,true,U.S. May Not Have Enough Ventilators for COVID-19
+1107,true,COVID-19: Could Hydroxychloroquine Really Be the Answer?
+1108,true,Commentary: Physicians and Health Systems Can Reduce Fear Around COVID-19
+1109,true,Clinicians Petition Government for National Quarantine
+1110,true,Two Emergency Physicians Remain in Critical Condition From COVID-19
+1111,true,Who's Most at Risk From Coronavirus?
+1112,true,The Most Effective Ways to Kill Coronavirus in Your Home
+1113,true,Mild Cases May Be Driving Coronavirus Spread
+1114,true,Novel Coronavirus: Study Suggests Multiple Shedding Routes
+1115,true,"Novel Coronavirus a 'Tremendous Public Health Threat,' CDC Says"
+1116,true,Trending Clinical Topic: COVID-19
+1117,true,Could Climate Change Make Flu Seasons Worse?
+1118,true,Silent COVID-19 Cases May Stymie Screening Efforts
+1119,true,Have the Public Health Restrictions Gone Too Far for COVID-19?
+1120,true,Doctors Look to Existing Drugs in Coronavirus Fight
+1121,true,"Is It Flu, Or Flu-Like? It's Miserable Either Way"
+1122,true,New Coronavirus May be Cause of Outbreak in China
+1123,true,This Year's Flu Season Taking Deadly Aim at Kids
+1124,true,First U.S. Case of China Coronavirus Diagnosed
+1125,true,Deadly New Coronavirus Can Spread Between Humans
+1126,true,Could Your Fitbit Help Detect the Flu?
+1127,true,CDC to Screen for Novel Coronavirus at Three US Airports
+1128,true,"Flu Shot No Match for 'B' Strain, Season Rages On"
+1129,true,Coronavirus Rumor Mill Rampant With Bogus News
+1130,true,Man Fights to Get Family Out of China Amid Outbreak
+1131,true,Coronavirus Is Bad but US Flu's New Numbers Still Far Worse
+1132,true,CDC Confirms Second U.S. Coronavirus Case
+1133,true,Washington Monitors Coronavirus Patient’s Contacts
+1134,true,Coronavirus News: What's Happening with the COVID-19 2020 Outbreak
+1135,true,3 U.S. Airports to Screen for Chinese Coronavirus
+1136,true,Mystery Coronavirus from China: What to Know
+1137,true,Hashtag Medicine: Coronavirus Fear Goes Viral on Social Media
+1138,true,First Spread of Coronavirus in U.S. Confirmed
+1139,true,Commentary: Novel Coronavirus (2019-nCoV): FAQs for Clinicians
+1140,true,Many Child Care Centers Don't Require Flu Shots
+1141,true,COVID-19 Forecasts for the United States
+1142,true,COVID-19 Travel Recommendations by Country
+1143,true,Coronavirus and Travel in the United States
+1144,true,U.S. Clinical Laboratories Reporting SARS-CoV-2 Test Results to CDC
+1145,true,COVIDView Weekly Summary
+1146,true,Testing for COVID-19
+1147,true,Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)
+1148,true,COVID-19 Considerations for Cleaner Air Shelters and Cleaner Air Spaces to Protect the Public from Wildfire Smoke
+1149,true,Videos
+1150,true,Coronavirus Disease 2019 (COVID-19)
+1151,true,Resources for Community and Faith-Based Leaders
+1152,true,Downloadable Videos
+1153,true,Environmental Health Practitioners
+1154,true,Data Visualization
+1155,true,Frequently Asked Questions on COVID-19 Testing at Laboratories
+1156,true,Previous COVID-19 Forecasts
+1157,true,U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet): Overall Percentage of Visits for ILI
+1158,true,NCHS Mortality Surveillance Data
+1159,true,Emergency Department Visits Percentage of Visits for COVID-19-Like Illness (CLI) or Influenza-like Illness (ILI)
+1160,true,Percentage of Visits for ILI by Age Group Reported by A Subset of ILINet Providers
+1161,true,U.S. State and Local Public Health Laboratories Reporting to CDC
+1162,true,Commercial Labs
+1163,true,Responder Stories
+1164,true,CDC shares 9 tons of protective gear with responders
+1165,true,Operational Considerations for Personal Protective Equipment in the Context of Global Supply Shortages for Coronavirus Disease 2019 (COVID-19) Pandemic: non-US Healthcare Settings
+1166,true,Communication Resources for Travelers
+1167,true,Ten Clinical Tips on COVID-19 for Healthcare Providers Involved in Patient Care
+1168,true,First Responders and Law Enforcement
+1169,true,Transportation and Delivery
+1170,true,Communication Resources
+1171,true,Contact Tracing
+1172,true,Cases & Latest Updates
+1173,true,Strategies for Optimizing the Supply of Disposable Medical Gloves
+1174,true,If You Have Pets
+1175,true,Animals and Coronavirus Disease 2019 (COVID-19)
+1176,true,Resources for Correctional and Detention Facilities
+1177,true,What School Nutrition Professionals and Volunteers at Schools Need to Know about COVID-19
+1178,true,Testing for Coronavirus (COVID-19) in Nursing Homes
+1179,true,Responding to Coronavirus (COVID-19) in Nursing Homes
+1180,true,Clinical Care Guidance for Healthcare Professionals about Coronavirus (COVID-19)
+1181,true,COVID-19 By the Numbers
+1182,true,Decontamination and Reuse of Filtering Facepiece Respirators using Contingency and Crisis Capacity Strategies
+1183,true,Mitigate Healthcare Personnel Staffing Shortages
+1184,true,Criteria for Return to Work for Healthcare Personnel with Confirmed or Suspected COVID-19 (Interim Guidance)
+1185,true,Social Media Toolkit
+1186,true,"""Reopening Guidance for Cleaning and Disinfecting Public Spaces, Workplaces, Businesses, Schools, and Homes"""
+1187,true,Contact Tracing : Part of a Multipronged Approach to Fight the COVID-19 Pandemic
+1188,true,Caring for someone at home
+1189,true,"""Interim Guidelines for Collecting, Handling, and Testing Clinical Specimens from Persons for Coronavirus Disease 2019 (COVID-19)"""
+1190,true,Communication Toolkit for Airlines to inform Travelers and Crew
+1191,true,Healthcare Provider and Facility Guidance for Non-US Settings
+1192,true,Cases in U.S.
+1193,true,People Who Need to Take Extra Precautions
+1194,true,Communication Toolkit for Transportation Partners to Inform Road Travelers
+1195,true,Care for Breastfeeding Women
+1196,true,Key Resources
+1197,true,COVID-19 Serology Surveillance Strategy
+1198,true,Additional Training Objectives
+1199,true,COVID-19 Contact Tracing Training Guidance and Resources
+1200,true,Identify Strategies to Reduce Spread of COVID-19
+1201,true,Children and Coronavirus Disease 2019 (COVID-19): Tips to keep children healthy while school’s out
+1202,true,"""Support for States, Tribes, Localities and Territories"""
+1203,true,Testing
+1204,true,What To Do if You Are Sick
+1205,true,Environmental Cleaning and Disinfection Recommendations
+1206,true,Cleaning and Disinfecting Your Facility
+1207,true,Guidance for U.S. Healthcare Facilities about Coronavirus (COVID-19)
+1208,true,Frequently Asked Questions and Answers: Coronavirus Disease-2019 (COVID-19) and Children
+1209,true,Test for Current Infection
+1210,true,Antibody Testing
+1211,true,"""COVID-19 Staffing Guidance for State, Tribal, Local, and Territorial Health Departments"""
+1212,true,Global COVID-19
+1213,true,Symptoms
+1214,true,Living in Shared Housing
+1215,true,Travel: Frequently Asked Questions and Answers
+1216,true,Key Strategies to Prepare for COVID-19 in Long-term Care Facilities (LTCFs)
+1217,true,Laboratory Capacity
+1218,true,Dental Settings
+1219,true,FAQs for Law Enforcement Agencies and Personnel
+1220,true,Global case numbers are reported by the World Health Organization (WHO)
+1221,true,Evaluating and Reporting Persons Under Investigation (PUI)
+1222,true,Meat and Poultry Processing Workers and Employers
+1223,true,Information for Clinicians on Therapeutic Options for COVID-19 Patients
+1224,true,COVID-19 Guidance for Shared or Congregate Housing
+1225,true,Cases & Deaths by County
+1226,true,Public Service Announcements (PSAs)
+1227,true,COVID-19 Buttons and Badges
+1228,true,U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet): Overall Percentage of Visits for ILI
+1229,true,NCHS Mortality Surveillance Data
+1230,true,How to Protect Yourself
+1231,true,U.S. Clinical Laboratories Reporting SARS-CoV-2 Test Results to CDC
+1232,true,Commercial Labs
+1233,true,Emergency Department Visits Percentage of Visits for COVID-19-Like Illness (CLI) or Influenza-like Illness (ILI)
+1234,true,Percentage of Visits for ILI by Age Group Reported by A Subset of ILINet Providers
+1235,true,U.S. State and Local Public Health Laboratories Reporting to CDC
+1236,true,COVIDView Summary ending on April 18
+1237,true,Coronavirus Disease 2019 Information for Travel (New Travel Alerts)
+1238,true,CDC in Action
+1239,true,Elastomeric Respirators: Strategies During Conventional and Surge Demand Situations
+1240,true,COVID-19 Infection Prevention and Control in Healthcare Settings: Questions and Answers
+1241,true,Resources for State
+1242,true,Interim Guidance for Public Health Professionals Managing People With COVID-19 in Home Care and Isolation Who Have Pets or Other Animals
+1243,true,Resources for Hospitals and Healthcare Professionals Preparing for Patients with Suspected or Confirmed COVID-19
+1244,true,Financial Resources
+1245,true,Water Transmission and COVID-19
+1246,true,Information for Healthcare Professionals
+1247,true,Preguntas frecuentes relativas a la prevención y el control de infecciones asociadas a la atención médica para el COVID-19
+1248,true,Assessing Risk Factors for Severe COVID-19 Illness
+1249,true,Interim Guidance for Reopening Employers with Vulnerable Workers
+1250,true,Confirmation of COVID-19 in Two Pet Cats in New York
+1251,true,Management of Visitors to Healthcare Facilities in the Context of COVID-19: Non-US Healthcare Settings
+1252,true,Information for Healthcare Providers: COVID-19 and Pregnant Women
+1253,true,Strategies for Optimizing Supply of N95 Respirators
+1254,true,Strategies for Optimizing the Supply of PPE
+1255,true,Interim guidance for homeless service providers to plan and respond to coronavirus disease 2019 (COVID-19)
+1256,true,Assessing & Managing Risk Based on Different Exposures to COVID-19
+1257,true,Interim Operational Considerations for Public Health Management of Healthcare Workers Exposed to or Infected with COVID-19: non-US Healthcare Settings
+1258,true,Other At-Risk Populations
+1259,true,COVID-19 in Racial and Ethnic Minority Groups
+1260,true,Healthcare Supply of Personal Protective Equipment
+1261,true,Guidance for Building Water Systems
+1262,true,CDC’s role in helping cruise ship travelers during the COVID-19 pandemic
+1263,true,People Experiencing Homelessness
+1264,true,Homelessness and COVID-19 FAQs
+1265,true,Guía para las instituciones de educación superior
+1266,true,Institutes of Higher Education Checklist
+1267,true,COVID-19Surge
+1268,true,Screening clients for respiratory infection symptoms at entry to homeless shelters
+1269,true,For Child Care Programs That Remain Open
+1270,true,Infection Prevention and Control in Diverse Settings
+1271,true,Interim Guidance for Implementing Safety Practices for Critical Infrastructure Workers Who May Have Had Exposure to a Person with Suspected or Confirmed COVID-19
+1272,true,General Business Frequently Asked Questions
+1273,true,Situation Summary
+1274,true,Considerations for Optimizing the Supply of Powered Air-Purifying Respirators (PAPRs)
+1275,true,Interim Guidance on Management of Coronavirus Disease 2019 (COVID-19) in Correctional and Detention Facilities
+1276,true,Households Living in Close Quarters
+1277,true,"""CDC Response Corps to Support State, Tribal, Local, and Territorial Health Departments"""
+1278,true,Information for Pediatric Healthcare Providers
+1279,true,Serology Testing for COVID-19
+1280,true,Surveillance and Data Analytics
+1281,true,Staffing Resources
+1282,true,Community Mitigation
+1283,true,Communication Materials
+1284,true,Considerations for Providing Hemodialysis to Patients with Suspected or Confirmed COVID-19 in Acute Care Settings
+1285,true,Groups at Higher Risk for Severe Illness
+1286,true,Commercial Labs
+1287,true,U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet): Overall Percentage of Visits for ILI
+1288,true,NCHS Mortality Surveillance Data
+1289,true,U.S. Clinical Laboratories Reporting SARS-CoV-2 Test Results to CDC
+1290,true,"""National Syndromic Surveillance Program (NSSP): Emergency Department Visits Percentage of Visits for COVID-19-Like Illness (CLI) or Influenza-like Illness (ILI) September 29, 2019 - April 4, 2020 Data as of April 9, 2020"""
+1291,true,U.S. State and Local Public Health Laboratories Reporting to CDC
+1292,true,Considerations for Pharmacies during the COVID-19 Pandemic
+1293,true,Healthcare Professionals: Frequently Asked Questions and Answers
+1294,true,Stress and Coping
+1295,true,Checklist for Healthcare Facilities: Strategies for Optimizing the Supply of N95 Respirators during the COVID-19 Response
+1296,true,Travelers from Countries with Widespread Sustained (Ongoing) Transmission Arriving in the United States
+1297,true,Training for Healthcare Professionals
+1298,true,Considerations When Preparing for COVID-19 in Assisted Living Facilities
+1299,true,If You Are Sick
+1300,true,"""Communities, Schools, and Workplaces"""
+1301,true,Standard Operating Procedure (SOP) for Triage of Suspected COIVD-19 Patients in non-US Healthcare Settings
+1302,true,Guidance for the Identification of Healthcare Workers and Inpatients with Suspected COVID-19 in non-US Healthcare Settings
+1303,true,People Who are at Higher Risk
+1304,true,Information for Laboratories
+1305,true,Public Health Communicators: Get Your Community Ready
+1306,true,Evaluation for SARS-CoV-2 Testing in Animals
+1307,true,Laboratory Work
+1308,true,Tribal Communities
+1309,true,Print Resources
+1310,true,Cleaning and Disinfection for Non-emergency Transport Vehicles
+1311,true,What You Can Do
+1312,true,Use of Cloth Face Coverings to Help Slow the Spread of COVID-19
+1313,true,How Coronavirus Spreads
+1314,true,Social Distancing for Tribal Communities with Local COVID-19 Transmission
+1315,true,Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19)
+1316,true,Frequently Asked Questions: Funeral and Burial Services for American Indians and Alaska Natives
+1317,true,Interim Guidance for Conserving and Extending Filtering Facepiece Respirator Supply in Non-Healthcare Sectors
+1318,true,COVID-19 and Cooling Centers
+1319,true,Resources for Parks and Recreational Facilities
+1320,true,What Bus Transit Operators Need to Know About COVID-19
+1321,true,What Transit Maintenance Workers Need to Know About COVID-19
+1322,true,Interim Considerations for Infection Prevention and Control of Coronavirus Disease 2019 (COVID-19) in Inpatient Obstetric Healthcare Settings
+1323,true,FAQs for Correctional and Detention Facilities
+1324,true,Preventing the Spread of COVID-19 in Retirement Communities and Independent Living Facilities (Interim Guidance)
+1325,true,Resources for Businesses and Employers
+1326,true,Interim Guidance for Administrators of US K-12 Schools and Childcare Programs
+1327,true,U.S. State and Local Public Health Laboratories Reporting to CDC
+1328,true,Running Essential Errands
+1329,true,U.S. Clinical Laboratories Reporting SARS-CoV-2 Test Results to CDC
+1330,true,Discontinuation of Home Isolation for Persons with COVID-19 (Interim Guidance)
+1331,true,"""U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet): Percentage of Visits for ILI by Age Group Reported by A Subset of ILINet Providers September 29, 2019 - April 4, 2020 Data as of April 9, 2020"""
+1332,true,NCHS Mortality Surveillance Data
+1333,true,"""National Syndromic Surveillance Program (NSSP): Emergency Department Visits Percentage of Visits for COVID-19-Like Illness (CLI) or Influenza-like Illness (ILI) September 29, 2019 - April 4, 2020 Data as of April 9, 2020"""
+1334,true,U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet): Overall Percentage of Visits for ILI
+1335,true,"""U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet): Percentage of Visits for ILI by Age Group Reported by A Subset of ILINet Providers September 29, 2019 - April 4, 2020 Data as of April 9, 2020"""
+1336,true,Interim Guidance for Public Health Personnel Evaluating Persons Under Investigation (PUIs) and Asymptomatic Close Contacts of Confirmed Cases at Their Home or Non-Home Residential Settings
+1337,true,Protect Yourself and Others from COVID-19 When Visiting Parks and Recreational Facilities
+1338,true,Guidance for Administrators in Parks and Recreational Facilities
+1339,true,What Rail Transit Operators Need to Know About COVID-19
+1340,true,CDC Announces Modifications and Extension of No Sail Order for All Cruise Ships
+1341,true,Disinfecting your home if someone is sick
+1342,true,Guidance Documents
+1343,true,FAQs for Administrators and Leaders at Community- and Faith-Based Organizations
+1344,true,Interim Guidance for Businesses and Employers
+1345,true,How to Prepare
+1346,true,Personal Protective Equipment (PPE) Burn Rate Calculator
+1347,true,Older Adults
+1348,true,Snapshot of CDC Guidance for Homeless and Meal Service Providers for Emergency and Day Shelters
+1349,true,Resources to support people experiencing homelessness
+1350,true,Protect Your Family
+1351,true,Interim Additional Guidance for Outpatient and Ambulatory Care Settings: Responding to Community Transmission of COVID-19 in the United States
+1352,true,People with Disabilities
+1353,true,Strategic priority infection prevention and control (IPC) activities for containment and prevention of COVID-19 cases at healthcare facilities in non-US settings
+1354,true,Information for Healthcare Professionals: COVID-19 and Underlying Conditions
+1355,true,FAQs about Hand Hygiene for Healthcare Personnel
+1356,true,CDC Launches New Weekly COVID-19 Surveillance Report
+1357,true,Prepare your Small Business and Employees for the Effects of COVID-19
+1358,true,"""Social Distancing, Quarantine, and Isolation"""
+1359,true,Cloth Face Coverings: Questions and Answers
+1360,true,What Airline Customer Service Representatives and Gate Agents Need to Know about COVID-19
+1361,true,COVID-19-Related Phone Scams and Phishing Attacks
+1362,true,Stop the Spread of Rumors
+1363,true,"""Recommendation Regarding the Use of Cloth Face Coverings, Especially in Areas of Significant Community-Based Transmission"""
+1364,true,What Aircraft Maintenance Workers Need to Know about COVID-19
+1365,true,Healthcare Infection Prevention and Control FAQs for COVID-19
+1366,true,Interim Guidance for Collection and Submission of Postmortem Specimens from Deceased Persons Under Investigation (PUI) for COVID-19
+1367,true,Graphics and Images
+1368,true,People with Asthma and COVID-19
+1369,true,Clean & Disinfect
+1370,true,What Law Enforcement Personnel Need to Know about Coronavirus Disease 2019 (COVID-19)
+1371,true,Talking with children about Coronavirus Disease 2019
+1372,true,Disinfecting Your Facility if Someone is Sick
+1373,true,Schools & Childcare: Guidance for School Settings
+1374,true,"""Preparing for COVID-19: Long-term Care Facilities, Nursing Homes"""
+1375,true,Resources for Large Community Events & Mass Gatherings
+1376,true,Previous U.S. COVID-19 Case Data
+1377,true,Public Health Recommendations for Community-Related Exposure
+1378,true,Interim Laboratory Biosafety Guidelines for Handling and Processing Specimens Associated with Coronavirus Disease 2019 (COVID-19)
+1379,true,Prepare to Care for COVID-19: Get Your Practice Ready
+1380,true,Travelers Prohibited from Entry to the United States
+1381,true,Phone Advice Line Guidelines for Children (2-17 years) or Adults (≥ 18 years) with Possible COVID-19
+1382,true,Get Ready for COVID-19
+1383,true,Interim Guidance for Outpatient Hemodialysis Facilities
+1384,true,Reducing Stigma
+1385,true,"""CDC Issues Domestic Travel Advisory for New York, New Jersey, and Connecticut"""
+1386,true,"""Keeping Workplaces, Homes, Schools, or Commercial Establishments Safe"""
+1387,true,Protect your home
+1388,true,Travelers Returning from Cruise Ship and River Cruise Voyages
+1389,true,Respuestas a las preguntas más frecuentes
+1390,true,Alternative Care Sites
+1391,true,Get Your Home Ready
+1392,true,CDC Statement on Self-Quarantine Guidance for Greater New York City Transportation and Delivery Workers
+1393,true,Screening and Triage at Intake
+1394,true,Coronavirus disease 2019 (COVID-19) Checklist: Older Persons
+1395,true,Resources for Healthcare Facilities
+1396,true,Publications
+1397,true,Related Materials
+1398,true,Get Your Community- and Faith-Based Organizations Ready for Coronavirus Disease 2019
+1399,true,Florida Community Mitigation
+1400,true,People Experiencing Unsheltered Homelessness Interim Guidance
+1401,true,Interim Guidance for Responding to Coronavirus Disease 2019 (COVID-19) among People Experiencing Unsheltered Homelessness
+1402,true,Resources for Institutes of Higher Education
+1403,true,Blood and Plasma Collection
+1404,true,Information for Health Departments on Reporting Cases of COVID-19
+1405,true,Steps Healthcare Facilities Can Take Now to Prepare for Coronavirus Disease 2019 (COVID-19)
+1406,true,Retirement Communities and Independent Living
+1407,true,Steps Healthcare Facilities Can Take
+1408,true,Retirement Communities and Independent Living Facilities
+1409,true,Interim Guidance for Implementing Home Care of People Not Requiring Hospitalization for Coronavirus Disease 2019 (COVID-19)
+1410,true,Strategies to Allocate Ventilators from Stockpiles to Facilities
+1411,true,K-12 Schools and Childcare Programs
+1412,true,Frequently Asked Questions about Laboratory Biosafety and SARS-CoV-2
+1413,true,"""COVID-19 in a Long-Term Care Facility — King County, Washington, February 27–March 9, 2020"""
+1414,true,"""Severe Outcomes Among Patients with Coronavirus Disease 2019 (COVID-19) — United States, February 12–March 16, 2020"""
+1415,true,Frequently Asked Questions about Hand Hygiene for Healthcare Personnel Responding to COVID-2019
+1416,true,COVID-19: What people with HIV should know
+1417,true,Caring for Yourself at Home
+1418,true,Interim Guidance for Administrators of US Institutions of Higher Education
+1419,true,Institutes of Higher Education
+1420,true,Strategies for Optimizing the Supply of Facemasks
+1421,true,Strategies for Optimizing the Supply of Eye Protection
+1422,true,Strategies for Optimizing the Supply of Isolation Gowns
+1423,true,"""Initial Investigation of Transmission of COVID-19 Among Crew Members During Quarantine of a Cruise Ship — Yokohama, Japan, February 2020"""
+1424,true,Strategies for Optimizing the Supply of N95 Respirators: Crisis/Alternate Strategies
+1425,true,"Santa Clara County, California Community Mitigation"
+1426,true,Massachusetts Community Mitigation
+1427,true,"""New Rochelle, New York (Westchester County) Community Mitigation"""
+1428,true,"""Seattle-King, Pierce and Snohomish , Washington Community Mitigation"""
+1429,true,Criteria for Return to Work for Healthcare Personnel with Confirmed or Suspected (COVID-19)
+1430,true,Strategies for Optimizing the Supply of N95 Respirators: Contingency Capacity Strategies
+1431,true,Get Your Mass Gatherings or Large Community Events Ready
+1432,true,Discontinuation of In-Home Isolation for Immunocompromised Persons with COVID-19 (Interim Guidance)
+1433,true,FAQs for Event Organizers & Individuals
+1434,true,Caring for Someone Who Is Sick
+1435,true,CDC Statement for Healthcare Personnel on Hand Hygiene during the Response to the International Emergence of COVID-19
+1436,true,"""Evaluation of the Effectiveness of Surveillance and Containment Measures for the First 100 Patients with COVID-19 in Singapore — January 2–February 29, 2020"""
+1437,true,Symptoms & Testing
+1438,true,Get Your Clinic Ready for Coronavirus Disease 2019 (COVID-19)
+1439,true,Recommended Precautions for Preventing Spread of COVID-19 in Election Polling Locations
+1440,true,Interim Guidance for Emergency Medical Services (EMS) Systems and 911 Public Safety Answering Points (PSAPs) for COVID-19 in the United States
+1441,true,Guidance for Institutions of Higher Education with Students Participating in International Travel or Study Abroad Programs
+1442,true,Updated Guidance on Evaluating and Testing Persons for Coronavirus Disease 2019 (COVID-19)
+1443,true,COVID-19 and Cruise Ship Travel
+1444,true,Checklist for Community and Faith Leaders
+1445,true,Preventing the Spread of Coronavirus Disease 2019 in Homes and Residential Communities
+1446,true,"""Active Monitoring of Persons Exposed to Patients with Confirmed COVID-19 — United States, January–February 2020"""
+1447,true,Strategies for Optimizing the Supply of N95 Respirators: Conventional Capacity Strategies
+1448,true,Interim Guidance for Healthcare Facilities
+1449,true,MMWR: Public Health Response to the Coronavirus Disease 2019 Outbreak— United States
+1450,true,Stigma Related to COVID-19
+1451,true,Healthcare Professional Preparedness Checklist For Transport and Arrival of Patients With Confirmed or Possible COVID-19
+1452,true,Interim Guidance for Ships on Managing Suspected Coronavirus Disease 2019
+1453,true,"""CDC Grows SARS-CoV-2, the virus that causes COVID-19, in Cell Culture"""
+1454,true,WHO and European Investment Bank strengthen efforts to combat COVID-19 and build resilient health systems to face future pandemics
+1455,true,"Global leaders unite to ensure everyone everywhere can access new vaccines, tests and treatments for COVID-19"
+1456,true,"""Support Nurses and Midwives through COVID-19 and beyond"""
+1457,true,"""WHO, UN Foundation and partners launch first-of-its-kind COVID-19 Solidarity Response Fund"""
+1458,true,"""Algeria’s COVID-19 hotline props up rapid response"""
+1459,true,"""Updated WHO Information Note: Ensuring continuity of TB services during the COVID-19 pandemic"""
+1460,true,"""COVID 19: Occupational Health"""
+1461,true,"""New COVID-19 hotline in Romania provides up-to-date public advice"""
+1462,true,"""WHO and UNICEF to partner on pandemic response through COVID-19 Solidarity Response Fund"""
+1463,true,"""WHO’s COVID19 technical support to Egypt"""
+1464,true,"""WHO Information Note: Ensuring continuity of TB services during the COVID-19 pandemic"""
+1465,true,"""Children’s story book released to help children and young people cope with COVID-19"""
+1466,true,"""WHO Timeline - COVID-19"""
+1467,true,"""COVID-19 medical supply to Afghanistan"""
+1468,true,"""Public statement for collaboration on COVID-19 vaccine development"""
+1469,true,"""GLOBAL NEWS: Busting myths on alcohol and COVID-19"""
+1470,true,"""WHO supports Djibouti with preparedness and response plan as first COVID19 case in the country is reported."""
+1471,true,"""Information sharing on COVID-19"""
+1472,true,"""Ensuring continuity of TB services during the COVID-19 pandemic"""
+1473,true,"""Bacille Calmette-Guérin (BCG) vaccination and COVID-19"""
+1474,true,"""European Commission supports WHO’s COVID19 response across Eastern Europe and the Caucasus"""
+1475,true,"""First UN solidarity flight departs Addis Ababa carrying vital COVID-19 medical supplies to all African nations"""
+1476,true,"""Iraq produces COVID-19 laboratory supplies to test cases more rapidly"""
+1477,true,"""A Joint Statement on Tourism and COVID-19 - UNWTO and WHO Call for Responsibility and Coordination"""
+1478,true,"""ICC-WHO Joint Statement: An unprecedented private sector call to action to tackle COVID-19"""
+1479,true,"""WHO advice - staying safe during season of religious and cultural events, amid the COVID-19 outbreak"""
+1480,true,"""WHO/PAHO support’s Haiti’s COVID-19 preparedness efforts"""
+1481,true,"""WHO Europe: preventing COVID-19 spread in prisons"""
+1482,true,"""New WHO tools for supplies and to help hospitals manage surge in COVID-19 patients"""
+1483,true,"""WHO urges countries to ensure the continuity of malaria services in the context of the COVID-19 pandemic"""
+1484,true,"""WHO delivers advice and support for older people during COVID-19"""
+1485,true,"""Medical Product Alert N°3/2020"""
+1486,true,"""Digital technology for COVID-19 response"""
+1487,true,"""Modes of transmission of virus causing COVID-19: implications for IPC precaution recommendations"""
+1488,true,"""WHO releases guidelines to help countries maintain essential health services during the COVID-19 pandemic"""
+1489,true,"""WHO in Africa holds first ‘hackathon’ for COVID-19"""
+1490,true,"""WHO delegation concludes COVID-19 technical mission to Egypt"""
+1491,true,"""Support for Lao PDR’s response to COVID-19"""
+1492,true,"""An online platform for COVID-19 guidance and research for the Americas region"""
+1493,true,"""WHO statement on cases of COVID-19 surpassing 100 000"""
+1494,true,"""Off-label use of medicines for COVID-19"""
+1495,true,"""Health System Response Monitor: WHO new tool analyses COVID-19 response measures across European countries"""
+1496,true,"""First UN solidarity flight departs Addis Ababa carrying vital COVID-19 medical supplies to all African nations"""
+1497,true,"""WHO lists two COVID-19 tests for emergency use"""
+1498,true,"""Joint Leader's statement - Violence against children: A hidden crisis of the COVID-19 pandemic"""
+1499,true,"""Advice on the use of point-of-care immunodiagnostic tests for COVID-19"""
+1500,true,"""“China shows COVID-19 responses must be tailored to the local context”"""
+1501,true,"""WHO calls for urgent, aggressive actions to combat COVID-19, as cases soar in South-East Asia Region"""
+1502,true,"""WHO/PAHO Prepares Barbados for COVID-19 Testing"""
+1503,true,"""Azerbaijan steps up COVID-19 preparedness and readiness measures"""
+1504,true,"""Scaling up contract tracing to combat COVID-19 in Kenya"""
+1505,true,"""WHO launches a chatbot on Facebook Messenger to combat COVID-19 misinformation"""
+1506,true,"""WHO updates COVID-19 dashboard with better data visualization"""
+1507,true,"""GLOBAL: More than 500,000 responders have signed up on WHO’s online COVID-19 courses"""
+1508,true,"""Azerbaijan steps up COVID-19 preparedness and readiness measures, welcoming WHO mission"""
+1509,true,"""OHCHR, IOM, UNHCR and WHO joint press release: the rights and health of refugees, migrants and stateless must be protected in COVID-19 response"""
+1510,true,"""GLOBAL: WHO has developed and made available online a tool for behavioural insights on COVID-19"""
+1511,true,"""Kyrgyzstan scaling up its preparedness, readiness and response capacities: COVID-19"""
+1512,true,"""WHO, Saudi Arabia join forces to fight COVID-19 in the Eastern Mediterranean Region and beyond"""
+1513,true,"""COVID-19: IFRC, UNICEF and WHO issue guidance to protect children and support safe school operations"""
+1514,true,"""Pass the message: Five steps to kicking out coronavirus"""
+1515,true,"""WHO Director-General calls on G20 to Fight, Unite, and Ignite against COVID-19"""
+1516,true,"""WHO Health Alert brings COVID-19 facts to billions via WhatsApp"""
+1517,true,"""First ever State of the World’s Nursing report launched amid COVID19 pandemic"""
+1518,true,"""WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)"""
+1519,true,"""Benin goes on digital offensive against COVID-19"""
+1520,true,"""National Ethics Committees and COVID-19"""
+1521,true,"""WHO launches online training for COVID-19 responders and 10-point strategy"""
+1522,true,"""WHO guidelines to help European countries maintain essential health services during the COVID 19 pandemic"""
+1523,true,"""WHO and Rakuten Viber fight COVID-19 misinformation with interactive chatbot"""
+1524,true,"""International working group on Ethics & COVID-19"""
+1525,true,"""WHO ships emergency medical supplies to the Islamic Republic of Iran"""
+1526,true,"""Shortage of personal protective equipment endangering health workers worldwide"""
+1527,true,"""IPA, WHO and UNICEF launch Read the World on International Children’s Book Day to support children and young people in isolation"""
+1528,true,"""‘One World: Together At Home’ Global Special"""
+1529,true,"""Statement of the Twenty-Fourth IHR Emergency Committee"""
+1530,true,"""WHO partners with WhatsApp, Facebook and Viber to bring most up to date and accurate information to billions of people"""
+1531,true,"""World experts and funders set priorities for COVID-19 research"""
+1532,true,"""Scaling up coronavirus outbreak readiness in Ethiopia and across Africa"""
+1533,true,"""WHO continues to support the fight against coronavirus in Syria"""
+1534,true,"""WHO works with countries from the South-East Asia Region"""
+1535,true,"""#BeActive for the UN International Day of Sport for Development and Peace"""
+1536,true,"""WHO supports fight to contain COVID-19 in Iraq"""
+1537,true,"""World TB Day 2020 Newsletter"""
+1538,true,"""WHO and partners call for urgent investment in nurses"""
+1539,true,"""#ThanksHealthHeros - World Health Day Message"""
+1540,true,"""New WHO recommendations to prevent tuberculosis aim to save millions of lives"""
+1541,true,"""Meeting Postponement: Preparing Together: Keeping the World Safe, Protecting Economies, Connecting Nations"""
+1542,true,"""Statement on the 5th meeting of the International Health Regulations (2005) Emergency Committee for Ebola virus disease in the Democratic Republic of the Congo on 14 April 2020"""
+1543,true,"""WHO Director-General’s Statement on IHR Emergency Committee on Ebola Virus Disease in the Democratic Republic of the Congo"""
+1544,true,"""World Health Worker Week - April  5 - 11, 2020"""
+1545,true,"""New Ebola case confirmed in the Democratic Republic of the Congo"""
+1546,true,"""World Tuberculosis Day 2020"""
+1547,true,"""Seventh advanced course on health financing for universal coverage for low- and middle-income countries"""
+1548,true,"""Strengthening accountability to end TB"""
+1549,true,"""WHO deploys rapid response teams to Italy"""
+1550,true,"""World TB Day 2020: It’s Time for solidarity"""
+1551,true,"""End in sight, but flare-ups likely in the Ebola outbreak in the Democratic Republic of the Congo"""
+1552,true,"""WHO and Iraq: Stepping up detection and response"""
+1553,true,"""World Blood Donor Day 2020"""
+1554,true,"""Eradicating dracunculiasis: Ethiopia investigates six suspected human cases in Gambella region"""
+10000,true,"""NC absentee ballots require 2 witnesses. Is that unique?"""
+10001,true,"""Virginia lags in coronavirus testing, as Mayor LeVar Stoney says"""
+10002,true,"""Joe Biden says Trump admin isn’t doing enough to protect workers from COVID-19"""
+10003,true,"""Still going in to work in Pennsylvania? Chances are, you're a low-wage worker, data show"""
+10004,true,"""Cuomo accurately says that other countries that reopened saw an increase in coronavirus infections"""
+10005,true,"""Yes, Africans are being evicted in China amid fear of second COVID-19 wave"""
+10006,true,"""Obama knocks GOP’s stance on preexisting conditions during pandemic"""
+10007,true,"""Louisiana governor is right, there was no suggestion Mardi Gras had to be canceled"""
+10008,true,"""Image of overcrowded NYC subway car is real"""
+10009,true,"""Yes, US shipped donated personal protective equipment to China in February"""
+10010,true,"""Will homemade masks stop coronavirus from spreading? Fact-checking Sen. Pat Toomey’s claim"""
+10011,true,"""Did FDA regulations slow testing for the coronavirus?"""
+10012,true,"""Cuomo correctly says no quarantine without state approval"""
+10013,true,"""Most NC legislators in 'high risk age group' for coronavirus"""
+10014,true,"""Internet providers offer free internet amid coronavirus shutdowns"""
+10015,true,"""How the Utah Jazz got 58 coronavirus tests when US testing is sluggish"""
+10016,true,"""In Italy, people must stay home except for work or emergencies"""
+10017,true,"""Yes, San Francisco residents formed Anti-Mask League during 1918 flu"""
+10018,true,"""Are stay-at-home orders 'laws,' as Jay Inslee said?"""
+10019,true,"""What the 1918 flu pandemic shows us about social distancing"""
+10020,true,"""Fact-checking posts about mass graves in NYC"""
+10021,true,"""In coronavirus relief effort, Congress fell short on paid sick leave"""
+10022,true,"""LA County sheriff’s deputies arrested a paddle boarder for violating the state’s stay-at-home order"""
+10023,true,"""For now, Texas among states with lowest coronavirus death rate"""
+10024,true,"""Study now says Wis. coronavirus cases will peak April 26. But that’s not the date that went viral."""
+10025,true,"""Some fast-food chains turn away truckers at drive-thru windows. One has offered a solution"""
+10026,true,"""Bill Gates warned in 2015 that we were unprepared for an infectious virus"""
+10027,true,"""Trump campaign ad is mostly right on provisions in Pelosi’s coronavirus bill"""
+10028,true,"""Did Pritzker lack authority to postpone the Illinois primary?"""
+10029,true,"""Yes, Wisconsin is the only state where all Republicans opposed coronavirus bill"""
+10030,true,"""Novel coronavirus could live up to 3 days, depending on the surface"""
+10031,true,"""Are 80 percent of coronavirus cases ""mild?"""""
+10032,true,"""Fact-checking Trump campaign claim on Biden’s 2009 swine flu comments"""
+10033,true,"""Lou Dobbs says United States ‘screening fewer people’ for coronavirus than other countries"""
+10034,true,"""Checking tweet about Chinese people detained with flu-like symptoms"""
