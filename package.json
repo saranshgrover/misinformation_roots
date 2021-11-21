@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@nivo/circle-packing": "^0.74.0",
+    "@nivo/swarmplot": "^0.74.0",
+    "date-fns": "^2.26.0"
+  }
+}
