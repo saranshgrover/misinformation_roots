@@ -7,9 +7,9 @@ import { useNavigate } from 'react-router'
 import { useFirebase } from '../hooks/useFirebase'
 import { useStore } from '../store/store'
 import SearchBar from './SearchBar'
-// import hashtagMap from '../hashtag_map.json'
+import hashtagMap from '../hashtag_map.json'
 // import tweets from '../consolidated_data.json'
-import { query, limit, orderBy, getDocs, collection, doc, setDoc } from "firebase/firestore";
+import { query, limit, orderBy, getDocs, collection, doc, setDoc, arrayUnion, updateDoc } from "firebase/firestore";
 
 
 export default function Home() {
@@ -20,16 +20,17 @@ export default function Home() {
 		// 	const topicRef = doc(db, 'topic_map', id)
 		// 	setDoc(topicRef, { tweet_ids: tweets })
 		// }
-		// async function setHashtagMap() {
-		// 	console.log(JSON.parse(hashtagMap[0].tweet_ids))
-		// 	for (const hashtag of hashtagMap) {
-		// 		const hashtagInfo = { hashtag: hashtag.hashtag, tweet_ids: JSON.parse(hashtag.tweet_ids) }
-		// 		hashtagInfo.count = hashtagInfo.tweet_ids.length
-		// 		const hashtagRef = doc(db, 'hashtags', hashtagInfo.hashtag)
-		// 		await setDoc(hashtagRef, hashtagInfo)
-		// 	}
-		// 	console.log('done')
-		// }
+		async function setHashtagMap() {
+			for (const hashtag of Object.keys(hashtagMap)) {
+				// const hashtagInfo = { hashtag: hashtag, tweet_ids: hashtagMap[hashtag] }
+				// hashtagInfo.count = hashtagInfo.tweet_ids.length
+				for (const tweet_id of hashtagMap[hashtag]) {
+					const tweetDoc = doc(db, 'tweets', tweet_id)
+					await updateDoc(tweetDoc, { hashtags: arrayUnion(hashtag) })
+				}
+			}
+			console.log('done')
+		}
 		async function getHashtags() {
 			const hashtagRef = collection(db, "hashtags")
 			const q = query(hashtagRef, orderBy("count", 'desc'), limit(20));

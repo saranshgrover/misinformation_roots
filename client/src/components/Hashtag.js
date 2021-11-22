@@ -1,26 +1,43 @@
-import { Box, Center } from '@chakra-ui/layout'
+import { Box, Center, Flex } from '@chakra-ui/layout'
+import { Text } from '@chakra-ui/react'
 import React from 'react'
 import { ResponsiveBar } from '@nivo/bar'
 import { useNavigate, useParams } from 'react-router'
 import { useStore } from '../store/store'
 import { FAKE_COLOR, REAL_COLOR } from '../consts'
-import { doc, getDoc, query, collection, limit, getDocs, orderBy } from "firebase/firestore";
+import { doc, getDoc, query, collection, limit, getDocs, where } from "firebase/firestore";
 import { useFirebase } from '../hooks/useFirebase'
 import { format } from 'date-fns'
 import { ResponsiveSwarmPlot } from '@nivo/swarmplot'
+import { StarIcon } from '@chakra-ui/icons'
+
+export function Tooltip({ props }) {
+	return (
+		<Box bg='twitter.400' maxW='40vw'>
+			<Flex direction="column" justify='center' alignItems='center'>
+				<Text>{props.data.text}</Text>
+				<Flex direction='row' justify='center' alignContent='center' alignItems='center'>
+					<StarIcon color='red' />
+					<Text color='red'>{props.data.favorite_count}</Text>
+				</Flex>
+			</Flex>
+		</Box>
+	)
+}
+
 
 export default function Hashtag() {
-	async function getTweetsFromHashtag(db, tweet_ids) {
+	async function getTweetsFromHashtag(db, hashtag) {
 		const tweets = []
 		const tweetRef = collection(db, "tweets")
-		const q = query(tweetRef, orderBy("text"), limit(100));
+		const q = query(tweetRef, where('hashtags', 'array-contains', hashtag), limit(100));
 		const snapshot = await getDocs(q);
 		snapshot.forEach(doc => {
 			tweets.push(doc.data())
 		})
 		return tweets
 		// for (const tweet_id of tweet_ids) {
-		// 	const docRef = doc(db, "tweets", tweet_id.toString());
+		// 	const docRef = doc(db, "tweets", tweet_id);
 		// 	const tweet = await getDoc(docRef)
 		// 	if (tweet.exists()) {
 		// 		tweets.push(tweet.data())
@@ -45,6 +62,7 @@ export default function Hashtag() {
 			return {
 				id: tweet.tweet_id,
 				favorite_count: Number(tweet.favorite_count),
+				text: tweet.text,
 				group: month,
 				type: tweet.veracity === 'TRUE' ? 'Real' : 'Fake',
 				index: Number(tweet.index),
@@ -69,7 +87,7 @@ export default function Hashtag() {
 	}, [params.hashtag, db])
 	React.useEffect(() => {
 		if (hashtag && hashtag.tweet_ids) {
-			getTweetsFromHashtag(db, hashtag.tweet_ids).then(tweets => setTweets(tweets))
+			getTweetsFromHashtag(db, hashtag.hashtag).then(tweets => setTweets(tweets))
 		}
 	}, [db, hashtag])
 	return (
@@ -77,6 +95,7 @@ export default function Hashtag() {
 			<Center h='100%'>
 				{data.length > 0 && groups.length > 0 &&
 					<ResponsiveSwarmPlot
+						tooltip={props => <Tooltip props={props} />}
 						data={data}
 						groups={groups}
 						colors={({ data }) => {
