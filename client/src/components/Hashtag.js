@@ -1,7 +1,6 @@
 import { Box, Center, Flex } from '@chakra-ui/layout'
 import { Text } from '@chakra-ui/react'
 import React from 'react'
-import { ResponsiveBar } from '@nivo/bar'
 import { useNavigate, useParams } from 'react-router'
 import { useStore } from '../store/store'
 import { FAKE_COLOR, REAL_COLOR } from '../consts'
@@ -10,6 +9,7 @@ import { useFirebase } from '../hooks/useFirebase'
 import { format } from 'date-fns'
 import { ResponsiveSwarmPlot } from '@nivo/swarmplot'
 import { StarIcon } from '@chakra-ui/icons'
+import Tweet from './Tweet'
 
 export function Tooltip({ props }) {
 	return (
@@ -30,22 +30,12 @@ export default function Hashtag() {
 	async function getTweetsFromHashtag(db, hashtag) {
 		const tweets = []
 		const tweetRef = collection(db, "tweets")
-		const q = query(tweetRef, where('hashtags', 'array-contains', hashtag), limit(100));
+		const q = query(tweetRef, where('favorite_count', '>', -1), where('hashtags', 'array-contains', hashtag));
 		const snapshot = await getDocs(q);
 		snapshot.forEach(doc => {
 			tweets.push(doc.data())
 		})
 		return tweets
-		// for (const tweet_id of tweet_ids) {
-		// 	const docRef = doc(db, "tweets", tweet_id);
-		// 	const tweet = await getDoc(docRef)
-		// 	if (tweet.exists()) {
-		// 		tweets.push(tweet.data())
-		// 	}
-		// }
-		// console.log(tweets)
-
-		// return tweets
 	}
 	let params = useParams()
 	const [tweets, setTweets] = React.useState([])
@@ -54,18 +44,21 @@ export default function Hashtag() {
 		let max = 0;
 		const groups = {}
 		const data = tweets.map(tweet => {
-			const date = new Date(tweet.created_at)
+			const date = tweet.created_at.toDate()
 			const month = format(date, 'MMMM yyyy')
 			groups[month] = date
-			min = Math.min(min, Number(tweet.favorite_count))
-			max = Math.max(max, Number(tweet.favorite_count))
+			min = Math.min(min, tweet.favorite_count)
+			max = Math.max(max, tweet.favorite_count)
+			console.log(tweet.type)
 			return {
 				id: tweet.tweet_id,
-				favorite_count: Number(tweet.favorite_count),
+				favorite_count: tweet.favorite_count,
+				retweet_count: tweet.retweet_count,
 				text: tweet.text,
 				group: month,
-				type: tweet.veracity === 'TRUE' ? 'Real' : 'Fake',
-				index: Number(tweet.index),
+				tweetType: `${tweet.veracity === 'true' ? 'Real' : 'Fake'} ${tweet.type ?? tweet.Type ?? ''}`,
+				index: tweet.index,
+				veracity: tweet.veracity,
 				fakeColor: FAKE_COLOR,
 				realColor: REAL_COLOR,
 			}
@@ -95,18 +88,24 @@ export default function Hashtag() {
 			<Center h='100%'>
 				{data.length > 0 && groups.length > 0 &&
 					<ResponsiveSwarmPlot
-						tooltip={props => <Tooltip props={props} />}
+						tooltip={props => <Tweet {...props.data} />}
 						data={data}
 						groups={groups}
 						colors={({ data }) => {
-							return data.type === 'Real' ? REAL_COLOR : FAKE_COLOR
+							return data.veracity === 'true' ? REAL_COLOR : FAKE_COLOR
 						}}
 						identity="id"
 						value="favorite_count"
 						valueScale={{ type: 'linear', min: min, max: max, reverse: false }}
-						size={{ key: 'favorite_count', values: [min, max], sizes: [6, 20] }}
+						size={{ key: 'favorite_count', values: [min, max], sizes: [6, 30] }}
 						forceStrength={4}
 						simulationIterations={100}
+						onClick={(d) => {
+							navigate(`/tweet/${d.data.id}`)
+						}}
+						isInteractive={true}
+						onMouseEnter={() => document.body.style.cursor = 'pointer'}
+						onMouseLeave={() => document.body.style.cursor = 'default'}
 						borderColor={{
 							from: 'color',
 							modifiers: [
@@ -135,7 +134,7 @@ export default function Hashtag() {
 							tickSize: 10,
 							tickPadding: 5,
 							tickRotation: 0,
-							legend: 'favorite_count',
+							legend: 'Number of Likes',
 							legendPosition: 'middle',
 							legendOffset: 76
 						}}
@@ -149,12 +148,14 @@ export default function Hashtag() {
 						}}
 						axisLeft={{
 							orient: 'left',
+							legend: 'Number of Likes',
 							tickSize: 10,
 							tickPadding: 5,
 							tickRotation: 0,
 							legendPosition: 'middle',
 							legendOffset: -76
 						}}
+
 					/>}
 				{/* <ResponsiveBar
 					axisBottom={{

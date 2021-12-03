@@ -14,7 +14,7 @@ export default function SearchBar() {
   const [searchInput, setSearchInput] = useState()
   const handleSearch = (e) => {
     e.preventDefault()
-    setHashtag(searchInput)
+    // setHashtag(searchInput)
     navigate(`/hashtag/${searchInput}`)
   }
   return (
