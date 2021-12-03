@@ -7,9 +7,12 @@ import { useNavigate } from 'react-router'
 import { useFirebase } from '../hooks/useFirebase'
 import { useStore } from '../store/store'
 import SearchBar from './SearchBar'
-import hashtagMap from '../hashtag_map.json'
-// import tweets from '../consolidated_data.json'
-import { query, limit, orderBy, getDocs, collection, doc, setDoc, arrayUnion, updateDoc } from "firebase/firestore";
+import hashtagMap1 from '../consolidated_data/consolidated_hashtags.json'
+import tweets1 from '../consolidated_data/05-consolidated_data.json'
+import tweets2 from '../consolidated_data/07-consolidated_data.json'
+import tweets3 from '../consolidated_data/09-consolidated_data.json'
+import tweets4 from '../consolidated_data/11-consolidated_data.json'
+import { query, limit, orderBy, getDocs, collection, doc, setDoc, arrayUnion, updateDoc, getDoc } from "firebase/firestore";
 
 
 export default function Home() {
@@ -21,12 +24,18 @@ export default function Home() {
 		// 	setDoc(topicRef, { tweet_ids: tweets })
 		// }
 		async function setHashtagMap() {
-			for (const hashtag of Object.keys(hashtagMap)) {
-				// const hashtagInfo = { hashtag: hashtag, tweet_ids: hashtagMap[hashtag] }
-				// hashtagInfo.count = hashtagInfo.tweet_ids.length
-				for (const tweet_id of hashtagMap[hashtag]) {
-					const tweetDoc = doc(db, 'tweets', tweet_id)
-					await updateDoc(tweetDoc, { hashtags: arrayUnion(hashtag) })
+			const hashtags = [hashtagMap1]
+			for (const hashtagObject of hashtags) {
+				for (const hashtag of Object.keys(hashtagObject)) {
+					console.log(hashtag)
+					const tweets = hashtagObject[hashtag].flat(Infinity)
+					const hashtagInfo = { hashtag: hashtag, tweet_ids: tweets, count: tweets.length }
+					const hashtagDoc = doc(db, 'hashtags', hashtag)
+					await setDoc(hashtagDoc, hashtagInfo)
+					for (const tweet_id of tweets) {
+						const tweetDoc = doc(db, 'tweets', tweet_id)
+						await updateDoc(tweetDoc, { hashtags: arrayUnion(hashtag) })
+					}
 				}
 			}
 			console.log('done')
@@ -41,13 +50,13 @@ export default function Home() {
 			})
 			return hashtagData
 		}
-		// async function setTweets() {
-		// 	for (const tweet of tweets) {
-		// 		const tweetRef = doc(db, 'tweets', tweet.tweet_id)
-		// 		await setDoc(tweetRef, tweet)
-		// 	}
-		// 	console.log('done')
-		// }
+		async function setTweets() {
+			for (const tweet of [...tweets1, ...tweets2, ...tweets3, ...tweets4]) {
+				const tweetRef = doc(db, 'tweets', tweet.tweet_id)
+				await setDoc(tweetRef, { ...tweet, veracity: tweet.veracity.toLowerCase(), hashtags: [], created_at: new Date(tweet.created_at), favorite_count: parseInt(tweet.favorite_count), retweet_count: parseInt(tweet.retweet_count), index: parseInt(tweet.index) })
+			}
+			console.log('done')
+		}
 		// setTweets()
 		// setHashtagMap()
 		getHashtags().then(data => setTags(data))

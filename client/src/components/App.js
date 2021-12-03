@@ -11,7 +11,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Home from './Home';
 import Hashtag from './Hashtag';
-import Tweet from './Tweet';
+import TweetDisplay from './TweetDisplay';
 import Header from './Header';
 import { useStore } from '../store/store';
 import BubbleChart from './BubbleChart';
@@ -28,7 +28,7 @@ function App() {
           <Routes>
             <Route path="/hashtag/:hashtag" element={<Hashtag />} />
             <Route path="/hashtag/:hashtag/:month" element={<BubbleChart />} />
-            <Route path="tweet/:tweetId" element={<Tweet />} />
+            <Route path="tweet/:tweetId" element={<TweetDisplay />} />
             <Route path="/" element={<Home />} />
           </Routes>
         </BrowserRouter>
