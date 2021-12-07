@@ -4,7 +4,7 @@ import React from 'react'
 import { useNavigate, useParams } from 'react-router'
 import { useStore } from '../store/store'
 import { FAKE_COLOR, REAL_COLOR } from '../consts'
-import { doc, getDoc, query, collection, limit, getDocs, where } from "firebase/firestore";
+import { doc, getDoc, query, collection, limit, getDocs, where, orderBy } from "firebase/firestore";
 import { useFirebase } from '../hooks/useFirebase'
 import { format } from 'date-fns'
 import { ResponsiveSwarmPlot } from '@nivo/swarmplot'
@@ -30,7 +30,13 @@ export default function Hashtag() {
 	async function getTweetsFromHashtag(db, hashtag) {
 		const tweets = []
 		const tweetRef = collection(db, "tweets")
-		const q = query(tweetRef, where('favorite_count', '>', -1), where('hashtags', 'array-contains', hashtag));
+		let q;
+		if (hashtag === 'top_fake')
+			q = query(tweetRef, orderBy("favorite_count", "desc"), where("veracity", "==", "false"), limit(300));
+		else if (hashtag === 'top_real')
+			q = query(tweetRef, orderBy("favorite_count", "desc"), where("veracity", "==", "true"), limit(300));
+		else
+			q = query(tweetRef, where('favorite_count', '>', 0), where('hashtags', 'array-contains', hashtag));
 		const snapshot = await getDocs(q);
 		snapshot.forEach(doc => {
 			tweets.push(doc.data())
@@ -71,15 +77,20 @@ export default function Hashtag() {
 	const [hashtag, setHashtag] = useStore(s => [s.hashtag, s.setHashtag])
 	React.useEffect(() => {
 		if (!hashtag && params.hashtag) {
-			const hashtagDoc = doc(db, 'hashtags', params.hashtag)
-			getDoc(hashtagDoc).then(doc => {
-				setHashtag(doc.data())
-			})
+			if (params.hashtag === 'top_fake' || params.hashtag === 'top_real') {
+				setHashtag({ hashtag: params.hashtag })
+			}
+			else {
+				const hashtagDoc = doc(db, 'hashtags', params.hashtag)
+				getDoc(hashtagDoc).then(doc => {
+					setHashtag(doc.data())
+				})
+			}
 		}
 		// eslint-disable-next-line react-hooks/exhaustive-deps
 	}, [params.hashtag, db])
 	React.useEffect(() => {
-		if (hashtag && hashtag.tweet_ids) {
+		if (hashtag && (hashtag.tweet_ids || hashtag.hashtag === 'top_fake' || hashtag.hashtag === 'top_real')) {
 			getTweetsFromHashtag(db, hashtag.hashtag).then(tweets => setTweets(tweets))
 		}
 	}, [db, hashtag])

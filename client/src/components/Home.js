@@ -88,6 +88,16 @@ export default function Home() {
 			<Center>
 				<SkeletonText noOfLines={4} spacing="4" isLoaded={tags.length !== 0} />
 				<Wrap spacing={4} mx='10em'>
+					<Tag as='button' onClick={() => {
+						navigate(`/hashtag/top_fake`)
+					}} size={'lg'} key={'top_fake'} variant="solid" colorScheme='red'>
+						{`Top Fake`}
+					</Tag>
+					<Tag as='button' onClick={() => {
+						navigate(`/hashtag/top_real`)
+					}} size={'lg'} key={'top_fake'} variant="solid" colorScheme='green'>
+						{`Top Real`}
+					</Tag>
 					{tags.map((tag) => (
 						<Tag as='button' onClick={() => {
 							setHashtag(tag)

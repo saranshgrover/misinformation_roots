@@ -27,7 +27,7 @@ export default function SearchBar() {
           value={searchInput}
           variant='outline'
           bg='primary.700'
-          placeholder='Search for a keyword'
+          placeholder='Search for a Hashtag'
           borderWidth={1}
           _focus={{
             borderColor: 'secondary.300',
